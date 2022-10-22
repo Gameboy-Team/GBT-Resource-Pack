@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/sword/odachi/water",
+		"particle": "rpg/weapon/sword/odachi/water"
+	},
+	"parent": "rpg/weapon/sword/odachi/parent_swing"
+}

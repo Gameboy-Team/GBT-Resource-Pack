@@ -1,0 +1,7 @@
+{
+	"parent": "furniture/kyc/half_slab/parent",
+	"textures": {
+		"0": "block/white_terracotta",
+		"particle": "block/white_terracotta"
+	}
+}

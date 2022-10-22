@@ -1,0 +1,6 @@
+{
+	"parent": "furniture/kyc/laptop/parent",
+	"textures": {
+		"2": "furniture/kyc/laptop/3"
+	}
+}

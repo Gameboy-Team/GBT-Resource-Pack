@@ -1,0 +1,7 @@
+{
+	"parent": "furniture/kyc/half_slab/parent",
+	"textures": {
+		"0": "block/moss_block",
+		"particle": "block/moss_block"
+	}
+}

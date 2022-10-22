@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gbtan/jelled_slime_leggings",
+        "layer1": "gbtan/jelled_slime_leggings"
+    }
+}

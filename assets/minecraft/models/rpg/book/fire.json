@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "rpg/book/fire",
+		"particle": "rpg/book/fire"
+	},
+	"parent": "rpg/book/book_parent"
+}

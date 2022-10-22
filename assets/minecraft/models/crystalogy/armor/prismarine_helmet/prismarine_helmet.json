@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "crystalogy/armor/prismarine_helmet/prismarine_helmet",
+        "layer1": "crystalogy/armor/prismarine_helmet/prismarine_helmet"
+    }
+}

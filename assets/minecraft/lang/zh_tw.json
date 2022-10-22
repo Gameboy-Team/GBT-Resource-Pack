@@ -1,0 +1,462 @@
+{
+  "spacetech.gui.progress": "進度：",
+  "spacetech.gui.fuel_left": "剩餘燃料量（岩漿）：",
+  "spacetech.molten_furnace_controller": "熔煉爐控制器",
+  "spacetech.molten_furnace_output": "熔煉爐輸出口",
+  "spacetech.energy_bank": "儲能電容器",
+  "spacetech.stirling_generator": "史特林發動機",
+  "spacetech.electrical_furnace": "電動熔爐",
+  "spacetech.electrolyzer": "電解器",
+  "spacetech.resistor": "電阻器",
+  "spacetech.industrial.conduits.energy_conduit": "能量輸送管道",
+  "spacetech.gui.incorrect_multiblock": "多重方塊結構錯誤",
+  "spacetech.item.ore_chunk.aluminium": "鋁土礦",
+  "spacetech.item.ore_chunk.magnesium": "菱鎂礦",
+  "spacetech.item.ore_chunk.iron": "赤鐵礦",
+  "spacetech.gui.molten_aluminium": "液態鋁：",
+  "spacetech.gui.molten_magnesium": "液態鎂：",
+  "spacetech.gui.molten_iron": "液態鐡：",
+  "spacetech.gui.molten_aluminium_oxide": "液態氧化鋁：",
+  "spacetech.gui.molten_magnesium_oxide": "液態氧化鎂：",
+  "spacetech.gui.insert_lava_bucket": "於上方輸入熔岩桶",
+  "spacetech.gui.joules_left": "能量：",
+  "spacetech.gui.joules_per_sec": "能量每秒：",
+  "spacetech.item.dust.iron_powder": "鐵粉",
+  "spacetech.item.wooden_hammer": "木錘",
+  "spacetech.item.stone_hammer": "石錘",
+  "spacetech.item.iron_hammer": "鐵錘",
+  "spacetech.item.golden_hammer": "金錘",
+  "spacetech.item.diamond_hammer": "鑽石錘",
+  "spacetech.item.netherite_hammer": "獄髓錘",
+  "spacetech.item.coal_piece": "碳塊",
+  "spacetech.item.aluminium_can": "鋁罐",
+  "spacetech.item.bucket.molten_iron": "液態鐵桶",
+  "spacetech.item.bucket.molten_magnesium": "液態鎂桶",
+  "spacetech.item.bucket.molten_aluminium": "液態鋁桶",
+  "spacetech.item.bucket.molten_magnesium_oxide": "液態氧化鎂桶",
+  "spacetech.item.bucket.molten_aluminium_oxide": "液態氧化鋁桶",
+  "spacetech.item.gear.copper_gear": "銅製齒輪",
+  "spacetech.item.parts.power_crystal": "能量水晶",
+  "furniture.studentdesk1": "學生檯 (1)",
+  "furniture.aircon1": "空調 (1)",
+  "furniture.teacherdesk1": "教師檯 (1)",
+  "furniture.studentchair1": "學生座 (1)",
+  "furniture.benchoak": "長凳 (橡木)",
+  "furniture.benchbirch": "長凳 (樺木)",
+  "furniture.benchspruce": "長凳 (樺木)",
+  "furniture.benchjungle": "長凳 (杉木)",
+  "furniture.benchacacia": "長凳 (相思木)",
+  "furniture.benchdarkoak": "長凳 (黑橡木)",
+  "furniture.benchcrimson": "長凳 (菲紅木)",
+  "furniture.benchwarped": "長凳 (扭曲木)",
+  "furniture.barrel1": "木桶 - 1",
+  "furniture.barrel1.locked": "木桶 - 1 (上鎖)",
+  "furniture.anvil": "鐵砧",
+  "furniture.rounded_table_1.oak": "圓桌 - 1 (橡木)",
+  "furniture.rounded_table_1.birch": "圓桌 - 1 (樺木)",
+  "furniture.rounded_table_1.spruce": "圓桌 - 1 (杉木)",
+  "furniture.rounded_table_1.jungle": "圓桌 - 1 (叢林木)",
+  "furniture.rounded_table_1.acacia": "圓桌 - 1 (相思木)",
+  "furniture.rounded_table_1.darkoak": "圓桌 - 1 (黑橡木)",
+  "furniture.rounded_table_1.crimson": "圓桌 - 1 (緋紅蕈木)",
+  "furniture.rounded_table_1.warped": "圓桌 - 1 (扭曲蕈木)",
+  "furniture.rounded_table_1.stone": "圓桌 - 1 (石頭)",
+  "furniture.rounded_table_1.cobblestone": "圓桌 - 1 (鵝卵石)",
+  "furniture.rounded_table_1.mossycobblestone": "圓桌 - 1 (青苔鵝卵石)",
+  "furniture.rounded_table_1.cutsandstone": "圓桌 - 1 (切制砂岩)",
+  "furniture.rounded_table_1.cutredsandstone": "圓桌 - 1 (切制紅砂岩)",
+  "furniture.rounded_table_1.deepslate": "圓桌 - 1 (深板岩)",
+  "furniture.rounded_table_1.polisheddiorite": "圓桌 - 1 (拋光閃長岩)",
+  "furniture.rounded_table_1.polishedandesite": "圓桌 - 1 (拋光安山岩)",
+  "furniture.rounded_table_1.polishedgranite": "圓桌 - 1 (拋光花崗岩)",
+  "furniture.rounded_table_1.smoothstone": "圓桌 - 1 平滑石頭)",
+  "furniture.rounded_table_1.polishedblackstone": "圓桌 - 1 (抛光黑石)",
+  "furniture.rounded_table_1.stonebricks": "圓桌 - 1 (石磚)",
+  "furniture.rounded_table_1.quartz": "圓桌 - 1 (石英)",
+  "furniture.smithing_table_1": "工匠台 - 1",
+  "furniture.smithing_table_2": "工匠台 - 2",
+  "furniture.orange_juice": "橙汁",
+  "furniture.apple_juice": "蘋果汁",
+  "furniture.lemonade": "檸檬汁",
+  "furniture.shelf": "櫃架",
+  "furniture.stone_path": "石春路",
+  "furniture.magic_carpet": "魔法飛氈",
+  "furniture.short_benchoak": "短凳 (橡木)",
+  "furniture.short_benchbirch": "短凳 (樺木)",
+  "furniture.short_benchspruce": "短凳 (樺木)",
+  "furniture.short_benchjungle": "短凳 (杉木)",
+  "furniture.short_benchacacia": "短凳 (相思木)",
+  "furniture.short_benchdarkoak": "短凳 (黑橡木)",
+  "furniture.short_benchcrimson": "短凳 (菲紅木)",
+  "furniture.short_benchwarped": "短凳 (扭曲木)",
+  "furniture.globe_copper": "地球儀 (銅)",
+  "furniture.globe_gold": "地球儀 (金)",
+  "furniture.globe_oxidized_copper": "地球儀 (氧化銅)",
+  "furniture.crop_plot.oak": "盆栽 (橡木)",
+  "furniture.crop_plot.birch": "盆栽 (樺木)",
+  "furniture.crop_plot.spruce": "盆栽 (樺木)",
+  "furniture.crop_plot.jungle": "盆栽 (杉木)",
+  "furniture.crop_plot.acacia": "盆栽 (相思木)",
+  "furniture.crop_plot.darkoak": "盆栽 (黑橡木)",
+  "furniture.crop_plot.crimson": "盆栽 (菲紅木)",
+  "furniture.crop_plot.warped": "盆栽 (扭曲木)",
+  "furniture.crop_plot.stripped_oak": "盆栽 (剝皮橡木)",
+  "furniture.crop_plot.stripped_birch": "盆栽 (剝皮樺木)",
+  "furniture.crop_plot.stripped_spruce": "盆栽 (剝皮樺木)",
+  "furniture.crop_plot.stripped_jungle": "盆栽 (剝皮杉木)",
+  "furniture.crop_plot.stripped_acacia": "盆栽 (剝皮相思木)",
+  "furniture.crop_plot.stripped_darkoak": "盆栽 (剝皮黑橡木)",
+  "furniture.crop_plot.stripped_crimson": "盆栽 (剝皮菲紅木)",
+  "furniture.crop_plot.stripped_warped": "盆栽 (剝皮扭曲木)",
+  "furniture.misc.locker1": "儲物櫃 - 1",
+  "furniture.misc.half_white_concrete": "半白色混凝土",
+  "furniture.misc.double_vert_slab": "雙層垂直半磚",
+  "furniture.misc.double_vert_slab.light_blue_terracotta_light_gray_concrete": "雙層垂直半磚 (淡藍色陶瓦 + 淺灰色混凝土)",
+  "furniture.misc.ceiling_fan1": "吊扇 - 1",
+  "furniture.misc.laptop": "手提電腦",
+  "furniture.wrench": "扳手",
+  "furniture.wrench.lore1": "【右鍵】 ",
+  "furniture.wrench.lore2": "對著想轉動的傢俬按下【右鍵】 (方位)",
+  "furniture.wrench.lore3": "【Shift + 右鍵】 ",
+  "furniture.wrench.lore4": "對著想旋轉的傢俬按下【Shift + 右鍵】 (旋轉)",
+  "furniture.remote": "遙控器",
+  "furniture.remote.lore1": "【右鍵】 ",
+  "furniture.remote.lore2": "對著想更改設定的傢俬按下【右鍵】 (可調教選項一)",
+  "furniture.remote.lore3": "【Shift + 右鍵】 ",
+  "furniture.remote.lore4": "對著想更改設定的傢俬按下【Shift + 右鍵】 (可調教選項二)",
+  "furniture.gui.chairs": "椅子",
+  "furniture.gui.table": "桌子",
+  "furniture.gui.environmental": "生態類",
+  "furniture.gui.misc": "其他",
+  "furniture.gui.responsive": "互動",
+  "furniture.gui.menu": "傢俬目錄",
+  "furniture.gui.back": "回到目錄",
+  "furniture.gui.rounded_table_1": "圓桌 - 1 (列表)",
+  "furniture.gui.crop_plot": "盆栽 (列表)",
+  
+  "werewolf.game.name": "狼人殺",
+  "werewolf.game.win.werewolf": "狼人勝利",
+  "werewolf.game.win.villagers": "村民勝利",
+
+  "werewolf.time.day": "早上",
+  "werewolf.time.night": "夜晚",
+  "werewolf.item.voting_knife": "票人劍",
+  "werewolf.item.voting_knife.lore.1": "被這武器擊中的玩家會被投票。",
+  "werewolf.item.voting_knife.lore.2": "每天早上最高票數的玩家將會被處死。",
+  "werewolf.item.voting_knife.lore.3": "",
+
+
+  "werewolf.item.officers_batton": "警棍",
+  "werewolf.item.officers_batton.lore.1": "被這武器擊中的玩家會被投兩票。",
+  "werewolf.item.officers_batton.lore.2": "每天早上最高票數的玩家將會被處死。",
+  "werewolf.item.officers_batton.lore.3": "",
+
+  "werewolf.item.unvote": "取消投票【右鍵】",
+
+  "werewolf.item.fortune.book.check": "【查閲】 ",
+  "werewolf.item.fortune.book.yeswolf": "在你的眼中， %s 像是一隻狼。",
+  "werewolf.item.fortune.book.nowolf": "%s 不多像是狼。",
+  
+  "werewolf.item.ability.wolf.sight": "透視之眼【右鍵】",
+  "werewolf.item.ability.wolf.movement": "瞬速移動【右鍵】",
+  "werewolf.item.ability.wolf.gear": "穿上武器和裝甲【右鍵】",
+  "werewolf.item.ability.wolf.gear_off": "脫下武器和裝甲【右鍵】",
+  
+  "werewolf.item.ability.witch.invisible": "獲取隱形藥水【右鍵】",
+  "werewolf.item.ability.witch.invulnerable": "獲取無敵藥水【右鍵】",
+  "werewolf.item.ability.witch.poison": "獲取毒藥【右鍵】",
+  
+  "werewolf.item.witch.invisible": "隱形藥水",
+  "werewolf.item.witch.invulnerable": "無敵藥水",
+  "werewolf.item.witch.poison": "毒藥",
+  
+  "werewolf.item.ability.fortune.book": "獲取神諭【右鍵】",
+  "werewolf.item.ability.fortune.wolf_glow": "尋狼之眼【右鍵】",
+  "werewolf.item.fortune.book": "神諭",
+
+  "werewolf.item.ability.guardian.book": "獲取守護之書【右鍵】",
+  "werewolf.item.guardian.book": "守護之書",
+  "werewolf.item.guardian.book.protect": "【守護】 ",
+  "werewolf.item.guardian.book.success": "今晚你會守護著 %s 。",
+  "werewolf.item.guardian.book.fail.someone_protected": "%s 已經被守護了。",
+  "werewolf.item.guardian.book.fail.same_with_last": "你上次已經守護了 %s 。",
+  "werewolf.item.ability.guardian.invulnerable": "範圍無敵【右鍵】",
+  "werewolf.item.ability.guardian.long_invulnerable": "無敵之軀【右鍵】",
+
+
+  "werewolf.item.ability.old_wolf.fake_book": "獲取假書【右鍵】",
+  "werewolf.item.old_wolf.fake_book": "假書",
+  "werewolf.item.ability.old_wolf.fake_potion": "獲取*假*藥水【右鍵】",
+  "werewolf.item.old_wolf.fake_invulnerable": "*假*無敵藥水",
+  "werewolf.item.old_wolf.fake_invisibility": "*假*隱形藥水",
+  "werewolf.item.old_wolf.fake_poison": "*假*毒藥",
+
+  "werewolf.item.ability.instant_barrier": "即時屏障【右鍵】",
+
+
+
+
+
+  "werewolf.messages.votes.prefix": "【投票】 ",
+  "werewolf.messages.votes.voter": "你投了給 %s。",
+  "werewolf.messages.votes.receiver": "你被 %s 票了。",
+  
+  "werewolf.messages.revokevote.prefix": "【投票】 ",
+  "werewolf.messages.revokevote.voter": "你取消了向 %s 的投票。",
+  "werewolf.messages.revokevote.receiver": "%s 向你的投票取消了。",
+
+  "werewolf.messages.kill.prefix": "【擊殺】 ",
+  "werewolf.messages.kill.wolf.killer": "你殺了 %s。",
+  "werewolf.messages.kill.wolf.dead": "你被狼殺了。",
+
+  "werewolf.messages.kill.witch.poison": "%s 被女巫毒死了。",
+
+  "werewolf.tutorial.prefix.class": "【角色】   ",
+  "werewolf.tutorial.prefix.camp": "【陣營】 ",
+  "werewolf.tutorial.prefix.players": "【人數】 ",
+  "werewolf.tutorial.prefix.ability": "【能力】 ",
+  "werewolf.tutorial.prefix.aim": "【目標】 ",
+
+
+  "werewolf.tutorial.villager.class": "村民",
+  "werewolf.tutorial.villager.camp": "  好人陣營",
+  "werewolf.tutorial.villager.ability": "  遊手好閑好吃懶做，起身等食飯食飯等瞓覺。",
+  "werewolf.tutorial.villager.aim": "  隨著好人陣營獲勝，然後就躺分了一場。",
+
+  "werewolf.tutorial.wolf.class": "狼人",
+  "werewolf.tutorial.wolf.camp": "  狼人陣營",
+  "werewolf.tutorial.wolf.players": "  %s 人",
+  "werewolf.tutorial.wolf.ability": "  每天夜裏可以殺死玩家。",
+  "werewolf.tutorial.wolf.aim": "  白天裝作好人混淆視聽，夜晚襲擊村民，霸佔村莊。",
+
+  "werewolf.tutorial.witch.class": "女巫",
+  "werewolf.tutorial.witch.camp": "  好人陣營，神職",
+  "werewolf.tutorial.witch.players": "  %s 人",
+  "werewolf.tutorial.witch.ability": "  女巫早上會有一支毒藥，用來殺死懷疑是狼的玩家。\n            每晚則擁有兩瓶藥，一支隱形藥以及一支無敵藥。",
+  "werewolf.tutorial.witch.aim": "  善用藥物，驅逐全部狼人出局。",
+  
+  "werewolf.tutorial.fortune.class": "預言家",
+  "werewolf.tutorial.fortune.camp": "  好人陣營，神職",
+  "werewolf.tutorial.fortune.players": "  %s 人",
+  "werewolf.tutorial.fortune.ability": "  每天晚上可以查驗一名玩家的身份是好人還是狼人。",
+  "werewolf.tutorial.fortune.aim": "  利用自己的能力帶領大家找出，驅逐所有狼人！",
+  
+  "werewolf.tutorial.guardian.class": "守衛",
+  "werewolf.tutorial.guardian.camp": "  好人陣營，神職",
+  "werewolf.tutorial.guardian.players": "  %s 人",
+  "werewolf.tutorial.guardian.ability": "  每天早上可以選擇一個玩家守護。",
+  "werewolf.tutorial.guardian.aim": "  利用自己的能力守護大家，躲避狼人的襲擊！",
+
+  "werewolf.tutorial.old_wolf.class": "老狼",
+  "werewolf.tutorial.old_wolf.camp": "  狼人陣營，特殊",
+  "werewolf.tutorial.old_wolf.players": "  %s 人",
+  "werewolf.tutorial.old_wolf.ability": "  每天夜裏可以殺死玩家。除此之外，能夠利用特別物品騙過玩家，扮成其他職業。",
+  "werewolf.tutorial.old_wolf.aim": "  使用特別的技能，把村民騙過再殺死，霸佔村莊。",
+  
+  "werewolf.tutorial.mermaid.class": "人魚",
+  "werewolf.tutorial.mermaid.camp": "  好人陣營，神職",
+  "werewolf.tutorial.mermaid.players": "  %s 人",
+  "werewolf.tutorial.mermaid.ability": "  每天夜裏可以放置一個即時屏障，拖延狼人的追擊。",
+  "werewolf.tutorial.mermaid.aim": "  利用自己的能力守護大家，躲避狼人的襲擊！",
+
+  "werewolf.tutorial.jackal.class": "豺狼",
+  "werewolf.tutorial.jackal.camp": "  狼人陣營，特殊",
+  "werewolf.tutorial.jackal.players": "  %s 人",
+  "werewolf.tutorial.jackal.ability": "  每天夜裏可以殺死玩家。除此之外，夜裏能夠追蹤一名隨機玩家。當該名玩家死後，將抽下一位玩家。",
+  "werewolf.tutorial.jackal.aim": "  使用特別的技能，跟蹤並殺死村民，霸佔村莊。",
+
+
+  "werewolf.name.spectator.prefix": "【旁觀者】 ",
+
+  
+
+  "werewolf.actionbar.you_are": "你是 ",
+  "werewolf.actionbar.you_are_an": "你是 ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "rpg.enchantments.knockback.1": "擊退 I",
+  "rpg.enchantments.knockback.2": "擊退 II",
+  "rpg.enchantments.knockback.3": "擊退 III",
+  "rpg.enchantments.knockback.4": "擊退 IV",
+  "rpg.enchantments.knockback.5": "擊退 V",
+
+  "rpg.effects.glowing": "發光",
+  "rpg.effects.blindness": "致盲",
+  "rpg.effects.invisible": "隱形",
+  "rpg.effects.invisiblity": "隱形",
+
+
+  "rpg.equipment.main_hand": "慣用手",
+  "rpg.equipment.offhand": "非慣用手",
+  "rpg.equipment.helmet": "頭盔",
+  "rpg.equipment.chestplate": "胸甲",
+  "rpg.equipment.leggings": "護腿",
+  "rpg.equipment.boots": "靴子",
+
+
+
+
+
+  
+  "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
+  "dv2.ability.dagger.1.0": "右鍵時造成匕首原本傷害的",
+  "dv2.ability.dagger.1.1": "0.5",
+  "dv2.ability.dagger.1.2": "倍",
+  "dv2.ability.dagger.2.0": "在非慣用手裝備另一把匕首",
+  "dv2.ability.dagger.2.1": "能夠讓傷害提升",
+  "dv2.ability.dagger.2.2": "2",
+  "dv2.ability.dagger.2.3": "倍",
+
+  "dv2.ability.longsword.0.0": "長劍 (右鍵發動)",
+  "dv2.ability.longsword.1.0": "右鍵時造成長劍原本傷害的",
+  "dv2.ability.longsword.1.1": "1.5",
+  "dv2.ability.longsword.1.2": "倍",
+  "dv2.ability.longsword.2.0": "(此攻擊有更長的攻擊範圍)",
+
+  "dv2.ability.greatsword.0.0": "巨劍 (右鍵發動)",
+  "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害的",
+  "dv2.ability.greatsword.1.1": "1.5",
+  "dv2.ability.greatsword.1.2": "倍",
+  "dv2.ability.greatsword.2.0": "（需要大量的體力，並會減緩你的速度）",
+
+
+
+
+
+
+
+
+
+
+  "dv2.weapon.melee.baseball_bat": "棒球棍",
+  "dv2.weapon.melee.baseball_bat.description": "電子遊戲中的經典近戰武器",
+
+  "dv2.weapon.melee.iron_sword": "鐵劍",
+  "dv2.weapon.melee.iron_sword.description": "由技術精湛的鐵匠製作",
+
+  "dv2.weapon.melee.dark_knife": "黑刃",
+  "dv2.weapon.melee.dark_knife.description": "刺客？ 黑刃？ Trivago.",
+
+  "dv2.ability.dark_knife.1.0.0": "影潛者",
+  "dv2.ability.dark_knife.1.1.0": "手持這把武器時",
+  "dv2.ability.dark_knife.1.2.0": "免疫",
+  "dv2.ability.dark_knife.1.2.2": "效果",
+  
+  "dv2.ability.dark_knife.2.0.0": "隱秘性",
+  "dv2.ability.dark_knife.2.1.0": "在",
+  "dv2.ability.dark_knife.2.1.2": "狀態下手持此武器時",
+  "dv2.ability.dark_knife.2.2.0": "將會被增益",
+  "dv2.ability.dark_knife.2.2.1": " 5點暗屬性DMG",
+  "dv2.ability.dark_knife.2.2.2": " 和 ",
+  "dv2.ability.dark_knife.2.2.3": "20%SPD",
+  "dv2.ability.dark_knife.2.2.4": "",
+
+  "dv2.weapon.melee.diamond_sword": "鑽石劍",
+  "dv2.weapon.melee.diamond_sword.description": "做的好性交下界合金 -- Baidu Translate",
+
+  "dv2.weapon.melee.excalibur": "王者之劍",
+  "dv2.weapon.melee.excalibur.description": "力量的代價",
+
+  "dv2.ability.excalibur.1.0.0": "金光璀璨的聖劍",
+  "dv2.ability.excalibur.1.1.0": "手持這把武器時將會獲得",
+  "dv2.ability.excalibur.1.1.2": " I",
+  "dv2.ability.excalibur.1.1.3": " 效果",
+
+  "dv2.ability.excalibur.2.0.0": "王者的意志",
+  "dv2.ability.excalibur.2.1.0": "在生命值低於40%時增加",
+  "dv2.ability.excalibur.2.1.1": "10點光屬性DMG",
+  "dv2.ability.excalibur.2.1.2": "",
+
+
+  "dv2.weapon.melee.giant_sword": "巨人之劍",
+  "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍",
+
+  "dv2.ability.giant_sword.1.0.0": "防禦是最好的攻擊",
+  "dv2.ability.giant_sword.1.1.0": "以自身DEF的",
+  "dv2.ability.giant_sword.1.1.1": "10%",
+  "dv2.ability.giant_sword.1.1.2": "化作為DMG",
+
+
+
+  "dv2.weapon.melee.soul_scythe": "掠魂之鐮",
+  "dv2.weapon.melee.soul_scythe.description": "吞噬靈魂，將其化作鐮刀的一部分",
+
+  "dv2.ability.soul_scythe.1.0.0": "聚魂者",
+  "dv2.ability.soul_scythe.1.1.0": "每次擊殺都會增加 ",
+  "dv2.ability.soul_scythe.1.1.2": " DMG 和 ",
+  "dv2.ability.soul_scythe.1.1.4": " STR (最多5次)",
+
+  "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
+  "dv2.ability.soul_scythe.2.1.0": "對生命值低於",
+  "dv2.ability.soul_scythe.2.1.1": "\uF82333% ",
+  "dv2.ability.soul_scythe.2.1.2": "",
+  "dv2.ability.soul_scythe.2.1.3": "",
+  "dv2.ability.soul_scythe.2.1.4": "HP的敵人造成",
+  "dv2.ability.soul_scythe.2.2.0": "",
+  "dv2.ability.soul_scythe.2.2.1": "",
+  "dv2.ability.soul_scythe.2.2.2": "",
+  "dv2.ability.soul_scythe.2.2.3": "30% ",
+  "dv2.ability.soul_scythe.2.2.4": "的額外傷害",
+
+  "dv2.weapon.melee.vampire_tooth": "吸血鬼之牙",
+  "dv2.weapon.melee.vampire_tooth.description": "我偷走了吸血鬼的牙 :D",
+
+  "dv2.ability.vampire_tooth.1.0.0": "血魔視覺",
+  "dv2.ability.vampire_tooth.1.1.0": "手持這把武器時免疫",
+  "dv2.ability.vampire_tooth.1.1.2": "效果",
+
+  "dv2.ability.vampire_tooth.2.0.0": "恐光症",
+  "dv2.ability.vampire_tooth.2.1.0": "在擁有",
+  "dv2.ability.vampire_tooth.2.1.2": "效果時獲得",
+  "dv2.ability.vampire_tooth.2.2.0": "，同時減少",
+  "dv2.ability.vampire_tooth.2.2.2": "",
+
+
+  "dv2.weapon.shield.wooden_shield": "木盾",
+  "dv2.weapon.shield.wooden_shield.description": "您會從RPG遊戲中的初始NPC那裡獲得的盾牌",
+
+  "dv2.weapon.shield.iron_shield": "鐵盾",
+  "dv2.weapon.shield.iron_shield.description": "哇哦好閃哦哦哦",
+
+  "dv2.weapon.shield.heavy_shield": "重型盾",
+  "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
+
+  "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
+  "dv2.ability.heavy_shield.1.1.0": "在生命值低於40%時增加",
+  "dv2.ability.heavy_shield.1.1.2": "",
+  "dv2.ability.heavy_shield.1.2.0": "(無法疊加)",
+
+
+  "dv2.ability.heavy_shield.2.0.0": "重型盾",
+  "dv2.ability.heavy_shield.2.1.0": "減少",
+  "dv2.ability.heavy_shield.2.1.2": ".",
+
+
+
+
+
+  "[Fortune Ball (Weather)]": "【玻璃占卜球（天氣）】",
+  "Fortune Ball (Weather)": "玻璃占卜球（天氣）",
+  "Prismarine Helmet": "海鱗片頭盔",
+  "Grants Night Vision and Water Breathing when wearing.": "穿著以獲得夜視和水中呼吸。",
+
+  "Lava Spring Boots": "岩漿彈跳鞋",
+  "Bounces you up when on top of lava.": "碰到岩漿彈起。",
+  "Uses up durability each bounce.": "每次彈起會使用耐久度。",
+
+
+  "Book of Crystalized Knowledge": "水晶化知識的書",
+  "Mystical Touch": "魔幻之觸"
+}
+

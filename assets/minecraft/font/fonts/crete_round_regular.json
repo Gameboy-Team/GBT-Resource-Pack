@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "fonts/crete_round_regular.ttf",
+            "shift": [-0.5, 1.2],
+            "size": 10,
+            "oversample": 32.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "rpg/magic_array/simple/level1_heal"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-111, 0, 0],
+			"translation": [-6, 20, 0],
+			"scale": [2, 2, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-111, 0, 0],
+			"translation": [-6, 20, 0],
+			"scale": [2, 2, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [-1, 5.5, 0],
+			"scale": [1, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-1, 5.5, 0],
+			"scale": [1, 1, 0]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 19, 0],
+			"scale": [4, 4, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.1],
+			"scale": [4, 4, 0]
+		}
+	}
+}

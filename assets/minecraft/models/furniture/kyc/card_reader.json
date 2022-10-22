@@ -1,0 +1,47 @@
+{
+	"credit": "Made by Gameboy612",
+	"parent": "item_frame_block",
+	"textures": {
+		"0": "block/light_gray_concrete",
+		"1": "block/white_concrete",
+		"particle": "block/light_gray_concrete"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, -4],
+			"to": [4, 16, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 16, -4],
+			"to": [4, 24, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4.25, 18, -3],
+			"to": [4.25, 22, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 8.5, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 6, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 8.5, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 6, 4], "texture": "#1"},
+				"up": {"uv": [0, 0, 8.5, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 8.5, 6], "texture": "#1"}
+			}
+		}
+	]
+}

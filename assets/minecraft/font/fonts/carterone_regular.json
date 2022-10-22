@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "fonts/carterone_regular.ttf",
+            "shift": [-0.5, 0.6],
+            "size": 12,
+            "oversample": 32.0
+        }
+    ]
+}

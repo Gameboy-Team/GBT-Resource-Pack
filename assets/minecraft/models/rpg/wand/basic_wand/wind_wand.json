@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/wand/basic_wand/nor_wand",
+	"textures": {
+		"0": "rpg/wand/basic_wand/wind_wand",
+		"particle": "rpg/wand/basic_wand/wind_wand"
+	}
+}

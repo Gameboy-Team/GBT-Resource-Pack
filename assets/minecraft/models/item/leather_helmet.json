@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":400002}, "model": "crystalogy/armor/prismarine_helmet/prismarine_helmet"},
+        {"predicate": {"custom_model_data":612101}, "model": "gbtan/item/wool_helmet"},
+        {"predicate": {"custom_model_data":612102}, "model": "gbtan/item/jelled_helmet"}
+    ]
+}

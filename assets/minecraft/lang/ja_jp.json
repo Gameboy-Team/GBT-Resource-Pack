@@ -1,0 +1,135 @@
+{
+  "werewolf.game.name": "人狼殺",
+  "werewolf.game.win.werewolf": "人狼の勝利",
+  "werewolf.game.win.villagers": "村人の勝利",
+
+  "werewolf.time.day": "朝",
+  "werewolf.time.night": "晩",
+  "werewolf.item.voting_knife": "投票剣",
+  "werewolf.item.voting_knife.lore.1": "この武器を使用してプレイヤーを攻撃する，",
+  "werewolf.item.voting_knife.lore.2": "そのプレイヤーが投票されます。",
+  "werewolf.item.voting_knife.lore.3": "毎日に最高投票数のプレイヤーは処刑されます。",
+  
+  "werewolf.item.officers_batton": "警察の警棒",
+  "werewolf.item.officers_batton.lore.1": "この武器を使用してプレイヤーを攻撃する，",
+  "werewolf.item.officers_batton.lore.2": "そのプレイヤーに２票を投じます。",
+  "werewolf.item.officers_batton.lore.3": "毎日に最高投票数のプレイヤーは処刑されます。",
+  
+  "werewolf.item.unvote": "投票をキャンセル【右ボタン】",
+
+  "werewolf.item.fortune.book.check": "【チェック】 ",
+  "werewolf.item.fortune.book.yeswolf": "君の目には， %s は狼のようです。",
+  "werewolf.item.fortune.book.nowolf": "%s は多分狼ではありません。",
+
+  "werewolf.item.ability.wolf.sight": "透視の目【右ボタン】",
+  "werewolf.item.ability.wolf.movement": "スピード【右ボタン】",
+  "werewolf.item.ability.wolf.gear": "防具と武器を持っている【右ボタン】",
+  "werewolf.item.ability.wolf.gear_off": "防具と武器を外す【右ボタン】",
+
+  "werewolf.item.ability.witch.invisible": "透明化薬を持っている【右ボタン】",
+  "werewolf.item.ability.witch.invulnerable": "無敵薬を持っている【右ボタン】",
+  "werewolf.item.ability.witch.poison": "毒薬を持っている【右ボタン】",
+  
+  "werewolf.item.witch.invisible": "透明化薬",
+  "werewolf.item.witch.invulnerable": "無敵薬",
+  "werewolf.item.witch.poison": "毒薬",
+  
+  "werewolf.item.ability.fortune.book": "預言の本を持っている【右ボタン】",
+  "werewolf.item.ability.fortune.wolf_glow": "狼を見える目【右ボタン】",
+  "werewolf.item.fortune.book": "預言の本",
+
+  "werewolf.item.ability.guardian.book": "ガードの本を持っている【右ボタン】",
+  "werewolf.item.guardian.book": "ガードの本",
+  "werewolf.item.guardian.book.protect": "【守って】 ",
+  "werewolf.item.guardian.book.success": "今晩，君は %s を守って。",
+  "werewolf.item.guardian.book.fail.someone_protected": "%s もう誰を守って。",
+  "werewolf.item.guardian.book.fail.same_with_last": "君もう前回に %s を守って。",
+  "werewolf.item.ability.guardian.invulnerable": "範囲無敵【右ボタン】",
+  "werewolf.item.ability.guardian.long_invulnerable": "無敵の体【右ボタン】",
+
+
+  "werewolf.item.ability.old_wolf.fake_book": "偽本を持っている【右ボタン】",
+  "werewolf.item.old_wolf.fake_book": "偽本",
+  "werewolf.item.ability.old_wolf.fake_potion": "偽　薬を持っている【右ボタン】",
+  "werewolf.item.old_wolf.fake_invulnerable": "偽　無敵薬",
+  "werewolf.item.old_wolf.fake_invisibility": "偽　透明化薬",
+  "werewolf.item.old_wolf.fake_poison": "偽　毒薬",
+
+  "werewolf.item.ability.instant_barrier": "インスタントバリア【右ボタン】",
+
+
+
+
+  "werewolf.messages.votes.prefix": "【投票】 ",
+  "werewolf.messages.votes.voter": "%s を投票しました。",
+  "werewolf.messages.votes.receiver": "%s から君に投票しました。",
+  
+  "werewolf.messages.revokevote.prefix": "【投票】 ",
+  "werewolf.messages.revokevote.voter": "%s の投票は取り消しました。",
+  "werewolf.messages.revokevote.receiver": "%s は君の投票を取り消しました。",
+
+  "werewolf.messages.kill.prefix": "【キル】 ",
+  "werewolf.messages.kill.wolf.killer": "%s を殺しました。",
+  "werewolf.messages.kill.wolf.dead": "狼は君を殺しました。",
+
+  "werewolf.messages.kill.witch.poison": "%s は魔女を毒されました。",
+
+  "werewolf.tutorial.prefix.class": "【キャラクター】   ",
+  "werewolf.tutorial.prefix.camp": "【キャンプ】 ",
+  "werewolf.tutorial.prefix.players": "【人々の数】 ",
+  "werewolf.tutorial.prefix.ability": "【能力】 ",
+  "werewolf.tutorial.prefix.aim": "【目標】 ",
+
+  "werewolf.tutorial.villager.class": "村人",
+  "werewolf.tutorial.villager.camp": "  村人キャンプ",
+  "werewolf.tutorial.villager.ability": "  なんでもできないやつ，ただな村人。それだけ。",
+  "werewolf.tutorial.villager.aim": "  生きてる，他の村人を助ける。（逃げるも良いよ）",
+
+  "werewolf.tutorial.wolf.class": "人狼",
+  "werewolf.tutorial.wolf.camp": "  人狼キャンプ",
+  "werewolf.tutorial.wolf.players": "  %s 人",
+  "werewolf.tutorial.wolf.ability": "  夜に，プレイヤーを殺す。",
+  "werewolf.tutorial.wolf.aim": "  朝に村人のふりをする，夜に村人を殺する，村を襲撃する。",
+
+  "werewolf.tutorial.witch.class": "魔女",
+  "werewolf.tutorial.witch.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.witch.players": "  %s 人",
+  "werewolf.tutorial.witch.ability": "  昼に，魔女は毒薬一つを持って，それを使って，狼を殺す。\n            夜に，それは透明化ポーションと無敵ポーションを持って。",
+  "werewolf.tutorial.witch.aim": "  薬を使って，村人を助けてと人狼を殺する。",
+  
+  "werewolf.tutorial.fortune.class": "預言者",
+  "werewolf.tutorial.fortune.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.fortune.players": "  %s 人",
+  "werewolf.tutorial.fortune.ability": "  夜に，君の能力を使って，プレイヤーのキャンプを確認する。",
+  "werewolf.tutorial.fortune.aim": "  自分の能力を使って，人狼を探す！",
+  
+  "werewolf.tutorial.guardian.class": "守衛",
+  "werewolf.tutorial.guardian.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.guardian.players": "  %s 人",
+  "werewolf.tutorial.guardian.ability": "  昼に，守るプレイヤーを選ぶ。\n            毎晩守っているプレイヤーは繰り返すことができない。",
+  "werewolf.tutorial.guardian.aim": "  自分の能力を使って，人狼を避けて！",
+
+  "werewolf.tutorial.old_wolf.class": "古い狼",
+  "werewolf.tutorial.old_wolf.camp": "  人狼キャンプ，スペシャル",
+  "werewolf.tutorial.old_wolf.players": "  %s 人",
+  "werewolf.tutorial.old_wolf.ability": "  夜に，プレイヤーを殺す。それと，特別なアイテムを使うで，嘘を言ってる。",
+  "werewolf.tutorial.old_wolf.aim": "  特別なスキルを使って，村人を騙すと殺す，そして村を襲撃する。",
+
+  "werewolf.tutorial.mermaid.class": "人魚",
+  "werewolf.tutorial.mermaid.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.mermaid.players": "  %s 人",
+  "werewolf.tutorial.mermaid.ability": "  夜に，君の能力を使って，壁をプレイスする。",
+  "werewolf.tutorial.mermaid.aim": "  自分の能力を使って，人狼を避けて！",
+
+  "werewolf.tutorial.jackal.class": "ジャッカル",
+  "werewolf.tutorial.jackal.camp": "  人狼キャンプ，スペシャル",
+  "werewolf.tutorial.jackal.players": "  %s 人",
+  "werewolf.tutorial.jackal.ability": " 夜に，プレイヤーを殺す。それと，夜に一つプレイヤーを追跡する。あのプレイヤーが死ぬ後，別のプレイヤーを追跡ができる。",
+  "werewolf.tutorial.jackal.aim": "  特別なスキルを使って，村人を殺す，そして村を襲撃する。",
+
+  "werewolf.name.spectator.prefix": "【観客】 ",
+  
+  "werewolf.actionbar.you_are": "君は ",
+  "werewolf.actionbar.you_are_an": "君は "
+}
+

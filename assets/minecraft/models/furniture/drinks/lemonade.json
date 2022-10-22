@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "furniture/drinks/drinks_parent",
+	"textures": {
+		"0": "furniture/drinks/juice_glass",
+		"1": "furniture/drinks/lemonade"
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/special/meme/one_punch_gameboy.png",
+            "ascent": 0,
+            "height": 256,
+            "chars": ["\u1000"]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "furniture/kyc/double_vert_slab/parent",
+	"textures": {
+		"0": "block/light_blue_terracotta",
+		"1": "block/light_gray_concrete",
+		"particle": "block/light_blue_terracotta"
+	}
+}

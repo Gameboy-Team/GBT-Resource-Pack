@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100001}, "model": "rpg/magic_array/simple/level_1_color"},
+        {"predicate": {"custom_model_data":400003}, "model": "crystalogy/armor/lava_spring_boots/lava_spring_boots"},
+        {"predicate": {"custom_model_data":612101}, "model": "gbtan/item/wool_boots"},
+        {"predicate": {"custom_model_data":612102}, "model": "gbtan/item/jelled_boots"}
+    ]
+}

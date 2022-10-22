@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/wind/electric.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\u1000"]
+        }
+    ]
+}

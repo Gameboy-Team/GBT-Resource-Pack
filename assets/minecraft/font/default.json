@@ -1,0 +1,877 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0,
+                "\uF800": -32768,
+                "\uF801": -1,
+                "\uF802": -2,
+                "\uF803": -3,
+                "\uF804": -4,
+                "\uF805": -5,
+                "\uF806": -6,
+                "\uF807": -7,
+                "\uF808": -8,
+                "\uF809": -16,
+                "\uF80A": -32,
+                "\uF80B": -64,
+                "\uF80C": -128,
+                "\uF80D": -256,
+                "\uF80E": -512,
+                "\uF80F": -1024,
+                "\uF820": 32768,
+                "\uF821": 1,
+                "\uF822": 2,
+                "\uF823": 3,
+                "\uF824": 4,
+                "\uF825": 5,
+                "\uF826": 6,
+                "\uF827": 7,
+                "\uF828": 8,
+                "\uF829": 16,
+                "\uF82A": 32,
+                "\uF82B": 64,
+                "\uF82C": 128,
+                "\uF82D": 256,
+                "\uF82E": 512,
+                "\uF82F": 1024
+
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/lore/top.png",
+            "ascent": 48,
+            "height": 50,
+            "chars": ["\uAB01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/lore/mid.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uAB02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/black_screen.png",
+            "ascent": 250,
+            "height": 512,
+            "chars": ["\uCC01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/0.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/1.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/2.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/3.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/4.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/5.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/stamina/6.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/0.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/1.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/2.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/3.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/4.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/5.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/hunger/6.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/0.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD20"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/1.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/2.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/3.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/4.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/5.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/health/6.png",
+            "ascent": -15,
+            "height": 20,
+            "chars": ["\uCD26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/0.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD30"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/1.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD31"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/2.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD32"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/3.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD33"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/4.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD34"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/5.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD35"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/mana/6.png",
+            "ascent": -5,
+            "height": 20,
+            "chars": ["\uCD36"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": ["\uEE01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 39,
+            "height": 40,
+            "chars": ["\uEE02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 38,
+            "height": 40,
+            "chars": ["\uEE03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 37,
+            "height": 40,
+            "chars": ["\uEE04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 36,
+            "height": 40,
+            "chars": ["\uEE05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 35,
+            "height": 40,
+            "chars": ["\uEE06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 34,
+            "height": 40,
+            "chars": ["\uEE07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 33,
+            "height": 40,
+            "chars": ["\uEE08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 32,
+            "height": 40,
+            "chars": ["\uEE09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 31,
+            "height": 40,
+            "chars": ["\uEE0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 30,
+            "height": 40,
+            "chars": ["\uEE0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 29,
+            "height": 40,
+            "chars": ["\uEE0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 28,
+            "height": 40,
+            "chars": ["\uEE0D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 27,
+            "height": 40,
+            "chars": ["\uEE0E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 26,
+            "height": 40,
+            "chars": ["\uEE0F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 25,
+            "height": 40,
+            "chars": ["\uEE10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 24,
+            "height": 40,
+            "chars": ["\uEE11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 23,
+            "height": 40,
+            "chars": ["\uEE12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 22,
+            "height": 40,
+            "chars": ["\uEE13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 21,
+            "height": 40,
+            "chars": ["\uEE14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 20,
+            "height": 40,
+            "chars": ["\uEE15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 19,
+            "height": 40,
+            "chars": ["\uEE16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 18,
+            "height": 40,
+            "chars": ["\uEE17"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 17,
+            "height": 40,
+            "chars": ["\uEE18"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 16,
+            "height": 40,
+            "chars": ["\uEE19"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": ["\uEE1A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 14,
+            "height": 40,
+            "chars": ["\uEE1B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 13,
+            "height": 40,
+            "chars": ["\uEE1C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 12,
+            "height": 40,
+            "chars": ["\uEE1D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 11,
+            "height": 40,
+            "chars": ["\uEE1E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 10,
+            "height": 40,
+            "chars": ["\uEE1F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 9,
+            "height": 40,
+            "chars": ["\uEE20"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 8,
+            "height": 40,
+            "chars": ["\uEE21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": ["\uEE22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 6,
+            "height": 40,
+            "chars": ["\uEE23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 5,
+            "height": 40,
+            "chars": ["\uEE24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 4,
+            "height": 40,
+            "chars": ["\uEE25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 3,
+            "height": 40,
+            "chars": ["\uEE26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 2,
+            "height": 40,
+            "chars": ["\uEE27"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 1,
+            "height": 40,
+            "chars": ["\uEE28"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": 0,
+            "height": 40,
+            "chars": ["\uEE29"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -1,
+            "height": 40,
+            "chars": ["\uEE2A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -2,
+            "height": 40,
+            "chars": ["\uEE2B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -3,
+            "height": 40,
+            "chars": ["\uEE2C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -4,
+            "height": 40,
+            "chars": ["\uEE2D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -5,
+            "height": 40,
+            "chars": ["\uEE2E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -6,
+            "height": 40,
+            "chars": ["\uEE2F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -7,
+            "height": 40,
+            "chars": ["\uEE30"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -8,
+            "height": 40,
+            "chars": ["\uEE31"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -9,
+            "height": 40,
+            "chars": ["\uEE32"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -10,
+            "height": 40,
+            "chars": ["\uEE33"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -11,
+            "height": 40,
+            "chars": ["\uEE34"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -12,
+            "height": 40,
+            "chars": ["\uEE35"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -13,
+            "height": 40,
+            "chars": ["\uEE36"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -14,
+            "height": 40,
+            "chars": ["\uEE37"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -15,
+            "height": 40,
+            "chars": ["\uEE38"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -16,
+            "height": 40,
+            "chars": ["\uEE39"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -17,
+            "height": 40,
+            "chars": ["\uEE3A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -18,
+            "height": 40,
+            "chars": ["\uEE3B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -19,
+            "height": 40,
+            "chars": ["\uEE3C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -20,
+            "height": 40,
+            "chars": ["\uEE3D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -21,
+            "height": 40,
+            "chars": ["\uEE3E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -22,
+            "height": 40,
+            "chars": ["\uEE3F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -23,
+            "height": 40,
+            "chars": ["\uEE40"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -24,
+            "height": 40,
+            "chars": ["\uEE41"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -25,
+            "height": 40,
+            "chars": ["\uEE42"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -26,
+            "height": 40,
+            "chars": ["\uEE43"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -27,
+            "height": 40,
+            "chars": ["\uEE44"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -28,
+            "height": 40,
+            "chars": ["\uEE45"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -29,
+            "height": 40,
+            "chars": ["\uEE46"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -30,
+            "height": 40,
+            "chars": ["\uEE47"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -31,
+            "height": 40,
+            "chars": ["\uEE48"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -32,
+            "height": 40,
+            "chars": ["\uEE49"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -33,
+            "height": 40,
+            "chars": ["\uEE4A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -34,
+            "height": 40,
+            "chars": ["\uEE4B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -35,
+            "height": 40,
+            "chars": ["\uEE4C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -36,
+            "height": 40,
+            "chars": ["\uEE4D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -37,
+            "height": 40,
+            "chars": ["\uEE4E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -38,
+            "height": 40,
+            "chars": ["\uEE4F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -39,
+            "height": 40,
+            "chars": ["\uEE50"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_up.png",
+            "ascent": -40,
+            "height": 40,
+            "chars": ["\uEE51"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -5,
+            "height": 40,
+            "chars": ["\uEE52"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -6,
+            "height": 40,
+            "chars": ["\uEE53"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -7,
+            "height": 40,
+            "chars": ["\uEE54"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -8,
+            "height": 40,
+            "chars": ["\uEE55"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -9,
+            "height": 40,
+            "chars": ["\uEE56"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/cursor_down.png",
+            "ascent": -10,
+            "height": 40,
+            "chars": ["\uEE57"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/button1.png",
+            "ascent": 0,
+            "height": 3,
+            "chars": ["\uA001"]
+        }
+    ]
+}

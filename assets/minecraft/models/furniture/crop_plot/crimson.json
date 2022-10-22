@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "furniture/crop_plot/parent",
+	"textures": {
+		"1": "block/farmland_moist",
+		"3": "block/crimson_stem",
+		"4": "block/crimson_stem_top"
+	}
+}

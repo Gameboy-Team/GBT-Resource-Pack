@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chemistry/compound/yellowish_brown_test_tube"
+    }
+}

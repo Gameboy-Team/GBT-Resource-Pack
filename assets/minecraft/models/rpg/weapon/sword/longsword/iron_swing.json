@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/sword/longsword/iron",
+		"particle": "rpg/weapon/sword/longsword/iron"
+	},
+	"parent": "rpg/weapon/sword/longsword/parent_swing"
+}

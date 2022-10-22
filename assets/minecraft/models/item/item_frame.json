@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":612612}, "model": "furniture/statues/gameboy612"},
+        {"predicate": {"custom_model_data":612613}, "model": "furniture/statues/cookietuna_"},
+        {"predicate": {"custom_model_data":612614}, "model": "furniture/statues/lavafoxerex"},
+        {"predicate": {"custom_model_data":612615}, "model": "furniture/statues/double_a0605"},
+        {"predicate": {"custom_model_data":612616}, "model": "furniture/statues/michael1037"},
+        {"predicate": {"custom_model_data":612617}, "model": "furniture/statues/blackmoonkirito"},
+        {"predicate": {"custom_model_data":612618}, "model": "furniture/statues/genius0123"},
+        {"predicate": {"custom_model_data":612619}, "model": "furniture/statues/donkiismyson"},
+        {"predicate": {"custom_model_data":612620}, "model": "furniture/statues/chibamiyuki"},
+        {"predicate": {"custom_model_data":612621}, "model": "furniture/statues/tunaismypet"},
+        {"predicate": {"custom_model_data":612622}, "model": "furniture/statues/icytuna"},
+        {"predicate": {"custom_model_data":612623}, "model": "furniture/statues/_hei2"}
+    ]
+}

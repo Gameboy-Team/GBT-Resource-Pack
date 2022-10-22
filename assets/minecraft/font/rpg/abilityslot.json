@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/ability/slot.png",
+            "ascent": 0,
+            "height": 66,
+            "chars": ["\u1000"]
+        }
+    ]
+}

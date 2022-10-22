@@ -1,0 +1,96 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/yellow_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/brleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/frleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/flleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/blleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:animated_java/gbrpg/pikamonster/head"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"123077d7-a215-16f0-8364-3b1412610983": {
+				"name": "pikamonster",
+				"usedIDs": [
+					[1, 6]
+				]
+			},
+			"d0b7a314-bcb0-70e9-d051-4ab2ed96a68d": {
+				"name": "pikamonster",
+				"usedIDs": [
+					[7, 12]
+				]
+			}
+		}
+	}
+}

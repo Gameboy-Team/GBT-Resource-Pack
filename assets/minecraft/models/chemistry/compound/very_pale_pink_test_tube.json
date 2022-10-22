@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chemistry/compound/very_pale_pink_test_tube"
+    }
+}

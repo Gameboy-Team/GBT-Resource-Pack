@@ -1,0 +1,7 @@
+{
+	"parent": "furniture/classic/globe/globe_parent",
+	"textures": {
+		"1": "furniture/classic/globe/gold",
+		"particle": "furniture/classic/globe/gold"
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":612101}, "model": "gbtan/item/wool_chestplate"},
+        {"predicate": {"custom_model_data":612102}, "model": "gbtan/item/jelled_chestplate"}
+    ]
+}

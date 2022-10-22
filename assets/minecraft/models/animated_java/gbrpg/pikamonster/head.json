@@ -1,0 +1,54 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:rpg/mobs/gbrpg/pikaspooder/pikachu"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [1, 1, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 1, 1, 2], "texture": "#0"},
+				"south": {"uv": [3, 1, 4, 2], "texture": "#0"},
+				"west": {"uv": [2, 1, 3, 2], "texture": "#0"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 2, 1], "texture": "#0"}
+			},
+			"to": [12.8, 8.44795, 8.57551],
+			"from": [3.2, -1.15205, -1.02449],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.64795, 8.57551]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 3, 1.25, 3.25], "texture": "#0"},
+				"east": {"uv": [0, 3, 1, 3.25], "texture": "#0"},
+				"south": {"uv": [2.25, 3, 2.5, 3.25], "texture": "#0"},
+				"west": {"uv": [1.25, 3, 2.25, 3.25], "texture": "#0"},
+				"up": {"uv": [1.25, 3, 1, 2], "texture": "#0"},
+				"down": {"uv": [1.5, 2, 1.25, 3], "texture": "#0"}
+			},
+			"to": [5.9, 11.07882, 10.84637],
+			"from": [3.5, 8.67882, 1.24637],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 9.87882, 5.20637]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 3, 1.25, 3.25], "texture": "#0"},
+				"east": {"uv": [0, 3, 1, 3.25], "texture": "#0"},
+				"south": {"uv": [2.25, 3, 2.5, 3.25], "texture": "#0"},
+				"west": {"uv": [1.25, 3, 2.25, 3.25], "texture": "#0"},
+				"up": {"uv": [1.25, 3, 1, 2], "texture": "#0"},
+				"down": {"uv": [1.5, 2, 1.25, 3], "texture": "#0"}
+			},
+			"to": [12.5, 11.07882, 10.84637],
+			"from": [10.1, 8.67882, 1.24637],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 9.87882, 5.20637]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

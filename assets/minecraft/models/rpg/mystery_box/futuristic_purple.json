@@ -1,0 +1,9 @@
+{
+	"parent": "rpg/mystery_box/mystery_box_parent",
+	"textures": {
+		"2": "rpg/mystery_box/futuristic/pink_bar",
+		"3": "rpg/mystery_box/futuristic/purple_bar",
+		"5": "rpg/mystery_box/futuristic/purple_angle",
+		"6": "rpg/mystery_box/futuristic/purple_core"
+	}
+}

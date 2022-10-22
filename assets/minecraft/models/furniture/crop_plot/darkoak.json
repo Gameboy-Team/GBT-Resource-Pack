@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "furniture/crop_plot/parent",
+	"textures": {
+		"1": "block/farmland_moist",
+		"3": "block/dark_oak_log",
+		"4": "block/dark_oak_log_top"
+	}
+}

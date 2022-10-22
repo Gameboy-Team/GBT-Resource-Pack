@@ -1,0 +1,9 @@
+{
+	"parent": "rpg/mystery_box/mystery_box_parent",
+	"textures": {
+		"2": "rpg/mystery_box/oxi_copper/oxidized_copper_bar",
+		"3": "rpg/mystery_box/oxi_copper/dark_oxidized_copper_bar",
+		"5": "rpg/mystery_box/oxi_copper/oxidized_copper_angle",
+		"6": "rpg/mystery_box/oxi_copper/oxidized_copper_core"
+	}
+}

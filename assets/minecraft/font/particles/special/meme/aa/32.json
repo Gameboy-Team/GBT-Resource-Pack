@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/special/meme/aa.png",
+            "ascent": 0,
+            "height": 32,
+            "chars": ["\u1000"]
+        }
+    ]
+}

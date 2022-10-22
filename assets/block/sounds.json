@@ -1,0 +1,17 @@
+{
+    "your_bed_is_gone": {
+      "sounds": [
+        {
+          "name": "block/your_bed_is_gone_1",
+          "weight": 1
+        },
+        {
+          "name": "block/your_bed_is_gone_2",
+          "weight": 1
+        },
+        {
+          "name": "block/your_bed_is_gone_3",
+          "weight": 1
+        }
+      ]
+    }}

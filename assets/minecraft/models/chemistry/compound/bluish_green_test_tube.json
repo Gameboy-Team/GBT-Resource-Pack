@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "chemistry/compound/bluish_green_test_tube"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/sword.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/sword_debuff.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/shield.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/shield_debuff.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/burn.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/frost.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/paralyze.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/poison.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/seal.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/chaos.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1016"]
+        }
+    ]
+}

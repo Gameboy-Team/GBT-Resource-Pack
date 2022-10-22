@@ -1,0 +1,52 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [1, 1, 2, 2], "texture": "#missing"},
+				"east": {"uv": [0, 1, 1, 2], "texture": "#missing"},
+				"south": {"uv": [3, 1, 4, 2], "texture": "#missing"},
+				"west": {"uv": [2, 1, 3, 2], "texture": "#missing"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#missing"},
+				"down": {"uv": [3, 0, 2, 1], "texture": "#missing"}
+			},
+			"to": [9.6, 6.52304, 7.92304],
+			"from": [6.4, 3.32304, 4.72304],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.32304, 8.32304]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 3, 1.25, 3.25], "texture": "#missing"},
+				"east": {"uv": [0, 3, 1, 3.25], "texture": "#missing"},
+				"south": {"uv": [2.25, 3, 2.5, 3.25], "texture": "#missing"},
+				"west": {"uv": [1.25, 3, 2.25, 3.25], "texture": "#missing"},
+				"up": {"uv": [1.25, 3, 1, 2], "texture": "#missing"},
+				"down": {"uv": [1.5, 2, 1.25, 3], "texture": "#missing"}
+			},
+			"to": [7.3, 7.4, 8.68],
+			"from": [6.5, 6.6, 5.48],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 7, 6.8]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 3, 1.25, 3.25], "texture": "#missing"},
+				"east": {"uv": [0, 3, 1, 3.25], "texture": "#missing"},
+				"south": {"uv": [2.25, 3, 2.5, 3.25], "texture": "#missing"},
+				"west": {"uv": [1.25, 3, 2.25, 3.25], "texture": "#missing"},
+				"up": {"uv": [1.25, 3, 1, 2], "texture": "#missing"},
+				"down": {"uv": [1.5, 2, 1.25, 3], "texture": "#missing"}
+			},
+			"to": [9.5, 7.4, 8.68],
+			"from": [8.7, 6.6, 5.48],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 7, 6.8]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

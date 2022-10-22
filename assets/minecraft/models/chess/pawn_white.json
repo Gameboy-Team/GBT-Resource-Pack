@@ -1,0 +1,7 @@
+{
+	"parent": "chess/pawn_parent",
+	"textures": {
+		"0": "block/sandstone_top",
+		"particle": "block/sandstone_top"
+	}
+}

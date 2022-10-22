@@ -1,0 +1,22 @@
+{
+	"parent": "item_frame_block",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "furniture/kyc/custom_painting",
+		"particle": "furniture/kyc/custom_painting"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 0],
+			"to": [32, 32, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.125, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.125, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 6, 0.125], "texture": "#0"},
+				"down": {"uv": [0, 5.875, 6, 6], "texture": "#0"}
+			}
+		}
+	]
+}

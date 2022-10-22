@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+      {"predicate": {"custom_model_data":100001}, "model": "rpg/armor/witch_hat/witch_hat_parent"}
+    ]
+  }

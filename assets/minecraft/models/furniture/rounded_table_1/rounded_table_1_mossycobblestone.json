@@ -1,0 +1,8 @@
+{
+	"parent": "furniture/rounded_table_1/rounded_table_1_parent",
+	"textures": {
+		"0": "block/mossy_cobblestone",
+		"1": "block/mossy_cobblestone",
+		"particle": "block/mossy_cobblestone"
+	}
+}

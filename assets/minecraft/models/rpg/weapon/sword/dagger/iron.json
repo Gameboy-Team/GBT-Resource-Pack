@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/sword/dagger/iron",
+		"particle": "rpg/weapon/sword/dagger/iron"
+	},
+	"parent": "rpg/weapon/sword/dagger/parent"
+}

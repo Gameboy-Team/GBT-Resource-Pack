@@ -1,0 +1,37 @@
+{
+	"parent": "rpg/weapon/devas_2/shield/plasma_shield",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-30.55, -80.18, -95.57],
+			"translation": [0, 0.25, -2],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-30.55, -80.18, -95.57],
+			"translation": [0, 0.25, -2],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [108.55, -90.19, 92.1],
+			"translation": [-4, 3, -1],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [108.55, -90.19, 92.1],
+			"translation": [-4, 3, -1],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [89, 0, 0],
+			"translation": [0, 7.25, -28.25],
+			"scale": [2.21875, 4, 1]
+		},
+		"fixed": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

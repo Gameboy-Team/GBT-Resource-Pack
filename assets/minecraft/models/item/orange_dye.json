@@ -1,0 +1,54 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/orange_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/brleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/frleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/flleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/blleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:animated_java/gbrpg/pikaspider/head"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"0b360b3f-320d-5f08-414d-0e1cf8ee20d8": {
+				"name": "pikachu",
+				"usedIDs": [
+					[1, 6]
+				]
+			}
+		}
+	}
+}

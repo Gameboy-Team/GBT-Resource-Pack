@@ -1,0 +1,25 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/water/prism/1.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/water/prism/2.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\u1001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/water/prism/3.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\u1002"]
+        }
+    ]
+}

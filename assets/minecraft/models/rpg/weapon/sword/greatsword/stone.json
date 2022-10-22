@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/sword/greatsword/stone",
+		"particle": "rpg/weapon/sword/greatsword/stone"
+	},
+	"parent": "rpg/weapon/sword/greatsword/parent"
+}

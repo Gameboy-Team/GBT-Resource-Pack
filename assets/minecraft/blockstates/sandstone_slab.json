@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/tin_ore"
+    },
+    "type=bottom": {
+      "model": "minecraft:block/sandstone_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "minecraft:block/sandstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/sandstone_slab_top"
+    }
+  }
+}

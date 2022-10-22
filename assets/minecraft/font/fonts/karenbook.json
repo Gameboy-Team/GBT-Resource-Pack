@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "fonts/karenbook.ttf",
+            "shift": [0.0, 1.2],
+            "size": 8.3,
+            "oversample": 32.0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/sword/greatsword/iron",
+		"particle": "rpg/weapon/sword/greatsword/iron"
+	},
+	"parent": "rpg/weapon/sword/greatsword/parent",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 90, -20],
+			"translation": [0, 13, -1.75],
+			"scale": [2.35, 2.35, 2.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-180, 90, -20],
+			"translation": [0, 13, -1.75],
+			"scale": [2.35, 2.35, 2.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [117, 44, 0],
+			"translation": [1.25, 10.25, -3.5],
+			"scale": [2.35, 2.35, 2.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [117, 44, 0],
+			"translation": [1.25, 10.25, -3.5],
+			"scale": [2.35, 2.35, 2.35]
+		},
+		"gui": {
+			"rotation": [0, 0, -135]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, 0, 135],
+			"scale": [1.3, 1.3, 1.3]
+		}
+	}
+}

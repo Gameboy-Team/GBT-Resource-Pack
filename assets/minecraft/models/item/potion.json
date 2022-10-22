@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":612101}, "model": "gbtan/item/canteen_1"},
+        {"predicate": {"custom_model_data":612102}, "model": "gbtan/item/canteen_2"},
+        {"predicate": {"custom_model_data":612103}, "model": "gbtan/item/canteen_3"}
+    ]
+}

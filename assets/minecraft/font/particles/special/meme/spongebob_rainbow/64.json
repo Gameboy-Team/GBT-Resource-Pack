@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/special/meme/spongebob_rainbow.png",
+            "ascent": 0,
+            "height": 64,
+            "chars": ["\u1000"]
+        }
+    ]
+}

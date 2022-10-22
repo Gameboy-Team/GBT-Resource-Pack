@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/special/meme/jerry.png",
+            "ascent": 0,
+            "height": 16,
+            "chars": ["\u1000"]
+        }
+    ]
+}

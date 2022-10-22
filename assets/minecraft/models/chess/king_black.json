@@ -1,0 +1,7 @@
+{
+	"parent": "chess/king_parent",
+	"textures": {
+		"0": "block/cyan_terracotta",
+		"particle": "block/cyan_terracotta"
+	}
+}

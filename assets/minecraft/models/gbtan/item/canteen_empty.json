@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gbtan/canteen_empty",
+        "layer1": "gbtan/canteen_empty"
+    }
+}

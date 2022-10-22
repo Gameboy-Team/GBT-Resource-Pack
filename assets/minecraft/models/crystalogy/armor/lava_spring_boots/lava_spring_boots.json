@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "crystalogy/armor/lava_spring_boots/lava_spring_boots",
+        "layer1": "crystalogy/armor/lava_spring_boots/lava_spring_boots"
+    }
+}

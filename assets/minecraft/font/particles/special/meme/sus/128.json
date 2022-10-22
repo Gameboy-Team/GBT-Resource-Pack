@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:particles/special/meme/sus.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": ["\u1000"]
+        }
+    ]
+}

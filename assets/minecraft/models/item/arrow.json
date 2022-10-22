@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100001}, "model": "rpg/arrow/iron"},
+        {"predicate": {"custom_model_data":100002}, "model": "rpg/arrow/steel"},
+        {"predicate": {"custom_model_data":100003}, "model": "rpg/arrow/gold"},
+        {"predicate": {"custom_model_data":100004}, "model": "rpg/arrow/rose_gold"},
+        {"predicate": {"custom_model_data":100005}, "model": "rpg/arrow/lightweight"},
+        {"predicate": {"custom_model_data":100006}, "model": "rpg/arrow/heavy"}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Gameboy612",
+	"parent": "rpg/weapon/devas_2/shield/bladed_shield/parent",
+	"textures": {
+		"0": "rpg/weapon/devas_2/shield/bladed_shield/wind",
+		"particle": "rpg/weapon/devas_2/shield/bladed_shield/wind"
+	}
+}

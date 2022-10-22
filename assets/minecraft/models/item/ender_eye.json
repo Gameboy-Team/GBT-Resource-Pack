@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "minecraft:item/ender_eye"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data":6900000}, "model": "rpg/weapon/bow/regular/bow"},
+      {"predicate": {"custom_model_data":6900001}, "model": "rpg/weapon/bow/regular/bow_pulling_0"},
+      {"predicate": {"custom_model_data":6900002}, "model": "rpg/weapon/bow/regular/bow_pulling_1"},
+      {"predicate": {"custom_model_data":6900003}, "model": "rpg/weapon/bow/regular/bow_pulling_2"},
+      
+      {"predicate": {"custom_model_data":6900010}, "model": "rpg/weapon/bow/base/bow"},
+      {"predicate": {"custom_model_data":6900011}, "model": "rpg/weapon/bow/base/bow_pulling_0"},
+      {"predicate": {"custom_model_data":6900012}, "model": "rpg/weapon/bow/base/bow_pulling_1"},
+      {"predicate": {"custom_model_data":6900013}, "model": "rpg/weapon/bow/base/bow_pulling_2"},
+
+
+      {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},
+      {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/gun/r6/416c_carbine/aim"}
+  ]
+}
