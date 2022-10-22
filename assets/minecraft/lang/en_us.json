@@ -680,6 +680,9 @@
   "dv2.weapon.shield.heavy_shield": "Heavy Shield",
   "dv2.weapon.shield.heavy_shield.description": "This shield is made by a skilled blacksmith.",
 
+  "dv2.weapon.shield.bedrock_shield": "Bedrock Shield",
+  "dv2.weapon.shield.bedrock_shield.description": "Oh! So hard!.",
+
   "dv2.ability.heavy_shield.1.0.0": "Unbeatable Fortress",
   "dv2.ability.heavy_shield.1.1.0": "Grants ",
   "dv2.ability.heavy_shield.1.1.2": " if your health is lower than 40%.",
