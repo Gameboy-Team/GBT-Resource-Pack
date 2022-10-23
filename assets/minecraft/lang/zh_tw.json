@@ -499,6 +499,49 @@
   "dv2.ability.heavy_shield.2.1.0": "減少",
   "dv2.ability.heavy_shield.2.1.2": ".",
 
+  "dv2.weapon.shield.plasma_shield": "等離子盾",
+  "dv2.weapon.shield.plasma_shield.description": "充滿力量的魔力盾牌",
+
+  "dv2.ability.plasma_shield.1.0.0": "閃耀盾牌",
+  "dv2.ability.plasma_shield.1.1.0": "You will receive ",
+  "dv2.ability.plasma_shield.1.1.2": " when wielding this shield.",
+
+  "dv2.ability.plasma_shield.2.0.0": "希望的燈塔",
+  "dv2.ability.plasma_shield.2.1.0": "增加 ",
+  "dv2.ability.plasma_shield.2.1.1": "所有 DEF (Physical and Elemental)",
+  "dv2.ability.plasma_shield.2.1.2": " by ",
+  "dv2.ability.plasma_shield.2.2.0": "在生命值低於33%時",
+
+
+  "dv2.weapon.shield.mega_shield": "巨盾",
+  "dv2.weapon.shield.mega_shield.description": "由混凝土打造的巨牆",
+
+  "dv2.ability.mega_shield.1.0.0": "抗擊退",
+  "dv2.ability.mega_shield.1.1.0": "獲得 ",
+  "dv2.ability.mega_shield.1.1.1": "擊退抗性",
+  "dv2.ability.mega_shield.1.1.2": ".",
+
+  "dv2.ability.antikb.1.0.0": "抗擊退",
+  "dv2.ability.antikb.1.1.0": "獲得 ",
+  "dv2.ability.antikb.1.1.1": "擊退抗性",
+  "dv2.ability.antikb.1.1.2": ".",
+
+
+
+  "dv2.weapon.shield.bladed_shield.fire": "Bladed Shield <Fire>",
+  "dv2.weapon.shield.bladed_shield.fire.description": "With Help of the Fire Spirits.",
+
+  "dv2.weapon.shield.bladed_shield.water": "Bladed Shield <Water>",
+  "dv2.weapon.shield.bladed_shield.water.description": "With Help of the Water Spirits.",
+
+  "dv2.weapon.shield.bladed_shield.wind": "Bladed Shield <Wind>",
+  "dv2.weapon.shield.bladed_shield.wind.description": "With Help of the Wind Spirits.",
+
+  "dv2.weapon.shield.bladed_shield.earth": "Bladed Shield <Earth>",
+  "dv2.weapon.shield.bladed_shield.earth.description": "With Help of the Earth Spirits.",
+
+  "dv2.ability.bladed_shield.1.0.0": "Elemental Resistance",
+  "dv2.ability.bladed_shield.1.1.0": "Sneak to cycle between the 4 main elemental types.",
 
 
 
