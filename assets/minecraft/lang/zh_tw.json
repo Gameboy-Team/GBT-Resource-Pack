@@ -547,6 +547,60 @@
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
   "dv2.ability.bladed_shield.1.1.0": "蹲下來切換四種元素",
 
+  "dv2.weapon.bow.archers_bow": "射手之弓",
+  "dv2.weapon.bow.archers_bow.description": "好老弓",
+
+  "dv2.weapon.bow.great_bow": "精良弓",
+  "dv2.weapon.bow.great_bow.description": "就是原版的弓",
+
+  "dv2.weapon.bow.heavy_bow": "重型弓",
+  "dv2.weapon.bow.heavy_bow.description": "小心使用",
+
+  "dv2.weapon.bow.quick_charge_bow": "速射弓",
+  "dv2.weapon.bow.quick_charge_bow.description": "快跑~! 是盾牌!",
+
+
+
+  "dv2.weapon.bow.nightmare": "夢魘",
+  "dv2.weapon.bow.nightmare.description": "成為黑暗的一部分",
+  "dv2.ability.nightmare.1.0.0": "突發驚嚇",
+  "dv2.ability.nightmare.1.1.0": "當你蓄力超過 ",
+  "dv2.ability.nightmare.1.1.1": "10s",
+  "dv2.ability.nightmare.1.1.2": ",",
+  "dv2.ability.nightmare.1.2.0": "你會獲得 ",
+  "dv2.ability.nightmare.1.2.2": "  2s, 然後你的箭會獲得",
+  "dv2.ability.nightmare.1.3.0": "10 Dark DMG <+1.5 EM>",
+  "dv2.ability.nightmare.1.3.1": " 以及 ",
+  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
+  "dv2.ability.nightmare.1.3.3": ".",
+
+  "dv2.ability.nightmare.2.0.0": "完成蓄力",
+  "dv2.ability.nightmare.2.1.0": "當你完成蓄力後, 將會",
+  "dv2.ability.nightmare.2.2.0": "獲得 ",
+  "dv2.ability.nightmare.2.2.1": "5 Dark DMG <+0.5 EM>",
+  "dv2.ability.nightmare.2.2.2": ".",
+
+  
+  "dv2.weapon.bow.destroyer": "破壞者",
+  "dv2.weapon.bow.destroyer.description": "「飄飄」!",
+  "dv2.ability.destroyer.1.0.0": "狙擊手",
+  "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
+  "dv2.ability.destroyer.1.1.1": "+35 DMG",
+  "dv2.ability.destroyer.1.2.0": "在你的生命值高於 ",
+  "dv2.ability.destroyer.1.2.1": "70%",
+  "dv2.ability.destroyer.1.2.2": " 的時候.",
+
+  
+  "dv2.weapon.bow.bladed_bow": "颶風弓",
+  "dv2.weapon.bow.bladed_bow.description": "快速小子 loll",
+  "dv2.ability.bladed_bow.1.0.0": "操縱輕風",
+  "dv2.ability.bladed_bow.1.1.0": "當你蹲下時在你腳下製造一陣風緩降.",
+  "dv2.ability.bladed_bow.1.2.0": "(消耗 Mana)",
+  "dv2.ability.bladed_bow.2.0.0": "高壓氣流",
+  "dv2.ability.bladed_bow.2.1.0": "當這把弓位於副手時可發動,",
+  "dv2.ability.bladed_bow.2.2.0": "蹲下時產生向上的風.",
+  "dv2.ability.bladed_bow.2.3.0": "(消耗 Mana)",
+
 
 
 
