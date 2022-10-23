@@ -532,20 +532,20 @@
 
 
 
-  "dv2.weapon.shield.bladed_shield.fire": "Bladed Shield <Fire>",
-  "dv2.weapon.shield.bladed_shield.fire.description": "With Help of the Fire Spirits.",
+  "dv2.weapon.shield.bladed_shield.fire": "盾刃 <火>",
+  "dv2.weapon.shield.bladed_shield.fire.description": "得到火精靈的幫助",
 
-  "dv2.weapon.shield.bladed_shield.water": "Bladed Shield <Water>",
-  "dv2.weapon.shield.bladed_shield.water.description": "With Help of the Water Spirits.",
+  "dv2.weapon.shield.bladed_shield.water": "盾刃 <水>",
+  "dv2.weapon.shield.bladed_shield.water.description": "得到水精靈的幫助",
 
-  "dv2.weapon.shield.bladed_shield.wind": "Bladed Shield <Wind>",
-  "dv2.weapon.shield.bladed_shield.wind.description": "With Help of the Wind Spirits.",
+  "dv2.weapon.shield.bladed_shield.wind": "盾刃 <風>",
+  "dv2.weapon.shield.bladed_shield.wind.description": "得到風精靈的幫助",
 
-  "dv2.weapon.shield.bladed_shield.earth": "Bladed Shield <Earth>",
-  "dv2.weapon.shield.bladed_shield.earth.description": "With Help of the Earth Spirits.",
+  "dv2.weapon.shield.bladed_shield.earth": "盾刃 <土>",
+  "dv2.weapon.shield.bladed_shield.earth.description": "得到土精靈的幫助",
 
-  "dv2.ability.bladed_shield.1.0.0": "Elemental Resistance",
-  "dv2.ability.bladed_shield.1.1.0": "Sneak to cycle between the 4 main elemental types.",
+  "dv2.ability.bladed_shield.1.0.0": "元素抗性",
+  "dv2.ability.bladed_shield.1.1.0": "蹲下來切換四種元素",
 
 
 
