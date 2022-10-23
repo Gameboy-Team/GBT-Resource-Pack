@@ -422,6 +422,60 @@
   "dv2.ability.vampire_tooth.2.2.0": "，同時減少",
   "dv2.ability.vampire_tooth.2.2.2": "",
 
+  "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",
+  "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過",
+  "dv2.weapon.melee.odachi.wooden_odachi": "木大太刀",
+  "dv2.weapon.melee.odachi.wooden_odachi.description": "使用優質原木打造",
+  "dv2.weapon.melee.odachi.iron_odachi": "鐵大太刀",
+  "dv2.weapon.melee.odachi.iron_odachi.description": "身經百戰",
+
+
+  "dv2.weapon.melee.odachi.fire_odachi": "烈焰大太刀",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "哈哈! 你成為了拿花霍斯",
+  "dv2.ability.fire_odachi.1.0.0": "Fire Odachi",
+  "dv2.ability.fire_odachi.1.1.0": "Has a 20% chance to inflict the ",
+  "dv2.ability.fire_odachi.1.1.2": " effect",
+  "dv2.ability.fire_odachi.1.2.0": "for 4 seconds. (6 HP/s)",
+
+  "dv2.weapon.melee.odachi.poison_odachi": "劇毒大太刀",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "嘻! 你中毒了哈哈",
+  "dv2.ability.poison_odachi.1.0.0": "Poison Odachi",
+  "dv2.ability.poison_odachi.1.1.0": "Has a 20% chance to inflict the ",
+  "dv2.ability.poison_odachi.1.1.2": " effect",
+  "dv2.ability.poison_odachi.1.2.0": "for 3 seconds. (7% HP/s)",
+
+
+  "dv2.weapon.melee.odachi.ice_odachi": "寒冰大太刀",
+  "dv2.weapon.melee.odachi.ice_odachi.description": "Let it go!!!",
+
+  "dv2.weapon.melee.odachi.electric_odachi": "閃電大太刀",
+  "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴!!!",
+
+  "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
+  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀,刀中 ",
+  "dv2.weapon.melee.odachi.muramasa.description.2": "充斥著無盡的暴力與瘋狂",
+  "dv2.ability.muramasa.1.0.0": "村正",
+  "dv2.ability.muramasa.1.1.0": "增加 ",
+  "dv2.ability.muramasa.1.1.1": "1 Dark DMG",
+  "dv2.ability.muramasa.1.1.2": " 每 ",
+  "dv2.ability.muramasa.1.1.3": "10 Dark DEF",
+  "dv2.ability.muramasa.1.1.4": ".",
+  "dv2.ability.muramasa.1.2.0": "(上限: 10 Dark DMG)",
+  "dv2.ability.muramasa.2.0.0": "惡鬼的契約",
+  "dv2.ability.muramasa.2.1.0": "當生命值低於 ",
+  "dv2.ability.muramasa.2.1.1": "50%",
+  "dv2.ability.muramasa.2.1.2": ",",
+  "dv2.ability.muramasa.2.2.0": "增加 ",
+  "dv2.ability.muramasa.2.2.1": "20 DEF",
+  "dv2.ability.muramasa.2.2.2": ", ",
+  "dv2.ability.muramasa.2.2.3": "50 ",
+  "dv2.ability.muramasa.2.2.4": "Dark",
+  "dv2.ability.muramasa.2.2.5": ", ",
+  "dv2.ability.muramasa.2.2.6": "FIRE",
+  "dv2.ability.muramasa.2.2.7": ", ",
+  "dv2.ability.muramasa.2.2.8": "EARTH",
+  "dv2.ability.muramasa.2.3.0": "Elemental DEF",
+  "dv2.ability.muramasa.2.3.1": ", 5 DMG 和 STR.",
 
   "dv2.weapon.shield.wooden_shield": "木盾",
   "dv2.weapon.shield.wooden_shield.description": "您會從RPG遊戲中的初始NPC那裡獲得的盾牌",
@@ -431,6 +485,9 @@
 
   "dv2.weapon.shield.heavy_shield": "重型盾",
   "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
+
+  "dv2.weapon.shield.bedrock_shield": "基岩盾",
+  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!.",
 
   "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
   "dv2.ability.heavy_shield.1.1.0": "在生命值低於40%時增加",
