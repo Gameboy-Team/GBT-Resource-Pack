@@ -793,6 +793,55 @@
   "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
   "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
 
+  "dv2.artifacts.coward":"膽小鬼",
+  "dv2.artifacts.coward.1.0":"在生命值低於 50% 時增加 20% SPD",
+  "dv2.artifacts.coward.2.0":"在生命值低於 33% 時增加 40% SPD",
+
+  "dv2.artifacts.shield.1":"Shield I",
+  "dv2.artifacts.shield.1.1.0":"Icrease 20 DEF when holding a shield.",
+  "dv2.artifacts.shield.2":"Shield II",
+  "dv2.artifacts.shield.2.1.0":"Icrease 30 DEF when holding a shield.",
+  "dv2.artifacts.shield.3":"Shield III",
+  "dv2.artifacts.shield.3.1.0":"Icrease 40 DEF when holding a shield.",
+
+  "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
+  "dv2.artifacts.totem_of_hope.1.1.0":"Icrease your array's life time by 10s.",
+  "dv2.artifacts.totem_of_hope.2":"Totem of Hope II",
+  "dv2.artifacts.totem_of_hope.2.1.0":"Icrease your array's life time by 20s.",
+  "dv2.artifacts.totem_of_hope.3":"Totem of Hope III",
+  "dv2.artifacts.totem_of_hope.3.1.0":"Icrease your array's life time by 30s.",
+
+  "dv2.artifacts.resistor":"Resistor",
+  "dv2.artifacts.resistor.1.0":"Increase 40 STR when you have a negative effect.",
+
+  "dv2.artifacts.tank":"Tank",
+  "dv2.artifacts.tank.1.0":"Your DEF is Increase by 12",
+  "dv2.artifacts.tank.2.0":"per player within a 6 block radius.",
+  "dv2.artifacts.tank.3.0":"Gain 20 DEF and 20 HP while using.",
+
+  "dv2.artifacts.wanderer":"Wanderer",
+  "dv2.artifacts.wanderer.1.0":"Your STR is REDUCED by 20",
+  "dv2.artifacts.wanderer.2.0":"per player within a 7 block radius.",
+  "dv2.artifacts.wanderer.3.0":"Gain 60 STR while using.",
+  "dv2.artifacts.wanderer.4.0":"(Maximum: 7 players)",
+
+  "dv2.artifacts.vikings":"Vikings",
+  "dv2.artifacts.vikings.1.0":"Your STR is Increase by 5",
+  "dv2.artifacts.vikings.2.0":"per player within a 6 block radius.",
+  "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
+  
+  "dv2.artifacts.vampire.1":"Vampire I",
+  "dv2.artifacts.vampire.1.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.1.2.0":"Absorbs 5% DAMAGE as healing.",
+  "dv2.artifacts.vampire.2":"Vampire II",
+  "dv2.artifacts.vampire.2.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.2.2.0":"Absorbs 10% DAMAGE as healing.",
+  "dv2.artifacts.vampire.3":"Vampire III",
+  "dv2.artifacts.vampire.3.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.3.2.0":"Absorbs 15% DAMAGE as healing.",
+  "dv2.artifacts.vampire.3.3.0":"After killing the enemy, restores 25% of",
+  "dv2.artifacts.vampire.3.4.0":"the enemy's Max HP.",
+
   "dv2.food.canned_food": "罐裝食品",
 
   "[Fortune Ball (Weather)]": "【玻璃占卜球（天氣）】",
