@@ -975,7 +975,7 @@
 
   "dv2.artifacts.berserker":"Berserker",
   "dv2.artifacts.berserker.1.0":"Icrease Strenght by 20% when HP lower Than 60%",
-  "dv2.artifacts.berserker.2.0":"Icrease Strenght by 30% when HP lower Than 40%",
+  "dv2.artifacts.berserker.2.0":"Icrease Strenght by 40% when HP lower Than 30%",
 
   "dv2.food.canned_food": "Canned Food",
 
