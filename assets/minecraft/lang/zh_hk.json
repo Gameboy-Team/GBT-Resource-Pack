@@ -617,13 +617,13 @@
   "dv2.ability.bladed_bow.2.2.0": "蹲下時產生向上的風.",
   "dv2.ability.bladed_bow.2.3.0": "(消耗 Mana)",
 
-  "dv2.weapon.wand.scholar_wand.regular": "學者法杖",
-  "dv2.weapon.wand.scholar_wand.fire": "火．學者法杖",
-  "dv2.weapon.wand.scholar_wand.water": "水．學者法杖",
-  "dv2.weapon.wand.scholar_wand.wind": "風．學者法杖",
-  "dv2.weapon.wand.scholar_wand.earth": "地．學者法杖",
-  "dv2.weapon.wand.scholar_wand.light": "光．學者法杖",
-  "dv2.weapon.wand.scholar_wand.dark": "暗．學者法杖",
+  "dv2.weapon.wand.scholar_wand.regular": "巫師法杖",
+  "dv2.weapon.wand.scholar_wand.fire": "真紅巫師法杖",
+  "dv2.weapon.wand.scholar_wand.water": "蒼青巫師法杖",
+  "dv2.weapon.wand.scholar_wand.wind": "龍捲巫師法杖",
+  "dv2.weapon.wand.scholar_wand.earth": "土曜巫師法杖",
+  "dv2.weapon.wand.scholar_wand.light": "銀光巫師法杖",
+  "dv2.weapon.wand.scholar_wand.dark": "幽漆巫師法杖",
   "dv2.weapon.wand.scholar_wand.rainbow": "彩虹法杖",
   
   "dv2.weapon.wand.scholar_wand.regular.description": "幼兒玩具",
@@ -685,6 +685,27 @@
   "dv2.artifacts.berserker":"狂戰士",
   "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
   "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
+  
+  "dv2.artifacts.coward":"膽小鬼",
+  "dv2.artifacts.coward.1.0":"在生命值低於 50% 時增加 20% SPD",
+  "dv2.artifacts.coward.2.0":"在生命值低於 33% 時增加 40% SPD",
+  
+  "dv2.artifacts.shield.1":"盾牌 I",
+  "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
+  "dv2.artifacts.shield.2":"盾牌 II",
+  "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 30 DEF",
+  "dv2.artifacts.shield.3":"盾牌 III",
+  "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
+  
+  "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
+  "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 10 秒",
+  "dv2.artifacts.totem_of_hope.2":"希望圖騰 II",
+  "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 20 秒",
+  "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
+  "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
+  
+  "dv2.artifacts.resistor":"電阻器",
+  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
   "dv2.food.canned_food": "罐裝食品",
 
