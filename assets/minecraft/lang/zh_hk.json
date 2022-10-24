@@ -481,7 +481,7 @@
   "dv2.ability.muramasa.1.1.3": "1 Dark DMG",
   "dv2.ability.muramasa.1.1.4": ".",
   "dv2.ability.muramasa.1.2.0": "(上限: 10 Dark DMG)",
-  "dv2.ability.muramasa.2.0.0": "惡鬼的契約",
+  "dv2.ability.muramasa.2.0.0": "與惡鬼的契約",
   "dv2.ability.muramasa.2.1.0": "當生命值低於 ",
   "dv2.ability.muramasa.2.1.1": "50%",
   "dv2.ability.muramasa.2.1.2": ",",
@@ -522,9 +522,9 @@
   "dv2.weapon.shield.plasma_shield": "等離子盾",
   "dv2.weapon.shield.plasma_shield.description": "充滿力量的魔力盾牌",
 
-  "dv2.ability.plasma_shield.1.0.0": "閃耀盾牌",
-  "dv2.ability.plasma_shield.1.1.0": "You will receive ",
-  "dv2.ability.plasma_shield.1.1.2": " when wielding this shield.",
+  "dv2.ability.plasma_shield.1.0.0": "散發光芒的護盾",
+  "dv2.ability.plasma_shield.1.1.0": "手持這面護盾時將會獲得",
+  "dv2.ability.plasma_shield.1.1.2": "效果",
 
   "dv2.ability.plasma_shield.2.0.0": "希望的燈塔",
   "dv2.ability.plasma_shield.2.1.0": "增加 ",
@@ -564,7 +564,7 @@
   "dv2.ability.bladed_shield.1.1.0": "蹲下來切換四種元素",
 
   "dv2.weapon.bow.archers_bow": "射手之弓",
-  "dv2.weapon.bow.archers_bow.description": "好老弓",
+  "dv2.weapon.bow.archers_bow.description": "一把好老弓",
 
   "dv2.weapon.bow.great_bow": "精良弓",
   "dv2.weapon.bow.great_bow.description": "就是原版的弓",
@@ -573,7 +573,7 @@
   "dv2.weapon.bow.heavy_bow.description": "小心使用",
 
   "dv2.weapon.bow.quick_charge_bow": "速射弓",
-  "dv2.weapon.bow.quick_charge_bow.description": "快跑~! 是盾牌!",
+  "dv2.weapon.bow.quick_charge_bow.description": "跑啊那裏有盾啊啊啊啊",
 
 
 
@@ -598,7 +598,7 @@
 
   
   "dv2.weapon.bow.destroyer": "破壞者",
-  "dv2.weapon.bow.destroyer.description": "「飄飄」!",
+  "dv2.weapon.bow.destroyer.description": "「砰砰」!",
   "dv2.ability.destroyer.1.0.0": "狙擊手",
   "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
   "dv2.ability.destroyer.1.1.1": "+35 DMG",
@@ -630,9 +630,9 @@
   "dv2.weapon.wand.scholar_wand.fire.description": "加上一抹魔法火焰……",
   "dv2.weapon.wand.scholar_wand.water.description": "能夠控制液體...",
   "dv2.weapon.wand.scholar_wand.wind.description": "隨風飄蕩...",
-  "dv2.weapon.wand.scholar_wand.earth.description": "借助森林之力...",
+  "dv2.weapon.wand.scholar_wand.earth.description": "借助森林與大地之力...",
   "dv2.weapon.wand.scholar_wand.light.description": "與榮耀和正義同行...",
-  "dv2.weapon.wand.scholar_wand.dark.description": "加入黑暗...",
+  "dv2.weapon.wand.scholar_wand.dark.description": "以惡念施於惡魔...",
   "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆",
 
 
