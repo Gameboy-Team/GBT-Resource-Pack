@@ -973,9 +973,9 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "Cost: ",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
-
-
-
+  "dv2.artifacts.berserker":"Berserker",
+  "dv2.artifacts.berserker.1.0":"Icrease Strenght by 20% when HP lower Than 50%",
+  "dv2.artifacts.berserker.2.0":"Icrease Strenght by 40% when HP lower Than 20%",
 
   "dv2.food.canned_food": "Canned Food",
 
