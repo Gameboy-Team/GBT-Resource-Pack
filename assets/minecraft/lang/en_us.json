@@ -1014,6 +1014,17 @@
   "dv2.artifacts.vikings.2.0":"per player within a 6 block radius.",
   "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
   
+  "dv2.artifacts.vampire.1":"Vampire I",
+  "dv2.artifacts.vampire.1.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.1.2.0":"Absorbs 5% DAMAGE as healing.",
+  "dv2.artifacts.vampire.2":"Vampire II",
+  "dv2.artifacts.vampire.2.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.2.2.0":"Absorbs 10% DAMAGE as healing.",
+  "dv2.artifacts.vampire.3":"Vampire III",
+  "dv2.artifacts.vampire.3.1.0":"Your DAMAGE is REDUCED by 15%",
+  "dv2.artifacts.vampire.3.2.0":"Absorbs 15% DAMAGE as healing.",
+  "dv2.artifacts.vampire.3.3.0":"After killing the enemy, restores 25% of",
+  "dv2.artifacts.vampire.3.4.0":"the enemy's Max HP.",
 
   "dv2.food.canned_food": "Canned Food",
 
