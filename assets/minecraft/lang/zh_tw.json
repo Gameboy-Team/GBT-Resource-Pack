@@ -814,10 +814,10 @@
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
-  "dv2.artifacts.tank":"Tank",
-  "dv2.artifacts.tank.1.0":"Your DEF is Increase by 12",
-  "dv2.artifacts.tank.2.0":"per player within a 6 block radius.",
-  "dv2.artifacts.tank.3.0":"Gain 20 DEF and 20 HP while using.",
+  "dv2.artifacts.tank":"坦克",
+  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家,",
+  "dv2.artifacts.tank.2.0":"增加 12 DEF",
+  "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"Wanderer",
   "dv2.artifacts.wanderer.1.0":"Your STR is REDUCED by 20",
