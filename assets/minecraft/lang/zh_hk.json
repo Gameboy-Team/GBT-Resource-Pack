@@ -682,7 +682,11 @@
   "dv2.arrow.power.description_array.0": "當此箭被選取,",
   "dv2.arrow.power.description_array.1": "你的箭會獲得:",
 
+  "dv2.artifacts.berserker":"狂戰士",
+  "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
+  "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
 
+  "dv2.food.canned_food": "罐裝食品",
 
   "[Fortune Ball (Weather)]": "【玻璃占卜球（天氣）】",
   "Fortune Ball (Weather)": "玻璃占卜球（天氣）",
