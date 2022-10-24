@@ -977,6 +977,13 @@
   "dv2.artifacts.berserker.1.0":"Icrease Strenght by 20% when HP lower Than 60%",
   "dv2.artifacts.berserker.2.0":"Icrease Strenght by 40% when HP lower Than 30%",
 
+  "dv2.artifacts.shield.1":"Sheild I",
+  "dv2.artifacts.shield.1.1.0":"Icrease 20 DEF when holding a shield",
+  "dv2.artifacts.shield.2":"Sheild II",
+  "dv2.artifacts.shield.2.1.0":"Icrease 30 DEF when holding a shield",
+  "dv2.artifacts.shield.3":"Sheild III",
+  "dv2.artifacts.shield.3.1.0":"Icrease 40 DEF when holding a shield",
+
   "dv2.food.canned_food": "Canned Food",
 
 
