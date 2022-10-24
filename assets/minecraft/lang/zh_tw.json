@@ -283,7 +283,12 @@
 
 
 
-
+  "rpg.stats.recovery": "回復",
+  "rpg.stats.base_mana": "基礎 Mana",
+  "rpg.stats.mana": "Mana",
+  "rpg.stats.health": "生命",
+  "rpg.stats.speed": "速度",
+  "rpg.stats.stamina": "耐力",
 
   "rpg.enchantments.knockback.1": "擊退 I",
   "rpg.enchantments.knockback.2": "擊退 II",
@@ -295,6 +300,17 @@
   "rpg.effects.blindness": "致盲",
   "rpg.effects.invisible": "隱形",
   "rpg.effects.invisiblity": "隱形",
+  "rpg.effects.burn": "燃燒",
+  "rpg.effects.poison": "劇毒",
+
+  "dv2.kits.berserker.1": "狂戰士 1",
+  "dv2.kits.berserker.2": "狂戰士 2",
+  "dv2.kits.tank.1": "坦克 1",
+  "dv2.kits.tank.2": "坦克 2",
+  "dv2.kits.archer.1": "射手 1",
+  "dv2.kits.archer.2": "射手 2",
+  "dv2.kits.mage.1": "法師 1",
+  "dv2.kits.mage.2": "法師 2",
 
 
   "rpg.equipment.main_hand": "慣用手",
@@ -666,7 +682,111 @@
   "dv2.arrow.power.description_array.0": "當此箭被選取,",
   "dv2.arrow.power.description_array.1": "你的箭會獲得:",
 
+  "dv2.spells.enchantments": " - Enchantments",
 
+  "dv2.spells.long_lasting.wind.1.escape": "Escape (Level 1)",
+  "dv2.spells.long_lasting.wind.1.escape.0": "<Lv 1 - Long Lasting - Wind>",
+  "dv2.spells.long_lasting.wind.1.escape.1": "Removes 33% of your health, and",
+  "dv2.spells.long_lasting.wind.1.escape.2": "increases your SPD for 5s.",
+  "dv2.spells.long_lasting.wind.1.escape.3.0": "Cost: ",
+  "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
+
+
+  "dv2.spells.long_lasting.earth.1.health_recovery_array": "Health Recovery Array (Level 1)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.0": "<Lv 1 - Long Lasting - Earth>",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
+
+
+  
+  "dv2.spells.long_lasting.earth.2.health_recovery_array": "Health Recovery Array (Level 2)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.0": "<Lv 2 - Long Lasting - Earth>",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
+
+
+
+  "dv2.spells.long_lasting.earth.1.defensive_array": "Defensive Array (Level 1)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.0": "<Lv 1 - Long Lasting - Earth>",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.1": "30 DEF",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.1.defensive_array.2": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "Cost: ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.1": "2500 Mana",
+
+
+  
+
+
+  "dv2.spells.long_lasting.earth.2.defensive_array": "Defensive Array (Level 2)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.0": "<Lv 2 - Long Lasting - Earth>",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.1": "50 DEF",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.2.defensive_array.2": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "Cost: ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
+
+
+
+
+  "dv2.spells.long_lasting.earth.1.meat_shield": "Meat Shield (Level 1)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.0": "<Lv 1 - Long Lasting - Earth>",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "100 DEF",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.2": " and ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "70 Elemental DEF (All)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
+  "dv2.spells.long_lasting.earth.1.meat_shield.3": "(Lasts for 20 seconds, Cooldown: 25s)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "Cost: ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "2000 Stamina",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.2": " + ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.3": "200 Hunger",
+
+
+
+
+  "dv2.spells.long_lasting.water.1.mana_recovery_array": "Mana Recovery Array (Level 1)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.0": "<Lv 1 - Long Lasting - Water>",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.1": "+2500 Base Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.3": "+200 Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.1": "10 Block Radius",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.1": "2500 Mana",
+
+
+  "dv2.spells.long_lasting.water.2.mana_recovery_array": "Mana Recovery Array (Level 2)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<Lv 2 - Long Lasting - Water>",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.1": "+3000 Base Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.3": "+300 Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.1": "12 Block Radius",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "[Fortune Ball (Weather)]": "【玻璃占卜球（天氣）】",
   "Fortune Ball (Weather)": "玻璃占卜球（天氣）",

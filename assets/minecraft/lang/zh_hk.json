@@ -283,7 +283,12 @@
 
 
 
-
+  "rpg.stats.recovery": "回復",
+  "rpg.stats.base_mana": "基礎 Mana",
+  "rpg.stats.mana": "Mana",
+  "rpg.stats.health": "生命",
+  "rpg.stats.speed": "速度",
+  "rpg.stats.stamina": "耐力",
 
   "rpg.enchantments.knockback.1": "擊退 I",
   "rpg.enchantments.knockback.2": "擊退 II",
@@ -295,7 +300,17 @@
   "rpg.effects.blindness": "致盲",
   "rpg.effects.invisible": "隱形",
   "rpg.effects.invisiblity": "隱形",
+  "rpg.effects.burn": "燃燒",
+  "rpg.effects.poison": "劇毒",
 
+  "dv2.kits.berserker.1": "狂戰士 1",
+  "dv2.kits.berserker.2": "狂戰士 2",
+  "dv2.kits.tank.1": "坦克 1",
+  "dv2.kits.tank.2": "坦克 2",
+  "dv2.kits.archer.1": "射手 1",
+  "dv2.kits.archer.2": "射手 2",
+  "dv2.kits.mage.1": "法師 1",
+  "dv2.kits.mage.2": "法師 2",
 
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
