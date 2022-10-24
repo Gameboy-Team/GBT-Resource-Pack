@@ -685,6 +685,27 @@
   "dv2.artifacts.berserker":"狂戰士",
   "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
   "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
+  
+  "dv2.artifacts.coward":"膽小鬼",
+  "dv2.artifacts.coward.1.0":"在生命值低於 50% 時增加 20% SPD",
+  "dv2.artifacts.coward.2.0":"在生命值低於 33% 時增加 40% SPD",
+  
+  "dv2.artifacts.shield.1":"盾牌 I",
+  "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
+  "dv2.artifacts.shield.2":"盾牌 II",
+  "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 30 DEF",
+  "dv2.artifacts.shield.3":"盾牌 III",
+  "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
+  
+  "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
+  "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 10 秒",
+  "dv2.artifacts.totem_of_hope.2":"希望圖騰 II",
+  "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 20 秒",
+  "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
+  "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
+  
+  "dv2.artifacts.resistor":"電阻器",
+  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
   "dv2.food.canned_food": "罐裝食品",
 
