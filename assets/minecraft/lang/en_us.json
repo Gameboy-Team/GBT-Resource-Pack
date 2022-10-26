@@ -591,12 +591,21 @@
   "dv2.ability.might_of_an_utu.2.1.0": "Hold Sneak to reduce ",
   "dv2.ability.might_of_an_utu.2.1.1": "33%",
   "dv2.ability.might_of_an_utu.2.1.2": " of your current health,",
+<<<<<<< HEAD
   "dv2.ability.might_of_an_utu.2.2.0": "and increase ",
   "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
   "dv2.ability.might_of_an_utu.2.2.2": " Per ",
   "dv2.ability.might_of_an_utu.2.2.3": "10 ",
   "dv2.ability.might_of_an_utu.2.2.4": "Max HP",
   "dv2.ability.might_of_an_utu.2.2.5": " for 15s.",
+=======
+  "dv2.ability.might_of_an_utu.2.2.0": "Increase ",
+  "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
+  "dv2.ability.might_of_an_utu.2.2.2": " Per ",
+  "dv2.ability.might_of_an_utu.2.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
+  "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
+>>>>>>> d7a3277ad46adf29f1c42fab695bacc07efa78bf
   "dv2.ability.might_of_an_utu.2.3.0": "(Cooldown: 20s)",
 
   "dv2.ability.might_of_an_utu.3.0.0": "Blessing of Utu",
@@ -1010,6 +1019,10 @@
   "dv2.artifacts.berserker":"Berserker",
   "dv2.artifacts.berserker.1.0":"Increase STR by 20% when HP lower Than 60%.",
   "dv2.artifacts.berserker.2.0":"Increase STR by 40% when HP lower Than 30%.",
+
+  "dv2.artifacts.unyielding_heart":"Unyielding Heart",
+  "dv2.artifacts.unyielding_heart.1.0":"Increase DEF by 15% when HP lower Than 50%.",
+  "dv2.artifacts.unyielding_heart.2.0":"Increase DEF by 30% when HP lower Than 33%.",
 
   "dv2.artifacts.coward":"Coward",
   "dv2.artifacts.coward.1.0":"Increase SPD by 20% when HP lower Than 50%.",
