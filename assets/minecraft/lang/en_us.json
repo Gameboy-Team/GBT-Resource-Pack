@@ -597,7 +597,8 @@
   "dv2.ability.might_of_an_utu.2.2.3": "10 ",
   "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
   "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
-  "dv2.ability.might_of_an_utu.2.3.0": "(Cooldown: 20s)",
+  "dv2.ability.might_of_an_utu.2.3.0": "(reduce to 50% HP when your HP more than 50%)",
+  "dv2.ability.might_of_an_utu.2.4.0": "(Cooldown: 20s)",
 
   "dv2.ability.might_of_an_utu.3.0.0": "Blessing of Utu",
   "dv2.ability.might_of_an_utu.3.1.0": "When your health is lower than ",
