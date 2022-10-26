@@ -408,6 +408,41 @@
   "dv2.ability.giant_sword.1.1.1": "10%",
   "dv2.ability.giant_sword.1.1.2": "化作為DMG",
 
+  "dv2.weapon.melee.great_sword.might_of_an_utu": "安烏圖的顯現",
+  "dv2.weapon.melee.great_sword.might_of_an_utu.description": "應當敬畏神，做好覺悟！因那沙瑪什施行審判的時候已經到了。",
+
+  "dv2.ability.might_of_an_utu.1.0.0": "Price of meeting Shamash",
+  "dv2.ability.might_of_an_utu.1.1.0": "When your health is above 50%,",
+  "dv2.ability.might_of_an_utu.1.2.0": "your ",
+  "dv2.ability.might_of_an_utu.1.2.2": " Skill Multiplier is reduced by ",
+  "dv2.ability.might_of_an_utu.1.2.3": "100%",
+  "dv2.ability.might_of_an_utu.1.2.4": ".",
+
+  "dv2.ability.might_of_an_utu.2.0.0": "Sacrifice for god",
+  "dv2.ability.might_of_an_utu.2.1.0": "Sneak to reduce ",
+  "dv2.ability.might_of_an_utu.2.1.1": "33%",
+  "dv2.ability.might_of_an_utu.2.1.2": " of your current health,",
+  "dv2.ability.might_of_an_utu.2.2.0": "and increase ",
+  "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
+  "dv2.ability.might_of_an_utu.2.2.2": " Per ",
+  "dv2.ability.might_of_an_utu.2.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
+  "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
+  "dv2.ability.might_of_an_utu.2.3.0": "(reduce to 50% HP when your HP more than 50%)",
+  "dv2.ability.might_of_an_utu.2.4.0": "(Cooldown: 20s)",
+
+  "dv2.ability.might_of_an_utu.3.0.0": "Blessing of Utu",
+  "dv2.ability.might_of_an_utu.3.1.0": "When your health is lower than ",
+  "dv2.ability.might_of_an_utu.3.1.1": "50%",
+  "dv2.ability.might_of_an_utu.3.1.2": ",",
+  "dv2.ability.might_of_an_utu.3.2.0": "Increase ",
+  "dv2.ability.might_of_an_utu.3.2.1": "80 DEF",
+  "dv2.ability.might_of_an_utu.3.2.2": ", ",
+  "dv2.ability.might_of_an_utu.3.2.3": "5 ",
+  "dv2.ability.might_of_an_utu.3.2.4": "DMG and STR.",
+
+
+
 
 
   "dv2.weapon.melee.soul_scythe": "掠魂之鐮",
