@@ -1008,6 +1008,10 @@
   "dv2.artifacts.berserker.1.0":"Increase STR by 20% when HP lower Than 60%.",
   "dv2.artifacts.berserker.2.0":"Increase STR by 40% when HP lower Than 30%.",
 
+  "dv2.artifacts.unyielding_heart":"Unyielding Heart",
+  "dv2.artifacts.unyielding_heart.1.0":"Increase DEF by 15% when HP lower Than 50%.",
+  "dv2.artifacts.unyielding_heart.2.0":"Increase DEF by 30% when HP lower Than 33%.",
+
   "dv2.artifacts.coward":"Coward",
   "dv2.artifacts.coward.1.0":"Increase SPD by 20% when HP lower Than 50%.",
   "dv2.artifacts.coward.2.0":"Increase SPD by 40% when HP lower Than 33%.",
