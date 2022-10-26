@@ -1065,6 +1065,17 @@
   "dv2.artifacts.vampire.3.3.0":"After killing the enemy, restores 25% of",
   "dv2.artifacts.vampire.3.4.0":"the enemy's Max HP.",
 
+  "dv2.artifacts.wave_sense.1":"Wave Sense I",
+  "dv2.artifacts.wave_sense.1.1.1":"Giving enemy ",
+  "dv2.artifacts.wave_sense.1.1.2":" in an area of 5 blocks diameter.",
+  "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.1.2.2":" effect.",
+  "dv2.artifacts.wave_sense.2":"Wave Sense II",
+  "dv2.artifacts.wave_sense.2.1.1":"Giving enemy ",
+  "dv2.artifacts.wave_sense.2.1.2":" in an area of 7 blocks diameter.",
+  "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.2.2.2":" effect.",
+
   "dv2.food.canned_food": "Canned Food",
 
 
