@@ -591,21 +591,12 @@
   "dv2.ability.might_of_an_utu.2.1.0": "Hold Sneak to reduce ",
   "dv2.ability.might_of_an_utu.2.1.1": "33%",
   "dv2.ability.might_of_an_utu.2.1.2": " of your current health,",
-<<<<<<< HEAD
   "dv2.ability.might_of_an_utu.2.2.0": "and increase ",
-  "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
-  "dv2.ability.might_of_an_utu.2.2.2": " Per ",
-  "dv2.ability.might_of_an_utu.2.2.3": "10 ",
-  "dv2.ability.might_of_an_utu.2.2.4": "Max HP",
-  "dv2.ability.might_of_an_utu.2.2.5": " for 15s.",
-=======
-  "dv2.ability.might_of_an_utu.2.2.0": "Increase ",
   "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
   "dv2.ability.might_of_an_utu.2.2.2": " Per ",
   "dv2.ability.might_of_an_utu.2.2.3": "10 ",
   "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
   "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
->>>>>>> d7a3277ad46adf29f1c42fab695bacc07efa78bf
   "dv2.ability.might_of_an_utu.2.3.0": "(Cooldown: 20s)",
 
   "dv2.ability.might_of_an_utu.3.0.0": "Blessing of Utu",
