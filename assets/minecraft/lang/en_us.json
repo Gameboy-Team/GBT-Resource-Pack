@@ -851,7 +851,7 @@
   "dv2.weapon.wand.scholar_wand.dark": "Tenebris Scholar Wand",
   "dv2.weapon.wand.scholar_wand.rainbow": "Rainbow Wand",
 
-  "dv2.weapon.wand.staff_of_terrestrial": "Staff of Terrestrial",
+  "dv2.weapon.wand.staff_of_terrestria": "Staff of Terrestria",
   
   "dv2.weapon.wand.scholar_wand.regular.description": "Toddler's Toy",
   "dv2.weapon.wand.scholar_wand.fire.description": "Adding a sprinkle of magical flame...",
@@ -861,7 +861,7 @@
   "dv2.weapon.wand.scholar_wand.light.description": "With Glory and Justice...",
   "dv2.weapon.wand.scholar_wand.dark.description": "Into the dark side...",
   "dv2.weapon.wand.scholar_wand.rainbow.description": "upside down t go brrr",
-  "dv2.weapon.wand.staff_of_terrestrial.description": "Feel the Power from Nature!",
+  "dv2.weapon.wand.staff_of_terrestria.description": "Feel the Power from Nature!",
 
   "dv2.ability.magic_beam.1.0.0": "Skill: Magic Beam",
   "dv2.ability.magic_beam.1.1.0": "Shoots out lasers.",
@@ -873,18 +873,18 @@
   "dv2.ability.rock_throw.1.2.0": "Cost: ",
   "dv2.ability.rock_throw.1.2.1": "500 Mana",
   
-  "dv2.ability.staff_of_terrestrial.2.0.0": "Homing Rocks [SHIFT]",
-  "dv2.ability.staff_of_terrestrial.2.1.0": "Sneak to call all your rocks back to you.",
-  "dv2.ability.staff_of_terrestrial.2.2.0": "Cost: ",
-  "dv2.ability.staff_of_terrestrial.2.2.1": "2000 Mana",
+  "dv2.ability.staff_of_terrestria.2.0.0": "Homing Rocks [SHIFT]",
+  "dv2.ability.staff_of_terrestria.2.1.0": "Sneak to call all your rocks back to you.",
+  "dv2.ability.staff_of_terrestria.2.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
-  "dv2.ability.staff_of_terrestrial.3.0.0": "Defensive Nodes",
-  "dv2.ability.staff_of_terrestrial.3.1.0": "Gain 10 DEF per rock homed to you.",
+  "dv2.ability.staff_of_terrestria.3.0.0": "Defensive Nodes",
+  "dv2.ability.staff_of_terrestria.3.1.0": "Gain 10 DEF per rock homed to you.",
 
-  "dv2.ability.staff_of_terrestrial.4.0.0": "Terrestrial Attack [SHIFT]",
-  "dv2.ability.staff_of_terrestrial.4.1.0": "Launch your homed rocks towards your opponent.",
-  "dv2.ability.staff_of_terrestrial.4.2.0": "Cost: ",
-  "dv2.ability.staff_of_terrestrial.4.2.1": "2000 Mana",
+  "dv2.ability.staff_of_terrestria.4.0.0": "Terrestrial Attack [SHIFT]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "Launch your homed rocks towards your opponent.",
+  "dv2.ability.staff_of_terrestria.4.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
 
