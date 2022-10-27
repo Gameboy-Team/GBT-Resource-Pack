@@ -283,7 +283,7 @@
 
 
 
-  "rpg.stats.recovery": "回復",
+  "rpg.stats.recovery": "自然回復",
   "rpg.stats.base_mana": "基礎 Mana",
   "rpg.stats.mana": "Mana",
   "rpg.stats.health": "生命",
@@ -398,6 +398,13 @@
   "dv2.ability.excalibur.2.1.0": "在生命值低於40%時增加",
   "dv2.ability.excalibur.2.1.1": "10點光屬性DMG",
   "dv2.ability.excalibur.2.1.2": "",
+
+  "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
+  "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
+  "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的血量低於120時，你的",
+  "dv2.ability.leaf_steel_sword.1.1.1":"將會被加倍",
+  "dv2.ability.leaf_steel_sword.1.1.2":"",
 
 
   "dv2.weapon.melee.giant_sword": "巨人之劍",
@@ -662,6 +669,8 @@
   "dv2.weapon.wand.scholar_wand.light": "銀光巫師法杖",
   "dv2.weapon.wand.scholar_wand.dark": "幽影巫師法杖",
   "dv2.weapon.wand.scholar_wand.rainbow": "彩虹法杖",
+
+  "dv2.weapon.wand.staff_of_terrestria": "薛西弗斯之杖",
   
   "dv2.weapon.wand.scholar_wand.regular.description": "幼兒玩具",
   "dv2.weapon.wand.scholar_wand.fire.description": "加上一抹魔法火焰...",
@@ -671,12 +680,31 @@
   "dv2.weapon.wand.scholar_wand.light.description": "與榮光和正義同行...",
   "dv2.weapon.wand.scholar_wand.dark.description": "以惡念施於惡魔...",
   "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆",
+  "dv2.weapon.wand.staff_of_terrestria.description": "體會那無止境的岩石吧...",
 
 
-  "dv2.ability.magic_beam.1.0.0": "技能: 魔法光束",
+  "dv2.ability.magic_beam.1.0.0": "技能：魔法光束",
   "dv2.ability.magic_beam.1.1.0": "射出光束",
-  "dv2.ability.magic_beam.1.2.0": "消耗: ",
+  "dv2.ability.magic_beam.1.2.0": "消耗：",
   "dv2.ability.magic_beam.1.2.1": "150 Mana",
+
+  "dv2.ability.rock_throw.1.0.0": "技能：投擲石塊",
+  "dv2.ability.rock_throw.1.1.0": "可以投擲石塊",
+  "dv2.ability.rock_throw.1.2.0": "代價：",
+  "dv2.ability.rock_throw.1.2.1": "500 Mana",
+  
+  "dv2.ability.staff_of_terrestria.2.0.0": "眾石歸位 [蹲下]",
+  "dv2.ability.staff_of_terrestria.2.1.0": "Sneak to call all your rocks back to you.",
+  "dv2.ability.staff_of_terrestria.2.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
+  
+  "dv2.ability.staff_of_terrestria.3.0.0": "Defensive Nodes",
+  "dv2.ability.staff_of_terrestria.3.1.0": "Gain 10 DEF per rock homed to you.",
+
+  "dv2.ability.staff_of_terrestria.4.0.0": "Terrestrial Attack [蹲下]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "Launch your homed rocks towards your opponent.",
+  "dv2.ability.staff_of_terrestria.4.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
 
