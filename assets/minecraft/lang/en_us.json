@@ -654,6 +654,11 @@
   "dv2.ability.vampire_tooth.2.2.0": "when you have the ",
   "dv2.ability.vampire_tooth.2.2.2": " effect.",
 
+  "dv2.weapon.melee.torrent_dagger":"Torrent Dagger",
+  "dv2.weapon.melee.torrent_dagger.description":"Stand with torrent.",
+  "dv2.ability.torrent_dagger.1.0.0":"Aqua Dash",
+  "dv2.ability.torrent_dagger.1.1.0":"Sneak for controling water to dash forward.",
+  "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
 
   "dv2.weapon.melee.odachi.broken_odachi": "Broken Odachi",
   "dv2.weapon.melee.odachi.broken_odachi.description": "Once used by a Skilled Martial Artist.",
