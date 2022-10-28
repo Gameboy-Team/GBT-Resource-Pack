@@ -402,8 +402,8 @@
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
   "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
-  "dv2.ability.leaf_steel_sword.1.1.0":"當你的血量低於120時，你的",
-  "dv2.ability.leaf_steel_sword.1.1.1":"將會被加倍",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的血量低於110時，你的",
+  "dv2.ability.leaf_steel_sword.1.1.1":"將會被X1.5倍",
   "dv2.ability.leaf_steel_sword.1.1.2":"",
 
 
