@@ -105,14 +105,15 @@
     {"predicate": {"custom_model_data":6901018}, "model": "rpg/wand/basic_wand/dark_wand"},
     
 
-    {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/vampire_tooth"},
-    {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/devas_2/vampire_tooth"},
-    {"predicate": {"custom_model_data":7000002}, "model": "rpg/weapon/devas_2/dark_knife"},
-    {"predicate": {"custom_model_data":7000003}, "model": "rpg/weapon/devas_2/dark_knife"},
+    {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
+    {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
+    {"predicate": {"custom_model_data":7000002}, "model": "rpg/weapon/devas_2/dagger/dark_knife"},
+    {"predicate": {"custom_model_data":7000003}, "model": "rpg/weapon/devas_2/dagger/dark_knife"},
     {"predicate": {"custom_model_data":7000004}, "model": "rpg/weapon/devas_2/soul_scythe"},
     {"predicate": {"custom_model_data":7000005}, "model": "rpg/weapon/devas_2/soul_scythe"},
     {"predicate": {"custom_model_data":7000006}, "model": "rpg/weapon/devas_2/odachi/muramasa"},
-    {"predicate": {"custom_model_data":7000007}, "model": "rpg/weapon/devas_2/odachi/muramasa_swing"}
-    
+    {"predicate": {"custom_model_data":7000007}, "model": "rpg/weapon/devas_2/odachi/muramasa_swing"},
+    {"predicate": {"custom_model_data":7000008}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"},
+    {"predicate": {"custom_model_data":7000009}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"}
   ]
 }

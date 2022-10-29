@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "rpg/weapon/devas_2/dark_knife",
-		"particle": "rpg/weapon/devas_2/dark_knife"
+		"4": "rpg/weapon/devas_2/dagger/dark_knife",
+		"particle": "rpg/weapon/devas_2/dagger/dark_knife"
 	},
 	"elements": [
 		{
