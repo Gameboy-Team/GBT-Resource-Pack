@@ -1135,6 +1135,9 @@
   "dv2.artifacts.soldier":"Soldier",
   "dv2.artifacts.soldier.1.0":"Incrase 30 STR when your Max HP lower than 120.",
 
+  "dv2.artifacts.rose_of_void":"Rose of Void",
+  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks diameter.",
+
   "dv2.food.canned_food": "Canned Food",
 
 
