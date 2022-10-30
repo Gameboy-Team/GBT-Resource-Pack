@@ -724,6 +724,9 @@
   "dv2.weapon.shield.iron_shield": "Iron Shield",
   "dv2.weapon.shield.iron_shield.description": "OOh Shinae!",
 
+  "dv2.weapon.shield.bone_shield": "Bone Shield",
+  "dv2.weapon.shield.bone_shield.description": "Crack crack!",
+
   "dv2.weapon.shield.heavy_shield": "Heavy Shield",
   "dv2.weapon.shield.heavy_shield.description": "This shield is made by a skilled blacksmith.",
 
@@ -1071,6 +1074,17 @@
   "dv2.artifacts.totem_of_hope.3":"Totem of Hope III",
   "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 30s.",
 
+  "dv2.artifacts.magic_string.1":"Magic String I",
+  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.2":"Magic String II",
+  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.3":"Magic String III",
+  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
+
+
   "dv2.artifacts.resistor":"Resistor",
   "dv2.artifacts.resistor.1.0":"Increase 40 STR when you have a negative effect.",
 
@@ -1115,6 +1129,9 @@
 
   "dv2.artifacts.fighter":"Fighter",
   "dv2.artifacts.fighter.1.0":"Incrase 30 STR when your DEF lower than 20.",
+
+  "dv2.artifacts.soldier":"Soldier",
+  "dv2.artifacts.soldier.1.0":"Incrase 30 STR when your Max HP lower than 120.",
 
   "dv2.food.canned_food": "Canned Food",
 
