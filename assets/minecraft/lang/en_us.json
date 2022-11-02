@@ -928,8 +928,22 @@
   "dv2.arrow.elemental.light_arrow": "Light Arrow",
   "dv2.arrow.elemental.dark_arrow": "Dark Arrow",
 
-  "dv2.item.melee.elemental.fire_powder.1":"Fire Powder I",
-  "dv2.item.melee.elemental.fire_powder.2":"Fire Powder II",
+  "dv2.item.powder.elemental.fire.1":"Fire Powder I",
+  "dv2.item.powder.elemental.fire.2":"Fire Powder II",
+  "dv2.item.powder.elemental.water.1":"Water Powder I",
+  "dv2.item.powder.elemental.water.2":"Water Powder II",
+  "dv2.item.powder.elemental.wind.1":"Wind Powder I",
+  "dv2.item.powder.elemental.wind.2":"Wind Powder II",
+  "dv2.item.powder.elemental.earth.1":"Earth Powder I",
+  "dv2.item.powder.elemental.earth.2":"Earth Powder II",
+  "dv2.item.powder.elemental.light.1":"Light Powder I",
+  "dv2.item.powder.elemental.light.2":"Light Powder II",
+  "dv2.item.powder.elemental.dark.1":"Dark Powder I",
+  "dv2.item.powder.elemental.dark.2":"Dark Powder II",
+
+
+
+
 
 
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
