@@ -486,7 +486,7 @@
   "dv2.ability.vampire_tooth.2.2.2": "",
 
   "dv2.weapon.melee.torrent_dagger":"激流",
-  "dv2.weapon.melee.torrent_dagger.description":"在激流中前進",
+  "dv2.weapon.melee.torrent_dagger.description":"在激流中前進。",
   "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
   "dv2.ability.torrent_dagger.1.1.0":"潛行以控制水流，使玩家向前衝。",
   "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
@@ -903,19 +903,19 @@
   "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
 
   "dv2.artifacts.magic_string.1":"魔弦 I",
-  "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Mana，",
+  "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Mana",
   "dv2.artifacts.magic_string.1.2.0":"持盾時增加 500 Stamina",
   "dv2.artifacts.magic_string.2":"魔弦 II",
-  "dv2.artifacts.magic_string.2.1.0":"不持盾時增加 2500 Mana，",
+  "dv2.artifacts.magic_string.2.1.0":"不持盾時增加 2500 Mana",
   "dv2.artifacts.magic_string.2.2.0":"持盾時增加 1500 Stamina",
   "dv2.artifacts.magic_string.3":"魔弦 III",
-  "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Mana，",
+  "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Mana",
   "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
   
   "dv2.artifacts.warrior.1":"戰士 I",
-  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 10 STR。",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 10 STR",
   "dv2.artifacts.warrior.2":"戰士 II",
-  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 20 STR。",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 20 STR",
 
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
