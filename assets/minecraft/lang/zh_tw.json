@@ -485,6 +485,12 @@
   "dv2.ability.vampire_tooth.2.2.0": "，同時減少",
   "dv2.ability.vampire_tooth.2.2.2": "",
 
+  "dv2.weapon.melee.torrent_dagger":"激流",
+  "dv2.weapon.melee.torrent_dagger.description":"在激流中前進",
+  "dv2.ability.torrent_dagger.1.0.0":"Aqua Dash",
+  "dv2.ability.torrent_dagger.1.1.0":"Sneak for controling water to dash forward.",
+  "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
+
   "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",
   "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過",
   "dv2.weapon.melee.odachi.wooden_odachi": "木大太刀",
@@ -878,7 +884,22 @@
   "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 20 秒",
   "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
   "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
+
+  "dv2.artifacts.magic_string.1":"魔弦 I",
+  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.2":"魔弦 II",
+  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.3":"魔弦 III",
+  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
   
+  "dv2.artifacts.warrior.1":"戰士 I",
+  "dv2.artifacts.warrior.1.1.0":"Increase 10 STR when holding without shield.",
+  "dv2.artifacts.warrior.2":"戰士 II",
+  "dv2.artifacts.warrior.2.1.0":"Increase 20 STR when holding without shield.",
+
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
@@ -920,6 +941,15 @@
   "dv2.artifacts.wave_sense.2.1.2":"效果",
   "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.2.2.2":" effect.",
+
+  "dv2.artifacts.fighter":"鬥士",
+  "dv2.artifacts.fighter.1.0":"Incrase 30 STR when your DEF lower than 20.",
+
+  "dv2.artifacts.soldier":"軍人",
+  "dv2.artifacts.soldier.1.0":"Incrase 30 STR when your Max HP lower than 120.",
+
+  "dv2.artifacts.rose_of_void":"奈落之瑰",
+  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks diameter.",
 
   "dv2.food.canned_food": "罐裝食品",
 
