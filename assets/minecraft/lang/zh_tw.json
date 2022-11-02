@@ -487,9 +487,9 @@
 
   "dv2.weapon.melee.torrent_dagger":"激流",
   "dv2.weapon.melee.torrent_dagger.description":"在激流中前進",
-  "dv2.ability.torrent_dagger.1.0.0":"Aqua Dash",
-  "dv2.ability.torrent_dagger.1.1.0":"Sneak for controling water to dash forward.",
-  "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
+  "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
+  "dv2.ability.torrent_dagger.1.1.0":"潛行以控制水流，使玩家向前衝。",
+  "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
 
   "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",
   "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過",
@@ -743,6 +743,23 @@
   "dv2.arrow.elemental.earth_arrow": "土屬性箭矢",
   "dv2.arrow.elemental.light_arrow": "光屬性箭矢",
   "dv2.arrow.elemental.dark_arrow": "暗屬性箭矢",
+
+  "dv2.item.powder.elemental.fire.1":"火屬性粉末 I",
+  "dv2.item.powder.elemental.fire.2":"火屬性粉末 II",
+  "dv2.item.powder.elemental.water.2":"水屬性粉末 II",
+  "dv2.item.powder.elemental.water.1":"水屬性粉末 I",
+  "dv2.item.powder.elemental.wind.1":"風屬性粉末 I",
+  "dv2.item.powder.elemental.wind.2":"風屬性粉末 II",
+  "dv2.item.powder.elemental.earth.1":"土屬性粉末 I",
+  "dv2.item.powder.elemental.earth.2":"土屬性粉末 II",
+  "dv2.item.powder.elemental.light.1":"光屬性粉末 I",
+  "dv2.item.powder.elemental.light.2":"光屬性粉末 II",
+  "dv2.item.powder.elemental.dark.1":"暗屬性粉末 I",
+  "dv2.item.powder.elemental.dark.2":"暗屬性粉末 II",
+
+
+
+
 
 
   "dv2.arrow.power.description.0": "當此箭被選取,",
