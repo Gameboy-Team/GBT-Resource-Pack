@@ -1,0 +1,15 @@
+
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/gunpowder"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100001}, "model": "rpg/item/powder/fire"},
+        {"predicate": {"custom_model_data":100002}, "model": "rpg/item/powder/water"},
+        {"predicate": {"custom_model_data":100003}, "model": "rpg/item/powder/wind"},
+        {"predicate": {"custom_model_data":100004}, "model": "rpg/item/powder/earth"},
+        {"predicate": {"custom_model_data":100005}, "model": "rpg/item/powder/light"},
+        {"predicate": {"custom_model_data":100006}, "model": "rpg/item/powder/dark"}
+    ]
+}
