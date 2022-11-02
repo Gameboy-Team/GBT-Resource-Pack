@@ -1090,9 +1090,9 @@
   "dv2.artifacts.shield.3.1.0":"Increase 40 DEF when holding a shield.",
 
   "dv2.artifacts.warrior.1":"Warrior I",
-  "dv2.artifacts.warrior.1.1.0":"Increase 10 STR when holding without shield.",
+  "dv2.artifacts.warrior.1.1.0":"Increase 10 STR when not holding shield.",
   "dv2.artifacts.warrior.2":"Warrior II",
-  "dv2.artifacts.warrior.2.1.0":"Increase 20 STR when holding without shield.",
+  "dv2.artifacts.warrior.2.1.0":"Increase 20 STR when not holding shield.",
 
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 10s.",
@@ -1102,13 +1102,13 @@
   "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 30s.",
 
   "dv2.artifacts.magic_string.1":"Magic String I",
-  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Mana when not holding shield,",
   "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
   "dv2.artifacts.magic_string.2":"Magic String II",
-  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Mana when not holding shield,",
   "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
   "dv2.artifacts.magic_string.3":"Magic String III",
-  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Mana when holding without shield,",
+  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Mana when not holding shield,",
   "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
 
 
@@ -1155,10 +1155,10 @@
   "dv2.artifacts.wave_sense.2.2.2":" effect.",
 
   "dv2.artifacts.fighter":"Fighter",
-  "dv2.artifacts.fighter.1.0":"Incrase 30 STR when your DEF lower than 20.",
+  "dv2.artifacts.fighter.1.0":"Increase 30 STR when your DEF lower than 20.",
 
   "dv2.artifacts.soldier":"Soldier",
-  "dv2.artifacts.soldier.1.0":"Incrase 30 STR when your Max HP lower than 120.",
+  "dv2.artifacts.soldier.1.0":"Increase 30 STR when your Max HP lower than 120.",
 
   "dv2.artifacts.rose_of_void":"Rose of Void",
   "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks diameter.",
