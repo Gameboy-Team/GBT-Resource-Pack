@@ -929,12 +929,17 @@
   "dv2.arrow.elemental.dark_arrow": "Dark Arrow",
 
   "dv2.item.melee.elemental.fire_powder.1":"Fire Powder I",
+  "dv2.item.melee.elemental.fire_powder.2":"Fire Powder II",
+
 
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
   "dv2.arrow.power.description.1.2": ".",
 
   
+
+
+
   "dv2.arrow.power.description_array.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description_array.1": "will have:",
 
