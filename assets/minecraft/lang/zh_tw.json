@@ -961,10 +961,18 @@
   "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.1.2.2":" effect.",
   "dv2.artifacts.wave_sense.2":"感知 II",
-  "dv2.artifacts.wave_sense.2.1.1":"給予直徑7格範圍内的敵人",
+  "dv2.artifacts.wave_sense.2.1.1":"給予直徑10格範圍内的敵人",
   "dv2.artifacts.wave_sense.2.1.2":"效果",
   "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.2.2.2":" effect.",
+  "dv2.artifacts.wave_sense.3":"感知 III",
+  "dv2.artifacts.wave_sense.3.1.1":"給予直徑15格範圍内的敵人",
+  "dv2.artifacts.wave_sense.3.1.2":" 效果",
+  "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.3.2.2":" effect.",
+
+
+
 
   "dv2.artifacts.fighter":"鬥士",
   "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 STR",
@@ -974,6 +982,11 @@
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
   "dv2.artifacts.rose_of_void.1.0":"將直徑 6 格範圍內敵人的 DEF 降至 50%",
+
+  "dv2.artifacts.awakened":"覺者",
+  "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
+  "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Mana.",
+
 
   "dv2.food.canned_food": "罐裝食品",
 
