@@ -336,20 +336,20 @@
 
   "dv2.ability.longsword.0.0": "長劍 (右鍵發動)",
   "dv2.ability.longsword.1.0": "右鍵時造成長劍原本傷害的",
-  "dv2.ability.longsword.1.1": "1.5",
+  "dv2.ability.longsword.1.1": "1",
   "dv2.ability.longsword.1.2": "倍",
   "dv2.ability.longsword.2.0": "(此攻擊有更長的攻擊範圍)",
 
   "dv2.ability.greatsword.0.0": "巨劍 (右鍵發動)",
   "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害的",
-  "dv2.ability.greatsword.1.1": "1.5",
+  "dv2.ability.greatsword.1.1": "2.5",
   "dv2.ability.greatsword.1.2": "倍",
   "dv2.ability.greatsword.2.0": "（需要大量的體力，並會減緩你的速度）",
 
   "dv2.ability.odachi.0.0": "大太刀 (右鍵發動)",
   "dv2.ability.odachi.1.0": "右鍵時向前突刺,",
   "dv2.ability.odachi.2.0": "對路徑上敵人 ",
-  "dv2.ability.odachi.2.1": "四倍 DMG",
+  "dv2.ability.odachi.2.1": "2.5倍 DMG",
   "dv2.ability.odachi.2.2": " 傷害",
 
 
