@@ -464,6 +464,8 @@
   "rpg.effects.invisiblity": "Invisibility",
   "rpg.effects.burn": "Burn",
   "rpg.effects.poison": "Poison",
+  "rpg.effects.darkness": "Darkness",
+  "rpg.effects.freeze": "Freeze",
 
 
   "rpg.equipment.main_hand": "Main Hand",
@@ -718,6 +720,33 @@
   "dv2.ability.muramasa.2.3.1": ", 5 DMG and STR.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"Jurisdiction of Selene",
+  "dv2.weapon.melee.jurisdiction_of_selene.description":"She is here. And forever has no end!",
+  "dv2.ability.jurisdiction_of_selene.1.0.0":"Full Moon",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"When your health is more than ",
+  "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.1.1.2":", ",
+  "dv2.ability.jurisdiction_of_selene.1.2.0":"Immune ",
+  "dv2.ability.jurisdiction_of_selene.1.2.1":" effect and ",
+  "dv2.ability.jurisdiction_of_selene.1.2.2":" effect.",
+  "dv2.ability.jurisdiction_of_selene.2.0.0":"Waning moon",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"When your health is less than ",
+  "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.2.1.2":", ",
+  "dv2.ability.jurisdiction_of_selene.2.2.0":"Immune ",
+  "dv2.ability.jurisdiction_of_selene.2.2.1":" effect and receive ",
+  "dv2.ability.jurisdiction_of_selene.2.2.2":" effect.",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"Luna's Power",
+  "dv2.ability.jurisdiction_of_selene.3.1.0":"Giving enemy ",
+  "dv2.ability.jurisdiction_of_selene.3.1.1":" effect in an area of 4 blocks diameter.",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"Hydro Pump -- Illusionary",
+  "dv2.ability.jurisdiction_of_selene.4.1.0":"Sneak to control water for pumping enemy",
+  "dv2.ability.jurisdiction_of_selene.4.2.0":"in an area of 3 blocks diameter to move backward.",
+  "dv2.ability.jurisdiction_of_selene.4.3.0":"(Requires Mana)",
+
+
+
+
+
 
 
   "dv2.weapon.shield.wooden_shield": "Wooden Shield",

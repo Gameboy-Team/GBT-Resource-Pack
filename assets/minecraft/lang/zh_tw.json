@@ -302,6 +302,9 @@
   "rpg.effects.invisiblity": "隱形",
   "rpg.effects.burn": "燃燒",
   "rpg.effects.poison": "劇毒",
+  "rpg.effects.darkness": "黑暗",
+  "rpg.effects.freeze": "冰凍",
+
 
   "dv2.kits.berserker.1": "狂戰士 1",
   "dv2.kits.berserker.2": "狂戰士 2",
@@ -547,6 +550,29 @@
   "dv2.ability.muramasa.2.3.1": "，5點DMG和STR.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"塞勒涅的權能",
+  "dv2.weapon.melee.jurisdiction_of_selene.description":"祂就在這裏，永恆不變！",
+  "dv2.ability.jurisdiction_of_selene.1.0.0":"滿月",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"當生命值低於",
+  "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.1.1.2":"，",
+  "dv2.ability.jurisdiction_of_selene.1.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.1.2.1":"效果和",
+  "dv2.ability.jurisdiction_of_selene.1.2.2":"效果",
+  "dv2.ability.jurisdiction_of_selene.2.0.0":"殘月",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"當生命值低於",
+  "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.2.1.2":"，",
+  "dv2.ability.jurisdiction_of_selene.2.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.2.2.1":"效果和獲得",
+  "dv2.ability.jurisdiction_of_selene.2.2.2":"效果",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"露娜的權柄",
+  "dv2.ability.jurisdiction_of_selene.3.1.0":"給予直徑4格範圍内的敵人",
+  "dv2.ability.jurisdiction_of_selene.3.1.1":"效果",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"水流波動--鏡花水月",
+  "dv2.ability.jurisdiction_of_selene.4.1.0":"潛行以控制水流，",
+  "dv2.ability.jurisdiction_of_selene.4.2.0":"推動直徑3格範圍内的敵人後退",
+  "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
+
 
 
   "dv2.weapon.shield.wooden_shield": "木盾",
