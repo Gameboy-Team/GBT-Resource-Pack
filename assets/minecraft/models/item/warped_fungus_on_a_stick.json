@@ -75,6 +75,8 @@
     {"predicate": {"custom_model_data":6900207}, "model": "rpg/weapon/sword/longsword/iron_swing"},
     {"predicate": {"custom_model_data":6900208}, "model": "rpg/weapon/sword/longsword/golden"},
     {"predicate": {"custom_model_data":6900209}, "model": "rpg/weapon/sword/longsword/golden_swing"},
+    {"predicate": {"custom_model_data":6900210}, "model": "rpg/weapon/sword/longsword/jurisdiction_of_selene"},
+    {"predicate": {"custom_model_data":6900211}, "model": "rpg/weapon/sword/longsword/jurisdiction_of_selene_swing"},
 
     {"predicate": {"custom_model_data":6900300}, "model": "rpg/weapon/sword/greatsword/wood"},
     {"predicate": {"custom_model_data":6900301}, "model": "rpg/weapon/sword/greatsword/wood_swing"},
