@@ -728,20 +728,20 @@
 
   "dv2.ability.rock_throw.1.0.0": "技能：投擲石塊",
   "dv2.ability.rock_throw.1.1.0": "可以投擲石塊",
-  "dv2.ability.rock_throw.1.2.0": "代價：",
+  "dv2.ability.rock_throw.1.2.0": "消耗：",
   "dv2.ability.rock_throw.1.2.1": "500 Mana",
   
   "dv2.ability.staff_of_terrestria.2.0.0": "眾石歸位 [蹲下]",
-  "dv2.ability.staff_of_terrestria.2.1.0": "Sneak to call all your rocks back to you.",
-  "dv2.ability.staff_of_terrestria.2.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.2.1.0": "蹲下以將所有石塊喚回你的身邊",
+  "dv2.ability.staff_of_terrestria.2.2.0": "消耗：",
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
-  "dv2.ability.staff_of_terrestria.3.0.0": "Defensive Nodes",
-  "dv2.ability.staff_of_terrestria.3.1.0": "Gain 10 DEF per rock homed to you.",
+  "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
+  "dv2.ability.staff_of_terrestria.3.1.0": "每顆被喚回的石塊將會增加你10點防禦力",
 
-  "dv2.ability.staff_of_terrestria.4.0.0": "Terrestrial Attack [蹲下]",
-  "dv2.ability.staff_of_terrestria.4.1.0": "Launch your homed rocks towards your opponent.",
-  "dv2.ability.staff_of_terrestria.4.2.0": "Cost: ",
+  "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
+  "dv2.ability.staff_of_terrestria.4.2.0": "消耗: ",
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
@@ -826,7 +826,7 @@
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "代價: ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "消耗: ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
 
 
@@ -838,7 +838,7 @@
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "代價: ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "消耗: ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
 
 
@@ -849,7 +849,7 @@
   "dv2.spells.long_lasting.earth.1.defensive_array.1.1": "30 DEF",
   "dv2.spells.long_lasting.earth.1.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.1.defensive_array.2": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "代價: ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "消耗: ",
   "dv2.spells.long_lasting.earth.1.defensive_array.3.1": "2500 Mana",
 
 
@@ -862,7 +862,7 @@
   "dv2.spells.long_lasting.earth.2.defensive_array.1.1": "50 DEF",
   "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.2.defensive_array.2": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "代價: ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗: ",
   "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
 
 
@@ -878,7 +878,7 @@
   "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
   "dv2.spells.long_lasting.earth.1.meat_shield.3": "(持續20秒，冷卻25秒)",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "代價: ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "消耗: ",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "2000 Stamina",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.2": " + ",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.3": "200 Hunger",
@@ -897,7 +897,7 @@
   "dv2.spells.long_lasting.water.1.mana_recovery_array.2.1": "10 Block Radius",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.2.2": ".",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "代價: ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "消耗: ",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.4.1": "2500 Mana",
 
 
@@ -912,7 +912,7 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.2.1": "12 Block Radius",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.2.2": ".",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "代價: ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗: ",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "dv2.artifacts.berserker":"狂戰士",
@@ -1016,8 +1016,8 @@
   "dv2.artifacts.rose_of_void.1.0":"將直徑 6 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.awakened":"覺者",
-  "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
-  "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Mana.",
+  "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
+  "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Mana",
 
 
   "dv2.food.canned_food": "罐裝食品",
