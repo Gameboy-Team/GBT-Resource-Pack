@@ -105,6 +105,7 @@
     {"predicate": {"custom_model_data":6901014}, "model": "rpg/wand/basic_wand/earth_wand"},
     {"predicate": {"custom_model_data":6901016}, "model": "rpg/wand/basic_wand/light_wand"},
     {"predicate": {"custom_model_data":6901018}, "model": "rpg/wand/basic_wand/dark_wand"},
+    {"predicate": {"custom_model_data":6901020}, "model": "rpg/wand/staff_of_terrestria"},
     
 
     {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
