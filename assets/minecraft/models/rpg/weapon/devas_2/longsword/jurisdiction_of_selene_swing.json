@@ -1,10 +1,10 @@
 {
 	"credit": "Made by lavafoxerex",
 	"textures": {
-		"2": "rpg/weapon/sword/longsword/jurisdiction_of_selene",
-		"particle": "rpg/weapon/sword/longsword/jurisdiction_of_selene"
+		"2": "rpg/weapon/devas_2/longsword/jurisdiction_of_selene",
+		"particle": "rpg/weapon/devas_2/longsword/jurisdiction_of_selene"
 	},
-	"parent": "rpg/weapon/sword/longsword/jurisdiction_of_selene",
+	"parent": "rpg/weapon/devas_2/longsword/jurisdiction_of_selene",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 0, -180],
