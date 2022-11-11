@@ -351,8 +351,8 @@
   "dv2.ability.greatsword.2.0": "（需要大量的 Stamina，並會減緩你的速度）",
 
   "dv2.ability.odachi.0.0": "大太刀 (右鍵發動)",
-  "dv2.ability.odachi.1.0": "右鍵時向前突刺,",
-  "dv2.ability.odachi.2.0": "對路徑上敵人 ",
+  "dv2.ability.odachi.1.0": "右鍵時向前突刺，",
+  "dv2.ability.odachi.2.0": "對路徑上的敵人造成 ",
   "dv2.ability.odachi.2.1": "2.5倍 DMG",
   "dv2.ability.odachi.2.2": " 傷害",
 
@@ -406,7 +406,7 @@
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
   "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
   "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大生命值低於120時，你的",
-  "dv2.ability.leaf_steel_sword.1.1.1":"將會被X1.5倍",
+  "dv2.ability.leaf_steel_sword.1.1.1":"將會被增加1.5倍",
   "dv2.ability.leaf_steel_sword.1.1.2":"",
 
 
@@ -421,7 +421,7 @@
   "dv2.weapon.melee.great_sword.might_of_an_utu": "安烏圖的顯現",
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "應當敬畏神，做好覺悟！因那沙瑪什審判之時已經到了。",
 
-  "dv2.ability.might_of_an_utu.1.0.0": "會見沙馬什的代價",
+  "dv2.ability.might_of_an_utu.1.0.0": "會見沙瑪什的代價",
   "dv2.ability.might_of_an_utu.1.1.0": "當血量高於50%時，",
   "dv2.ability.might_of_an_utu.1.2.0": "你的",
   "dv2.ability.might_of_an_utu.1.2.2": "倍數將會減少",
@@ -491,7 +491,7 @@
   "dv2.weapon.melee.torrent_dagger":"激流",
   "dv2.weapon.melee.torrent_dagger.description":"在激流中前進。",
   "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
-  "dv2.ability.torrent_dagger.1.1.0":"潛行以控制水流，使玩家向前衝。",
+  "dv2.ability.torrent_dagger.1.1.0":"蹲下以控制水流，使玩家向前衝。",
   "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
 
   "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",

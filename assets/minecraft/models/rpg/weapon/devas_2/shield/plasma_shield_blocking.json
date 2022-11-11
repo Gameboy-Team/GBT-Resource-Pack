@@ -2,36 +2,35 @@
 	"parent": "rpg/weapon/devas_2/shield/plasma_shield",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-30.55, -80.18, -95.57],
+			"rotation": [80.69, -25.03, 21.42],
 			"translation": [0, 0.25, -2],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-30.55, -80.18, -95.57],
+			"rotation": [80.69, -25.03, 21.42],
 			"translation": [0, 0.25, -2],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"firstperson_righthand": {
-			"rotation": [108.55, -90.19, 92.1],
-			"translation": [-4, 3, -1],
-			"scale": [0.85, 0.85, 0.85]
+			"rotation": [13.75, -15, 0],
+			"translation": [-0.5, 3, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [108.55, -90.19, 92.1],
-			"translation": [-4, 3, -1],
-			"scale": [0.85, 0.85, 0.85]
+			"rotation": [13.75, -15, 0],
+			"translation": [-0.5, 3, 0]
 		},
-		"ground": {
-			"scale": [0.5, 0.5, 0.5]
+		"gui": {
+			"rotation": [167.03, 16.68, -164.34],
+			"translation": [0, 0.75, 0],
+			"scale": [0.65, 0.65, 0.65]
 		},
 		"head": {
-			"rotation": [89, 0, 0],
-			"translation": [0, 7.25, -28.25],
-			"scale": [2.21875, 4, 1]
+			"translation": [0, 0, -7.75]
 		},
 		"fixed": {
-			"translation": [0, -2.25, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [165.18, -176, -159.91],
+			"translation": [0, 0.75, 0],
+			"scale": [0.65, 0.65, 0.65]
 		}
 	}
 }
