@@ -588,7 +588,7 @@
   "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
 
   "dv2.weapon.shield.bedrock_shield": "基岩盾",
-  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!.",
+  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!",
 
   "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
   "dv2.ability.heavy_shield.1.1.0": "在生命值低於40%時增加",
@@ -621,12 +621,12 @@
   "dv2.ability.mega_shield.1.0.0": "抗擊退",
   "dv2.ability.mega_shield.1.1.0": "獲得 ",
   "dv2.ability.mega_shield.1.1.1": "擊退抗性",
-  "dv2.ability.mega_shield.1.1.2": ".",
+  "dv2.ability.mega_shield.1.1.2": "。",
 
   "dv2.ability.antikb.1.0.0": "抗擊退",
   "dv2.ability.antikb.1.1.0": "獲得 ",
   "dv2.ability.antikb.1.1.1": "擊退抗性",
-  "dv2.ability.antikb.1.1.2": ".",
+  "dv2.ability.antikb.1.1.2": "。",
 
 
 
@@ -741,7 +741,7 @@
 
   "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
   "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
-  "dv2.ability.staff_of_terrestria.4.2.0": "消耗: ",
+  "dv2.ability.staff_of_terrestria.4.2.0": "消耗：",
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
@@ -749,14 +749,14 @@
 
 
   "dv2.arrow.effects.burning_arrow": "燃燒箭",
-  "dv2.arrow.effects.burning_arrow.0": "當此箭被選取, ",
+  "dv2.arrow.effects.burning_arrow.0": "當此箭被選取，",
   "dv2.arrow.effects.burning_arrow.1.0": "你的箭會有 50% 機率觸發 ",
   "dv2.arrow.effects.burning_arrow.2": "效果 3秒",
   "dv2.arrow.effects.burning_arrow.3": "(4 HP 每秒)",
 
 
   "dv2.arrow.effects.poison": "劇毒箭",
-  "dv2.arrow.effects.poison.0": "當此箭被選取,",
+  "dv2.arrow.effects.poison.0": "當此箭被選取，",
   "dv2.arrow.effects.poison.1.0": "你的箭會有 50% 機率觸發 ",
   "dv2.arrow.effects.poison.2": "效果 3秒",
   "dv2.arrow.effects.poison.3": "(2% HP 每秒)",
@@ -815,7 +815,7 @@
   "dv2.spells.long_lasting.wind.1.escape.0": "<等級一 - 持久型 - 風屬性>",
   "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的血量，",
   "dv2.spells.long_lasting.wind.1.escape.2": "並增加你的 SPD 5秒",
-  "dv2.spells.long_lasting.wind.1.escape.3.0": "代價: ",
+  "dv2.spells.long_lasting.wind.1.escape.3.0": "代價：",
   "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
 
 
@@ -826,7 +826,7 @@
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "消耗: ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
 
 
@@ -838,7 +838,7 @@
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "消耗: ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
 
 
@@ -849,7 +849,7 @@
   "dv2.spells.long_lasting.earth.1.defensive_array.1.1": "30 DEF",
   "dv2.spells.long_lasting.earth.1.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.1.defensive_array.2": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "消耗: ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "消耗：",
   "dv2.spells.long_lasting.earth.1.defensive_array.3.1": "2500 Mana",
 
 
@@ -862,7 +862,7 @@
   "dv2.spells.long_lasting.earth.2.defensive_array.1.1": "50 DEF",
   "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.2.defensive_array.2": "(持續30秒)",
-  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗: ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗：",
   "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
 
 
@@ -878,7 +878,7 @@
   "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
   "dv2.spells.long_lasting.earth.1.meat_shield.3": "(持續20秒，冷卻25秒)",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "消耗: ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "消耗：",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "2000 Stamina",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.2": " + ",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.3": "200 Hunger",
@@ -897,12 +897,12 @@
   "dv2.spells.long_lasting.water.1.mana_recovery_array.2.1": "10 Block Radius",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.2.2": ".",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "消耗: ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.water.1.mana_recovery_array.4.1": "2500 Mana",
 
 
   "dv2.spells.long_lasting.water.2.mana_recovery_array": "魔力回復法陣 (等級二)",
-  "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<等級二 - 持久型 - Water>",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<等級二 - 持久型 - 水屬性>",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.1.0": "Grants ",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.1.1": "+3000 Base Mana",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.1.2": " and ",
@@ -912,7 +912,7 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.2.1": "12 Block Radius",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.2.2": ".",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
-  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗: ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "dv2.artifacts.berserker":"狂戰士",
@@ -960,18 +960,18 @@
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
   "dv2.artifacts.tank":"坦克",
-  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家,",
+  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家，",
   "dv2.artifacts.tank.2.0":"增加 12 DEF",
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"遊子",
-  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家",
+  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 STR",
   "dv2.artifacts.wanderer.3.0":"使用時增加 50 STR",
   "dv2.artifacts.wanderer.4.0":"(上限：9位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
-  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的玩家,",
+  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的玩家，",
   "dv2.artifacts.vikings.2.0":"將會增加你 5 STR",
   "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
   
@@ -984,7 +984,7 @@
   "dv2.artifacts.vampire.3":"吸血鬼 III",
   "dv2.artifacts.vampire.3.1.0":"攻擊力減少 15%",
   "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
-  "dv2.artifacts.vampire.3.3.0":"擊殺敵人後,",
+  "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
 
   "dv2.artifacts.wave_sense.1":"感知 I",
