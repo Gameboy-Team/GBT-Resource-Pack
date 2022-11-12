@@ -759,11 +759,11 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_righthand": {
-			"rotation": [66.42, -57.19, -38.58],
+			"rotation": [-16.47, -77.91, -124.59],
 			"translation": [5.75, 3.25, -9.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [66.42, -57.19, -38.58],
+			"rotation": [-16.47, -77.91, -124.59],
 			"translation": [5.75, 3.25, -9.75]
 		},
 		"gui": {
