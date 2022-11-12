@@ -290,6 +290,8 @@
   "rpg.stats.speed": "速度",
   "rpg.stats.stamina": "耐力",
 
+  "rpg.settings.get.resourcepack": "[點擊此處獲取資源包鏈接]",
+
   "rpg.enchantments.knockback.1": "擊退 I",
   "rpg.enchantments.knockback.2": "擊退 II",
   "rpg.enchantments.knockback.3": "擊退 III",
@@ -326,9 +328,6 @@
 
 
 
-
-
-  
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
   "dv2.ability.dagger.1.0": "右鍵時造成匕首原本傷害的",
   "dv2.ability.dagger.1.1": "0.5",

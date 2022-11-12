@@ -290,6 +290,8 @@
   "rpg.stats.speed": "速",
   "rpg.stats.stamina": "耐",
 
+  "rpg.settings.get.resourcepack": "[以下此則取資囊]",
+
   "rpg.enchantments.knockback.1": "退 一階",
   "rpg.enchantments.knockback.2": "退 二階",
   "rpg.enchantments.knockback.3": "退 三階",

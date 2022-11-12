@@ -446,11 +446,7 @@
   "rpg.stats.speed": "Speed",
   "rpg.stats.stamina": "Stamina",
 
-
-
-
-
-
+  "rpg.settings.get.resourcepack": "[Click Here for Resource Pack Link]",
 
   "rpg.enchantments.knockback.1": "Knockback I",
   "rpg.enchantments.knockback.2": "Knockback II",
@@ -476,7 +472,6 @@
   "rpg.equipment.chestplate": "Chestplate",
   "rpg.equipment.leggings": "Leggings",
   "rpg.equipment.boots": "Boots",
-
 
 
 
