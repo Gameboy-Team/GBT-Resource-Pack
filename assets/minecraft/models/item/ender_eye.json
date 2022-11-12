@@ -19,6 +19,11 @@
       {"predicate": {"custom_model_data":6900022}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_0"},
       {"predicate": {"custom_model_data":6900023}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_1"},
 
+      {"predicate": {"custom_model_data":6900030}, "model": "rpg/weapon/bow/greatbow/greatbow"},
+      {"predicate": {"custom_model_data":6900031}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_0"},
+      {"predicate": {"custom_model_data":6900032}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_1"},
+      {"predicate": {"custom_model_data":6900033}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_2"},
+
       {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},
       {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/gun/r6/416c_carbine/aim"}
   ]
