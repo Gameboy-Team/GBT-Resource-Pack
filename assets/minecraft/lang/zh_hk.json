@@ -283,10 +283,10 @@
 
 
 
-  "rpg.stats.recovery": "回復",
+  "rpg.stats.recovery": "自然回復",
   "rpg.stats.base_mana": "基礎 Mana",
   "rpg.stats.mana": "Mana",
-  "rpg.stats.health": "生命",
+  "rpg.stats.health": "HP",
   "rpg.stats.speed": "速度",
   "rpg.stats.stamina": "耐力",
 
@@ -302,6 +302,9 @@
   "rpg.effects.invisiblity": "隱形",
   "rpg.effects.burn": "燃燒",
   "rpg.effects.poison": "劇毒",
+  "rpg.effects.darkness": "黑暗",
+  "rpg.effects.freeze": "冰凍",
+
 
   "dv2.kits.berserker.1": "狂戰士 1",
   "dv2.kits.berserker.2": "狂戰士 2",
@@ -311,6 +314,7 @@
   "dv2.kits.archer.2": "射手 2",
   "dv2.kits.mage.1": "法師 1",
   "dv2.kits.mage.2": "法師 2",
+
 
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
@@ -336,19 +340,19 @@
 
   "dv2.ability.longsword.0.0": "長劍 (右鍵發動)",
   "dv2.ability.longsword.1.0": "右鍵時造成長劍原本傷害的",
-  "dv2.ability.longsword.1.1": "1",
+  "dv2.ability.longsword.1.1": "1.25",
   "dv2.ability.longsword.1.2": "倍",
   "dv2.ability.longsword.2.0": "(此攻擊有更長的攻擊範圍)",
 
   "dv2.ability.greatsword.0.0": "巨劍 (右鍵發動)",
   "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害的",
-  "dv2.ability.greatsword.1.1": "2.5",
+  "dv2.ability.greatsword.1.1": "3",
   "dv2.ability.greatsword.1.2": "倍",
-  "dv2.ability.greatsword.2.0": "（需要大量的體力，並會減緩你的速度）",
+  "dv2.ability.greatsword.2.0": "（需要大量的 Stamina，並會減緩你的速度）",
 
   "dv2.ability.odachi.0.0": "大太刀 (右鍵發動)",
-  "dv2.ability.odachi.1.0": "右鍵時向前突刺,",
-  "dv2.ability.odachi.2.0": "對路徑上敵人 ",
+  "dv2.ability.odachi.1.0": "右鍵時向前突刺，",
+  "dv2.ability.odachi.2.0": "對路徑上的敵人造成 ",
   "dv2.ability.odachi.2.1": "2.5倍 DMG",
   "dv2.ability.odachi.2.2": " 傷害",
 
@@ -366,7 +370,7 @@
   "dv2.weapon.melee.iron_sword.description": "由技術精湛的鐵匠製作",
 
   "dv2.weapon.melee.dark_knife": "黑刃",
-  "dv2.weapon.melee.dark_knife.description": "刺客？ 黑刃？ Trivago.",
+  "dv2.weapon.melee.dark_knife.description": "刺客? 黑刃? Trivago.",
 
   "dv2.ability.dark_knife.1.0.0": "影潛者",
   "dv2.ability.dark_knife.1.1.0": "手持這把武器時",
@@ -394,10 +398,19 @@
   "dv2.ability.excalibur.1.1.3": " 效果",
 
   "dv2.ability.excalibur.2.0.0": "王者的意志",
-  "dv2.ability.excalibur.2.1.0": "在生命值低於40%時增加",
+  "dv2.ability.excalibur.2.1.0": "在 HP 低於40%時增加",
   "dv2.ability.excalibur.2.1.1": "10點光屬性DMG",
   "dv2.ability.excalibur.2.1.2": "",
 
+  "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
+  "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
+  "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於120時，你的",
+  "dv2.ability.leaf_steel_sword.1.1.1":"將會被增加1.5倍",
+  "dv2.ability.leaf_steel_sword.1.1.2":"",
+
+  "dv2.weapon.melee.blaze_sword":"熾焰劍",
+  "dv2.weapon.melee.blaze_sword.description":"由上乘的烈焰粉所製作", 
 
   "dv2.weapon.melee.giant_sword": "巨人之劍",
   "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍",
@@ -406,6 +419,41 @@
   "dv2.ability.giant_sword.1.1.0": "以自身DEF的",
   "dv2.ability.giant_sword.1.1.1": "10%",
   "dv2.ability.giant_sword.1.1.2": "化作為DMG",
+
+  "dv2.weapon.melee.great_sword.might_of_an_utu": "安烏圖的顯現",
+  "dv2.weapon.melee.great_sword.might_of_an_utu.description": "應當敬畏神，做好覺悟！因那沙瑪什審判之時已經到了。",
+
+  "dv2.ability.might_of_an_utu.1.0.0": "會見沙瑪什的代價",
+  "dv2.ability.might_of_an_utu.1.1.0": "當 HP 高於50%時，",
+  "dv2.ability.might_of_an_utu.1.2.0": "你的",
+  "dv2.ability.might_of_an_utu.1.2.2": "倍數將會減少",
+  "dv2.ability.might_of_an_utu.1.2.3": "100%",
+  "dv2.ability.might_of_an_utu.1.2.4": "",
+
+  "dv2.ability.might_of_an_utu.2.0.0": "為「祂」而獻祭",
+  "dv2.ability.might_of_an_utu.2.1.0": "蹲下以減少現時 HP 的",
+  "dv2.ability.might_of_an_utu.2.1.1": "33%",
+  "dv2.ability.might_of_an_utu.2.1.2": "，",
+  "dv2.ability.might_of_an_utu.2.2.0": "同時增加",
+  "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
+  "dv2.ability.might_of_an_utu.2.2.2": " Per ",
+  "dv2.ability.might_of_an_utu.2.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
+  "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
+  "dv2.ability.might_of_an_utu.2.3.0": "(當你的 HP 超過 50% 時將減至 50% HP)",
+  "dv2.ability.might_of_an_utu.2.4.0": "(冷卻20秒)",
+
+  "dv2.ability.might_of_an_utu.3.0.0": "安烏圖的神跡",
+  "dv2.ability.might_of_an_utu.3.1.0": "當 HP 低於",
+  "dv2.ability.might_of_an_utu.3.1.1": "50%",
+  "dv2.ability.might_of_an_utu.3.1.2": "時，",
+  "dv2.ability.might_of_an_utu.3.2.0": "增加",
+  "dv2.ability.might_of_an_utu.3.2.1": "80 DEF",
+  "dv2.ability.might_of_an_utu.3.2.2": "，",
+  "dv2.ability.might_of_an_utu.3.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.3.2.4": "DMG 及 STR",
+  "dv2.ability.might_of_an_utu.3.2.5": "以及 100 全元素 DEF",
+
 
 
 
@@ -418,7 +466,7 @@
   "dv2.ability.soul_scythe.1.1.4": " STR (最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
-  "dv2.ability.soul_scythe.2.1.0": "對生命值低於",
+  "dv2.ability.soul_scythe.2.1.0": "對 HP 低於",
   "dv2.ability.soul_scythe.2.1.1": "\uF82333% ",
   "dv2.ability.soul_scythe.2.1.2": "",
   "dv2.ability.soul_scythe.2.1.3": "",
@@ -442,6 +490,12 @@
   "dv2.ability.vampire_tooth.2.2.0": "，同時減少",
   "dv2.ability.vampire_tooth.2.2.2": "",
 
+  "dv2.weapon.melee.torrent_dagger":"激流",
+  "dv2.weapon.melee.torrent_dagger.description":"在激流中前進。",
+  "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
+  "dv2.ability.torrent_dagger.1.1.0":"蹲下以控制水流，使玩家向前衝。",
+  "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
+
   "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",
   "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過",
   "dv2.weapon.melee.odachi.wooden_odachi": "木大太刀",
@@ -451,18 +505,18 @@
 
 
   "dv2.weapon.melee.odachi.fire_odachi": "烈焰大太刀",
-  "dv2.weapon.melee.odachi.fire_odachi.description": "哈哈! 你成為了拿花霍斯",
-  "dv2.ability.fire_odachi.1.0.0": "Fire Odachi",
-  "dv2.ability.fire_odachi.1.1.0": "Has a 20% chance to inflict the ",
-  "dv2.ability.fire_odachi.1.1.2": " effect",
-  "dv2.ability.fire_odachi.1.2.0": "for 4 seconds. (6 HP/s)",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "哈哈你變成了佐丹奴布魯諾哈哈",
+  "dv2.ability.fire_odachi.1.0.0": "烈焰大太刀",
+  "dv2.ability.fire_odachi.1.1.0": "有 20% 的機率造成4秒的",
+  "dv2.ability.fire_odachi.1.1.2": "效果",
+  "dv2.ability.fire_odachi.1.2.0": "(6 HP/秒)",
 
   "dv2.weapon.melee.odachi.poison_odachi": "劇毒大太刀",
-  "dv2.weapon.melee.odachi.poison_odachi.description": "嘻! 你中毒了哈哈",
-  "dv2.ability.poison_odachi.1.0.0": "Poison Odachi",
-  "dv2.ability.poison_odachi.1.1.0": "Has a 20% chance to inflict the ",
-  "dv2.ability.poison_odachi.1.1.2": " effect",
-  "dv2.ability.poison_odachi.1.2.0": "for 3 seconds. (7% HP/s)",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "哈哈你變成了光緒帝哈哈",
+  "dv2.ability.poison_odachi.1.0.0": "劇毒大太刀",
+  "dv2.ability.poison_odachi.1.1.0": "有 20% 的機率造成3秒的",
+  "dv2.ability.poison_odachi.1.1.2": "效果",
+  "dv2.ability.poison_odachi.1.2.0": "(7% HP/秒)",
 
 
   "dv2.weapon.melee.odachi.ice_odachi": "寒冰大太刀",
@@ -472,30 +526,56 @@
   "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴!!!",
 
   "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
-  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀, ",
+  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，",
   "dv2.weapon.melee.odachi.muramasa.description.2": "刀中充斥著無盡的血性與混沌",
   "dv2.ability.muramasa.1.0.0": "村正",
-  "dv2.ability.muramasa.1.1.0": "每",
-  "dv2.ability.muramasa.1.1.1": "10 Dark DEF",
+  "dv2.ability.muramasa.1.1.0": "每擁有",
+  "dv2.ability.muramasa.1.1.1": "10點暗屬性DEF，",
   "dv2.ability.muramasa.1.1.2": "增加",
-  "dv2.ability.muramasa.1.1.3": "1 Dark DMG",
+  "dv2.ability.muramasa.1.1.3": "1點暗屬性DMG",
   "dv2.ability.muramasa.1.1.4": ".",
-  "dv2.ability.muramasa.1.2.0": "(上限: 10 Dark DMG)",
+  "dv2.ability.muramasa.1.2.0": "(上限為10點暗屬性DMG)",
   "dv2.ability.muramasa.2.0.0": "與惡鬼的契約",
-  "dv2.ability.muramasa.2.1.0": "當生命值低於 ",
+  "dv2.ability.muramasa.2.1.0": "當 HP 低於 ",
   "dv2.ability.muramasa.2.1.1": "50%",
-  "dv2.ability.muramasa.2.1.2": ",",
-  "dv2.ability.muramasa.2.2.0": "增加 ",
+  "dv2.ability.muramasa.2.1.2": "，",
+  "dv2.ability.muramasa.2.2.0": "增加",
   "dv2.ability.muramasa.2.2.1": "20 DEF",
-  "dv2.ability.muramasa.2.2.2": ", ",
-  "dv2.ability.muramasa.2.2.3": "50 ",
-  "dv2.ability.muramasa.2.2.4": "Dark",
-  "dv2.ability.muramasa.2.2.5": ", ",
-  "dv2.ability.muramasa.2.2.6": "FIRE",
-  "dv2.ability.muramasa.2.2.7": ", ",
-  "dv2.ability.muramasa.2.2.8": "EARTH",
-  "dv2.ability.muramasa.2.3.0": "Elemental DEF",
-  "dv2.ability.muramasa.2.3.1": ", 5 DMG 和 STR.",
+  "dv2.ability.muramasa.2.2.2": "，",
+  "dv2.ability.muramasa.2.2.3": "50",
+  "dv2.ability.muramasa.2.2.4": "點暗屬性",
+  "dv2.ability.muramasa.2.2.5": "、",
+  "dv2.ability.muramasa.2.2.6": "火屬性",
+  "dv2.ability.muramasa.2.2.7": "、",
+  "dv2.ability.muramasa.2.2.8": "土屬性",
+  "dv2.ability.muramasa.2.3.0": "元素DEF",
+  "dv2.ability.muramasa.2.3.1": "，5 DMG和STR.",
+
+  "dv2.weapon.melee.jurisdiction_of_selene":"塞勒涅的權能",
+  "dv2.weapon.melee.jurisdiction_of_selene.description":"汝等無需驚惶，因為祂與汝等同在，直至萬物消逝。",
+  "dv2.ability.jurisdiction_of_selene.1.0.0":"滿月",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"當 HP 高於",
+  "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.1.1.2":"時，",
+  "dv2.ability.jurisdiction_of_selene.1.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.1.2.1":"效果和",
+  "dv2.ability.jurisdiction_of_selene.1.2.2":"效果",
+  "dv2.ability.jurisdiction_of_selene.2.0.0":"殘月",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"當 HP 低於",
+  "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.2.1.2":"時，",
+  "dv2.ability.jurisdiction_of_selene.2.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.2.2.1":"效果和獲得",
+  "dv2.ability.jurisdiction_of_selene.2.2.2":"效果",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"露娜的權柄",
+  "dv2.ability.jurisdiction_of_selene.3.1.0":"給予直徑4格範圍内的敵人",
+  "dv2.ability.jurisdiction_of_selene.3.1.1":"效果",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"水流波動 <鏡花水月>",
+  "dv2.ability.jurisdiction_of_selene.4.1.0":"潛行以控制水流，",
+  "dv2.ability.jurisdiction_of_selene.4.2.0":"推動直徑3格範圍内的敵人後退",
+  "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
+
+
 
   "dv2.weapon.shield.wooden_shield": "木盾",
   "dv2.weapon.shield.wooden_shield.description": "您會從RPG遊戲中的初始NPC那裡獲得的盾牌",
@@ -503,14 +583,17 @@
   "dv2.weapon.shield.iron_shield": "鐵盾",
   "dv2.weapon.shield.iron_shield.description": "哇哦好閃哦哦哦",
 
+  "dv2.weapon.shield.bone_shield": "骨盾",
+  "dv2.weapon.shield.bone_shield.description": "咯咯！",
+
   "dv2.weapon.shield.heavy_shield": "重型盾",
   "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
 
   "dv2.weapon.shield.bedrock_shield": "基岩盾",
-  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!.",
+  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!",
 
   "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
-  "dv2.ability.heavy_shield.1.1.0": "在生命值低於40%時增加",
+  "dv2.ability.heavy_shield.1.1.0": "在 HP 低於40%時增加",
   "dv2.ability.heavy_shield.1.1.2": "",
   "dv2.ability.heavy_shield.1.2.0": "(無法疊加)",
 
@@ -526,11 +609,12 @@
   "dv2.ability.plasma_shield.1.1.0": "手持這面護盾時將會獲得",
   "dv2.ability.plasma_shield.1.1.2": "效果",
 
-  "dv2.ability.plasma_shield.2.0.0": "希望的燈塔",
-  "dv2.ability.plasma_shield.2.1.0": "增加 ",
-  "dv2.ability.plasma_shield.2.1.1": "所有 DEF (Physical and Elemental)",
-  "dv2.ability.plasma_shield.2.1.2": " by ",
-  "dv2.ability.plasma_shield.2.2.0": "在生命值低於33%時",
+  "dv2.ability.plasma_shield.2.0.0": "希望之星",
+  "dv2.ability.plasma_shield.2.1.0": "當 HP 低於33%時，增加",
+  "dv2.ability.plasma_shield.2.1.1": "物理&屬性 DEF",
+  "dv2.ability.plasma_shield.2.1.2": "",
+  "dv2.ability.plasma_shield.2.2.0": "",
+  "plasma_shield.comment": "hey we need some discussion here",
 
 
   "dv2.weapon.shield.mega_shield": "巨盾",
@@ -539,12 +623,12 @@
   "dv2.ability.mega_shield.1.0.0": "抗擊退",
   "dv2.ability.mega_shield.1.1.0": "獲得 ",
   "dv2.ability.mega_shield.1.1.1": "擊退抗性",
-  "dv2.ability.mega_shield.1.1.2": ".",
+  "dv2.ability.mega_shield.1.1.2": "。",
 
   "dv2.ability.antikb.1.0.0": "抗擊退",
   "dv2.ability.antikb.1.1.0": "獲得 ",
   "dv2.ability.antikb.1.1.1": "擊退抗性",
-  "dv2.ability.antikb.1.1.2": ".",
+  "dv2.ability.antikb.1.1.2": "。",
 
 
 
@@ -561,18 +645,18 @@
   "dv2.weapon.shield.bladed_shield.earth.description": "得到土精靈的幫助",
 
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
-  "dv2.ability.bladed_shield.1.1.0": "蹲下來切換四種元素",
+  "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種元素",
 
   "dv2.weapon.bow.archers_bow": "射手之弓",
   "dv2.weapon.bow.archers_bow.description": "一把好老弓",
 
   "dv2.weapon.bow.great_bow": "精良弓",
-  "dv2.weapon.bow.great_bow.description": "就是原版的弓",
+  "dv2.weapon.bow.great_bow.description": "值得信賴的弓",
 
   "dv2.weapon.bow.heavy_bow": "重型弓",
-  "dv2.weapon.bow.heavy_bow.description": "小心使用",
+  "dv2.weapon.bow.heavy_bow.description": "請小心使用",
 
-  "dv2.weapon.bow.quick_charge_bow": "速射弓",
+  "dv2.weapon.bow.quick_charge_bow": "速射弩",
   "dv2.weapon.bow.quick_charge_bow.description": "跑啊那裏有盾啊啊啊啊",
 
 
@@ -580,21 +664,21 @@
   "dv2.weapon.bow.nightmare": "夢魘",
   "dv2.weapon.bow.nightmare.description": "融入漆黑之中，化作夢魘",
   "dv2.ability.nightmare.1.0.0": "突發驚嚇",
-  "dv2.ability.nightmare.1.1.0": "當你蓄力超過 ",
-  "dv2.ability.nightmare.1.1.1": "10s",
-  "dv2.ability.nightmare.1.1.2": ",",
-  "dv2.ability.nightmare.1.2.0": "你會獲得 ",
-  "dv2.ability.nightmare.1.2.2": "  2s, 然後你的箭會獲得",
-  "dv2.ability.nightmare.1.3.0": "10 Dark DMG <+1.5 EM>",
-  "dv2.ability.nightmare.1.3.1": " 以及 ",
-  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
-  "dv2.ability.nightmare.1.3.3": ".",
+  "dv2.ability.nightmare.1.1.0": "當你拉弓超過",
+  "dv2.ability.nightmare.1.1.1": "10秒",
+  "dv2.ability.nightmare.1.1.2": "時，",
+  "dv2.ability.nightmare.1.2.0": "你將會獲得",
+  "dv2.ability.nightmare.1.2.2": "2秒，箭矢會獲得",
+  "dv2.ability.nightmare.1.3.0": "10點暗屬性DMG <+1.5 EM>",
+  "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
+  "dv2.ability.nightmare.1.3.2": "每秒6米",
+  "dv2.ability.nightmare.1.3.3": "的速度行進",
 
-  "dv2.ability.nightmare.2.0.0": "完成蓄力",
-  "dv2.ability.nightmare.2.1.0": "當你完成蓄力後, 將會",
-  "dv2.ability.nightmare.2.2.0": "獲得 ",
-  "dv2.ability.nightmare.2.2.1": "5 Dark DMG <+0.5 EM>",
-  "dv2.ability.nightmare.2.2.2": ".",
+  "dv2.ability.nightmare.2.0.0": "完全蓄力",
+  "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
+  "dv2.ability.nightmare.2.2.0": "獲得",
+  "dv2.ability.nightmare.2.2.1": "5點暗屬性DMG <+0.5 EM>",
+  "dv2.ability.nightmare.2.2.2": "",
 
   
   "dv2.weapon.bow.destroyer": "破壞者",
@@ -602,7 +686,7 @@
   "dv2.ability.destroyer.1.0.0": "狙擊手",
   "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
   "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "在你的生命值高於 ",
+  "dv2.ability.destroyer.1.2.0": "在你的 HP 高於 ",
   "dv2.ability.destroyer.1.2.1": "70%",
   "dv2.ability.destroyer.1.2.2": " 的時候.",
 
@@ -610,11 +694,11 @@
   "dv2.weapon.bow.bladed_bow": "颶風弓",
   "dv2.weapon.bow.bladed_bow.description": "快速小子 loll",
   "dv2.ability.bladed_bow.1.0.0": "操縱輕風",
-  "dv2.ability.bladed_bow.1.1.0": "當你蹲下時在你腳下製造一陣風緩降.",
+  "dv2.ability.bladed_bow.1.1.0": "當你蹲下時，在你腳下製造一陣風以助緩降",
   "dv2.ability.bladed_bow.1.2.0": "(消耗 Mana)",
   "dv2.ability.bladed_bow.2.0.0": "高壓氣流",
-  "dv2.ability.bladed_bow.2.1.0": "當這把弓位於副手時可發動,",
-  "dv2.ability.bladed_bow.2.2.0": "蹲下時產生向上的風.",
+  "dv2.ability.bladed_bow.2.1.0": "副手持有這把弓時蹲下，",
+  "dv2.ability.bladed_bow.2.2.0": "將會產生使玩家退後的陣風",
   "dv2.ability.bladed_bow.2.3.0": "(消耗 Mana)",
 
   "dv2.weapon.wand.scholar_wand.regular": "巫師法杖",
@@ -623,38 +707,59 @@
   "dv2.weapon.wand.scholar_wand.wind": "龍捲巫師法杖",
   "dv2.weapon.wand.scholar_wand.earth": "土曜巫師法杖",
   "dv2.weapon.wand.scholar_wand.light": "銀光巫師法杖",
-  "dv2.weapon.wand.scholar_wand.dark": "幽漆巫師法杖",
+  "dv2.weapon.wand.scholar_wand.dark": "幽影巫師法杖",
   "dv2.weapon.wand.scholar_wand.rainbow": "彩虹法杖",
+
+  "dv2.weapon.wand.staff_of_terrestria": "薛西弗斯之杖",
   
   "dv2.weapon.wand.scholar_wand.regular.description": "幼兒玩具",
-  "dv2.weapon.wand.scholar_wand.fire.description": "加上一抹魔法火焰……",
-  "dv2.weapon.wand.scholar_wand.water.description": "能夠控制液體...",
+  "dv2.weapon.wand.scholar_wand.fire.description": "加上一抹魔法火焰...",
+  "dv2.weapon.wand.scholar_wand.water.description": "控制流動的能力...",
   "dv2.weapon.wand.scholar_wand.wind.description": "隨風飄蕩...",
   "dv2.weapon.wand.scholar_wand.earth.description": "借助森林與大地之力...",
-  "dv2.weapon.wand.scholar_wand.light.description": "與榮耀和正義同行...",
+  "dv2.weapon.wand.scholar_wand.light.description": "與榮光和正義同行...",
   "dv2.weapon.wand.scholar_wand.dark.description": "以惡念施於惡魔...",
   "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆",
+  "dv2.weapon.wand.staff_of_terrestria.description": "體會那無止境的岩石吧...",
 
 
-  "dv2.ability.magic_beam.1.0.0": "技能: 魔法光束",
+  "dv2.ability.magic_beam.1.0.0": "技能：魔法光束",
   "dv2.ability.magic_beam.1.1.0": "射出光束",
-  "dv2.ability.magic_beam.1.2.0": "消耗: ",
+  "dv2.ability.magic_beam.1.2.0": "消耗：",
   "dv2.ability.magic_beam.1.2.1": "150 Mana",
+
+  "dv2.ability.rock_throw.1.0.0": "技能：投擲石塊",
+  "dv2.ability.rock_throw.1.1.0": "可以投擲石塊",
+  "dv2.ability.rock_throw.1.2.0": "消耗：",
+  "dv2.ability.rock_throw.1.2.1": "500 Mana",
+  
+  "dv2.ability.staff_of_terrestria.2.0.0": "眾石歸位 [蹲下]",
+  "dv2.ability.staff_of_terrestria.2.1.0": "蹲下以將所有石塊喚回你的身邊",
+  "dv2.ability.staff_of_terrestria.2.2.0": "消耗：",
+  "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
+  
+  "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
+  "dv2.ability.staff_of_terrestria.3.1.0": "每顆被喚回的石塊將會增加你 10 DEF",
+
+  "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
+  "dv2.ability.staff_of_terrestria.4.2.0": "消耗：",
+  "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
 
 
 
   "dv2.arrow.effects.burning_arrow": "燃燒箭",
-  "dv2.arrow.effects.burning_arrow.0": "當此箭被選取, ",
-  "dv2.arrow.effects.burning_arrow.1.0": "你的箭會有 50% 幾率觸發 ",
+  "dv2.arrow.effects.burning_arrow.0": "當此箭被選取，",
+  "dv2.arrow.effects.burning_arrow.1.0": "你的箭會有 50% 機率觸發 ",
   "dv2.arrow.effects.burning_arrow.2": "效果 3秒",
   "dv2.arrow.effects.burning_arrow.3": "(4 HP 每秒)",
 
 
   "dv2.arrow.effects.poison": "劇毒箭",
-  "dv2.arrow.effects.poison.0": "當此箭被選取,",
-  "dv2.arrow.effects.poison.1.0": "你的箭會有 50% 幾率觸發 ",
+  "dv2.arrow.effects.poison.0": "當此箭被選取，",
+  "dv2.arrow.effects.poison.1.0": "你的箭會有 50% 機率觸發 ",
   "dv2.arrow.effects.poison.2": "效果 3秒",
   "dv2.arrow.effects.poison.3": "(2% HP 每秒)",
 
@@ -666,29 +771,163 @@
   "dv2.arrow.power.lightweight_arrow": "輕型箭",
   "dv2.arrow.power.heavy_arrow": "重型箭",
 
-  "dv2.arrow.elemental.fire_arrow": "火箭",
-  "dv2.arrow.elemental.water_arrow": "水箭",
-  "dv2.arrow.elemental.wind_arrow": "風箭",
-  "dv2.arrow.elemental.earth_arrow": "土箭",
-  "dv2.arrow.elemental.light_arrow": "光箭",
-  "dv2.arrow.elemental.dark_arrow": "暗箭",
+  "dv2.arrow.elemental.fire_arrow": "火屬性箭矢",
+  "dv2.arrow.elemental.water_arrow": "水屬性箭矢",
+  "dv2.arrow.elemental.wind_arrow": "風屬性箭矢",
+  "dv2.arrow.elemental.earth_arrow": "土屬性箭矢",
+  "dv2.arrow.elemental.light_arrow": "光屬性箭矢",
+  "dv2.arrow.elemental.dark_arrow": "暗屬性箭矢",
+
+  "dv2.item.powder.elemental.fire.1":"火屬性粉末 I",
+  "dv2.item.powder.elemental.fire.2":"火屬性粉末 II",
+  "dv2.item.powder.elemental.water.2":"水屬性粉末 II",
+  "dv2.item.powder.elemental.water.1":"水屬性粉末 I",
+  "dv2.item.powder.elemental.wind.1":"風屬性粉末 I",
+  "dv2.item.powder.elemental.wind.2":"風屬性粉末 II",
+  "dv2.item.powder.elemental.earth.1":"土屬性粉末 I",
+  "dv2.item.powder.elemental.earth.2":"土屬性粉末 II",
+  "dv2.item.powder.elemental.light.1":"光屬性粉末 I",
+  "dv2.item.powder.elemental.light.2":"光屬性粉末 II",
+  "dv2.item.powder.elemental.dark.1":"暗屬性粉末 I",
+  "dv2.item.powder.elemental.dark.2":"暗屬性粉末 II",
 
 
-  "dv2.arrow.power.description.0": "當此箭被選取,",
-  "dv2.arrow.power.description.1.0": "你的箭會獲得",
-  "dv2.arrow.power.description.1.2": ".",
+
+
+
+
+  "dv2.arrow.power.description.0": "當此箭被選取，",
+  "dv2.arrow.power.description.1.0": "你的箭會獲得 ",
+  "dv2.arrow.power.description.1.2": "",
 
   
-  "dv2.arrow.power.description_array.0": "當此箭被選取,",
+  "dv2.arrow.power.description_array.0": "當此箭被選取，",
   "dv2.arrow.power.description_array.1": "你的箭會獲得:",
 
+  "dv2.item.melee.description.0": "當此物品被選取，",
+  "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
+  "dv2.item.melee.description.1.2": "",
+
+
+
+
+  "dv2.spells.enchantments": " - 法陣效果",
+
+  "dv2.spells.long_lasting.wind.1.escape": "逃脫 (等級一)",
+  "dv2.spells.long_lasting.wind.1.escape.0": "<等級一 - 持久型 - 風屬性>",
+  "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的 HP,",
+  "dv2.spells.long_lasting.wind.1.escape.2": "並增加你的 SPD 5秒",
+  "dv2.spells.long_lasting.wind.1.escape.3.0": "代價：",
+  "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
+
+
+  "dv2.spells.long_lasting.earth.1.health_recovery_array": "血量回復法陣 (等級一)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
+
+
+  
+  "dv2.spells.long_lasting.earth.2.health_recovery_array": "血量回復法陣 (等級二)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.0": "<等級二 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
+
+
+
+  "dv2.spells.long_lasting.earth.1.defensive_array": "防禦法陣 (等級一)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.1": "30 DEF",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.1.defensive_array.2": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.1": "2500 Mana",
+
+
+  
+
+
+  "dv2.spells.long_lasting.earth.2.defensive_array": "防禦法陣 (等級二)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.0": "<等級二 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.1": "50 DEF",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.2.defensive_array.2": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗：",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
+
+
+
+
+  "dv2.spells.long_lasting.earth.1.meat_shield": "肉盾 (等級一)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "100 DEF",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.2": " and ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "70 Elemental DEF (All)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
+  "dv2.spells.long_lasting.earth.1.meat_shield.3": "(持續20秒，冷卻25秒)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "2000 Stamina",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.2": " + ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.3": "200 Hunger",
+
+
+
+
+  "dv2.spells.long_lasting.water.1.mana_recovery_array": "魔力回復法陣 (等級一)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.0": "<等級一 - 持久型 - 水屬性>",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.1": "+2500 Base Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.3": "+200 Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.1": "10 Block Radius",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.1": "2500 Mana",
+
+
+  "dv2.spells.long_lasting.water.2.mana_recovery_array": "魔力回復法陣 (等級二)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<等級二 - 持久型 - 水屬性>",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.1": "+3000 Base Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.3": "+300 Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.1": "12 Block Radius",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
+
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
-  "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 60% 時增加 20% STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 30% 時增加 40% STR",
+
+  "dv2.artifacts.unyielding_heart":"不屈之心",
+  "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
+  "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30 DEF",
   
   "dv2.artifacts.coward":"膽小鬼",
-  "dv2.artifacts.coward.1.0":"在生命值低於 50% 時增加 20% SPD",
-  "dv2.artifacts.coward.2.0":"在生命值低於 33% 時增加 40% SPD",
+  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 20% SPD",
+  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 40% SPD",
   
   "dv2.artifacts.shield.1":"盾牌 I",
   "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
@@ -703,37 +942,85 @@
   "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 20 秒",
   "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
   "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
+
+  "dv2.artifacts.magic_string.1":"魔弦 I",
+  "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Mana",
+  "dv2.artifacts.magic_string.1.2.0":"持盾時增加 500 Stamina",
+  "dv2.artifacts.magic_string.2":"魔弦 II",
+  "dv2.artifacts.magic_string.2.1.0":"不持盾時增加 2500 Mana",
+  "dv2.artifacts.magic_string.2.2.0":"持盾時增加 1500 Stamina",
+  "dv2.artifacts.magic_string.3":"魔弦 III",
+  "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Mana",
+  "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
   
+  "dv2.artifacts.warrior.1":"戰士 I",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 10 STR",
+  "dv2.artifacts.warrior.2":"戰士 II",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 20 STR",
+
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
   "dv2.artifacts.tank":"坦克",
-  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家,",
+  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家，",
   "dv2.artifacts.tank.2.0":"增加 12 DEF",
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"遊子",
-  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家,",
-  "dv2.artifacts.wanderer.2.0":"減少 20 STR",
-  "dv2.artifacts.wanderer.3.0":"使用時增加 20 STR",
-  "dv2.artifacts.wanderer.4.0":"(上限:7位玩家)",
+  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
+  "dv2.artifacts.wanderer.2.0":"將會減少你 10 STR",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 50 STR",
+  "dv2.artifacts.wanderer.4.0":"(上限：9位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
-  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的玩家,",
-  "dv2.artifacts.vikings.2.0":"增加 5 STR",
+  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的玩家，",
+  "dv2.artifacts.vikings.2.0":"將會增加你 5 STR",
   "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
   
   "dv2.artifacts.vampire.1":"吸血鬼 I",
-  "dv2.artifacts.vampire.1.1.0":"傷害減少 15%",
-  "dv2.artifacts.vampire.1.2.0":"吸收 5% 造成傷害",
+  "dv2.artifacts.vampire.1.1.0":"攻擊力減少 15%",
+  "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
   "dv2.artifacts.vampire.2":"吸血鬼 II",
-  "dv2.artifacts.vampire.2.1.0":"傷害減少 15%",
-  "dv2.artifacts.vampire.2.2.0":"吸收 10% 造成傷害",
+  "dv2.artifacts.vampire.2.1.0":"攻擊力減少 15%",
+  "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
   "dv2.artifacts.vampire.3":"吸血鬼 III",
-  "dv2.artifacts.vampire.3.1.0":"傷害減少 15%",
-  "dv2.artifacts.vampire.3.2.0":"吸收 15% 造成傷害",
-  "dv2.artifacts.vampire.3.3.0":"擊殺敵人後,",
-  "dv2.artifacts.vampire.3.4.0":"回復等同於敵人 25% HP 上限的 HP",
+  "dv2.artifacts.vampire.3.1.0":"攻擊力減少 15%",
+  "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
+  "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
+  "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
+
+  "dv2.artifacts.wave_sense.1":"感知 I",
+  "dv2.artifacts.wave_sense.1.1.1":"給予直徑5格範圍内的敵人",
+  "dv2.artifacts.wave_sense.1.1.2":"效果",
+  "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.1.2.2":" effect.",
+  "dv2.artifacts.wave_sense.2":"感知 II",
+  "dv2.artifacts.wave_sense.2.1.1":"給予直徑10格範圍内的敵人",
+  "dv2.artifacts.wave_sense.2.1.2":"效果",
+  "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.2.2.2":" effect.",
+  "dv2.artifacts.wave_sense.3":"感知 III",
+  "dv2.artifacts.wave_sense.3.1.1":"給予直徑15格範圍内的敵人",
+  "dv2.artifacts.wave_sense.3.1.2":"效果",
+  "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
+  "dv2.artifacts.wave_sense.3.2.2":" effect.",
+
+
+
+
+  "dv2.artifacts.fighter":"鬥士",
+  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 STR",
+
+  "dv2.artifacts.soldier":"軍人",
+  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 120 時，增加 30 STR",
+
+  "dv2.artifacts.rose_of_void":"奈落之瑰",
+  "dv2.artifacts.rose_of_void.1.0":"將直徑 6 格範圍內敵人的 DEF 降至 50%",
+
+  "dv2.artifacts.awakened":"覺者",
+  "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
+  "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Mana",
+
 
   "dv2.food.canned_food": "罐裝食品",
 
