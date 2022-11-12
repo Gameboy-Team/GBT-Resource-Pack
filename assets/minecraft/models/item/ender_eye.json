@@ -16,7 +16,7 @@
 
       {"predicate": {"custom_model_data":6900020}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow"},
       {"predicate": {"custom_model_data":6900021}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_0"},
-      {"predicate": {"custom_model_data":6900022}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_1"},
+      {"predicate": {"custom_model_data":6900022}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_0"},
       {"predicate": {"custom_model_data":6900023}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_1"},
 
       {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},

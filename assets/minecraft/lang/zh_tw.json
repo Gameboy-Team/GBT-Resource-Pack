@@ -286,7 +286,7 @@
   "rpg.stats.recovery": "自然回復",
   "rpg.stats.base_mana": "基礎 Mana",
   "rpg.stats.mana": "Mana",
-  "rpg.stats.health": "生命",
+  "rpg.stats.health": "HP",
   "rpg.stats.speed": "速度",
   "rpg.stats.stamina": "耐力",
 
@@ -398,17 +398,19 @@
   "dv2.ability.excalibur.1.1.3": " 效果",
 
   "dv2.ability.excalibur.2.0.0": "王者的意志",
-  "dv2.ability.excalibur.2.1.0": "在生命值低於40%時增加",
+  "dv2.ability.excalibur.2.1.0": "在 HP 低於40%時增加",
   "dv2.ability.excalibur.2.1.1": "10點光屬性DMG",
   "dv2.ability.excalibur.2.1.2": "",
 
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
   "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
-  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大生命值低於120時，你的",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於120時，你的",
   "dv2.ability.leaf_steel_sword.1.1.1":"將會被增加1.5倍",
   "dv2.ability.leaf_steel_sword.1.1.2":"",
 
+  "dv2.weapon.melee.blaze_sword":"熾焰劍",
+  "dv2.weapon.melee.blaze_sword.description":"由上乘的烈焰粉所製作", 
 
   "dv2.weapon.melee.giant_sword": "巨人之劍",
   "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍",
@@ -422,14 +424,14 @@
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "應當敬畏神，做好覺悟！因那沙瑪什審判之時已經到了。",
 
   "dv2.ability.might_of_an_utu.1.0.0": "會見沙瑪什的代價",
-  "dv2.ability.might_of_an_utu.1.1.0": "當血量高於50%時，",
+  "dv2.ability.might_of_an_utu.1.1.0": "當 HP 高於50%時，",
   "dv2.ability.might_of_an_utu.1.2.0": "你的",
   "dv2.ability.might_of_an_utu.1.2.2": "倍數將會減少",
   "dv2.ability.might_of_an_utu.1.2.3": "100%",
   "dv2.ability.might_of_an_utu.1.2.4": "",
 
   "dv2.ability.might_of_an_utu.2.0.0": "為「祂」而獻祭",
-  "dv2.ability.might_of_an_utu.2.1.0": "蹲下以減少現時血量的",
+  "dv2.ability.might_of_an_utu.2.1.0": "蹲下以減少現時 HP 的",
   "dv2.ability.might_of_an_utu.2.1.1": "33%",
   "dv2.ability.might_of_an_utu.2.1.2": "，",
   "dv2.ability.might_of_an_utu.2.2.0": "同時增加",
@@ -442,15 +444,15 @@
   "dv2.ability.might_of_an_utu.2.4.0": "(冷卻20秒)",
 
   "dv2.ability.might_of_an_utu.3.0.0": "安烏圖的神跡",
-  "dv2.ability.might_of_an_utu.3.1.0": "當血量低於",
+  "dv2.ability.might_of_an_utu.3.1.0": "當 HP 低於",
   "dv2.ability.might_of_an_utu.3.1.1": "50%",
   "dv2.ability.might_of_an_utu.3.1.2": "時，",
   "dv2.ability.might_of_an_utu.3.2.0": "增加",
-  "dv2.ability.might_of_an_utu.3.2.1": "80點DEF",
+  "dv2.ability.might_of_an_utu.3.2.1": "80 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": "，",
-  "dv2.ability.might_of_an_utu.3.2.3": "10點",
+  "dv2.ability.might_of_an_utu.3.2.3": "10 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG 及 STR",
-  "dv2.ability.might_of_an_utu.3.2.5": "以及100點全元素耐力",
+  "dv2.ability.might_of_an_utu.3.2.5": "以及 100 全元素 DEF",
 
 
 
@@ -464,7 +466,7 @@
   "dv2.ability.soul_scythe.1.1.4": " STR (最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
-  "dv2.ability.soul_scythe.2.1.0": "對生命值低於",
+  "dv2.ability.soul_scythe.2.1.0": "對 HP 低於",
   "dv2.ability.soul_scythe.2.1.1": "\uF82333% ",
   "dv2.ability.soul_scythe.2.1.2": "",
   "dv2.ability.soul_scythe.2.1.3": "",
@@ -534,11 +536,11 @@
   "dv2.ability.muramasa.1.1.4": ".",
   "dv2.ability.muramasa.1.2.0": "(上限為10點暗屬性DMG)",
   "dv2.ability.muramasa.2.0.0": "與惡鬼的契約",
-  "dv2.ability.muramasa.2.1.0": "當生命值低於 ",
+  "dv2.ability.muramasa.2.1.0": "當 HP 低於 ",
   "dv2.ability.muramasa.2.1.1": "50%",
   "dv2.ability.muramasa.2.1.2": "，",
   "dv2.ability.muramasa.2.2.0": "增加",
-  "dv2.ability.muramasa.2.2.1": "20點DEF",
+  "dv2.ability.muramasa.2.2.1": "20 DEF",
   "dv2.ability.muramasa.2.2.2": "，",
   "dv2.ability.muramasa.2.2.3": "50",
   "dv2.ability.muramasa.2.2.4": "點暗屬性",
@@ -547,19 +549,19 @@
   "dv2.ability.muramasa.2.2.7": "、",
   "dv2.ability.muramasa.2.2.8": "土屬性",
   "dv2.ability.muramasa.2.3.0": "元素DEF",
-  "dv2.ability.muramasa.2.3.1": "，5點DMG和STR.",
+  "dv2.ability.muramasa.2.3.1": "，5 DMG和STR.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"塞勒涅的權能",
   "dv2.weapon.melee.jurisdiction_of_selene.description":"汝等無需驚惶，因為祂與汝等同在，直至萬物消逝。",
   "dv2.ability.jurisdiction_of_selene.1.0.0":"滿月",
-  "dv2.ability.jurisdiction_of_selene.1.1.0":"當生命值高於",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"當 HP 高於",
   "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
   "dv2.ability.jurisdiction_of_selene.1.1.2":"時，",
   "dv2.ability.jurisdiction_of_selene.1.2.0":"免疫",
   "dv2.ability.jurisdiction_of_selene.1.2.1":"效果和",
   "dv2.ability.jurisdiction_of_selene.1.2.2":"效果",
   "dv2.ability.jurisdiction_of_selene.2.0.0":"殘月",
-  "dv2.ability.jurisdiction_of_selene.2.1.0":"當生命值低於",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"當 HP 低於",
   "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
   "dv2.ability.jurisdiction_of_selene.2.1.2":"時，",
   "dv2.ability.jurisdiction_of_selene.2.2.0":"免疫",
@@ -591,7 +593,7 @@
   "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!",
 
   "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
-  "dv2.ability.heavy_shield.1.1.0": "在生命值低於40%時增加",
+  "dv2.ability.heavy_shield.1.1.0": "在 HP 低於40%時增加",
   "dv2.ability.heavy_shield.1.1.2": "",
   "dv2.ability.heavy_shield.1.2.0": "(無法疊加)",
 
@@ -608,7 +610,7 @@
   "dv2.ability.plasma_shield.1.1.2": "效果",
 
   "dv2.ability.plasma_shield.2.0.0": "希望之星",
-  "dv2.ability.plasma_shield.2.1.0": "當生命值低於33%時，增加",
+  "dv2.ability.plasma_shield.2.1.0": "當 HP 低於33%時，增加",
   "dv2.ability.plasma_shield.2.1.1": "物理&屬性 DEF",
   "dv2.ability.plasma_shield.2.1.2": "",
   "dv2.ability.plasma_shield.2.2.0": "",
@@ -684,7 +686,7 @@
   "dv2.ability.destroyer.1.0.0": "狙擊手",
   "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
   "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "在你的生命值高於 ",
+  "dv2.ability.destroyer.1.2.0": "在你的 HP 高於 ",
   "dv2.ability.destroyer.1.2.1": "70%",
   "dv2.ability.destroyer.1.2.2": " 的時候.",
 
@@ -737,7 +739,7 @@
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
   "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
-  "dv2.ability.staff_of_terrestria.3.1.0": "每顆被喚回的石塊將會增加你10點防禦力",
+  "dv2.ability.staff_of_terrestria.3.1.0": "每顆被喚回的石塊將會增加你 10 DEF",
 
   "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
   "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
@@ -813,7 +815,7 @@
 
   "dv2.spells.long_lasting.wind.1.escape": "逃脫 (等級一)",
   "dv2.spells.long_lasting.wind.1.escape.0": "<等級一 - 持久型 - 風屬性>",
-  "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的血量，",
+  "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的 HP,",
   "dv2.spells.long_lasting.wind.1.escape.2": "並增加你的 SPD 5秒",
   "dv2.spells.long_lasting.wind.1.escape.3.0": "代價：",
   "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
@@ -916,16 +918,16 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在生命值低於 60% 時增加 20% STR",
-  "dv2.artifacts.berserker.2.0":"在生命值低於 30% 時增加 40% STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 60% 時增加 20% STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 30% 時增加 40% STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
-  "dv2.artifacts.unyielding_heart.1.0":"在生命值低於 50% 時增加 15 DEF",
-  "dv2.artifacts.unyielding_heart.2.0":"在生命值低於 33% 時增加 30 DEF",
+  "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
+  "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30 DEF",
   
   "dv2.artifacts.coward":"膽小鬼",
-  "dv2.artifacts.coward.1.0":"在生命值低於 50% 時增加 20% SPD",
-  "dv2.artifacts.coward.2.0":"在生命值低於 33% 時增加 40% SPD",
+  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 20% SPD",
+  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 40% SPD",
   
   "dv2.artifacts.shield.1":"盾牌 I",
   "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
