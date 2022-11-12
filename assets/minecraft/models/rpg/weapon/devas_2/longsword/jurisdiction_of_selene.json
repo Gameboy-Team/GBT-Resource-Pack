@@ -486,12 +486,12 @@
 			"scale": [2.5, 2.5, 2.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [143.5, 90, 0],
+			"rotation": [143.5, 70, 0],
 			"translation": [0, 11, -4.5],
 			"scale": [2.5, 2.5, 2.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [143.5, 90, 0],
+			"rotation": [143.5, 70, 0],
 			"translation": [0, 11, -4.5],
 			"scale": [2.5, 2.5, 2.5]
 		},
