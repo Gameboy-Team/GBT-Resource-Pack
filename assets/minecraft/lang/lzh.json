@@ -326,11 +326,30 @@
   "rpg.equipment.leggings": "護腿",
   "rpg.equipment.boots": "靴",
 
+  "dv2.debug.commandsigns.gamemodes.1": "[嬉戲之法] 隊",
+  "dv2.debug.commandsigns.gamemodes.feedback.1": "嬉戲之法既設如 隊",
+  "dv2.debug.commandsigns.gamemodes.2": "[嬉戲之法] 食血",
+  "dv2.debug.commandsigns.gamemodes.feedback.2": "嬉戲之法既設如 食血",
+  "dv2.debug.commandsigns.gamemodes.3": "[嬉戲之法] 經",
+  "dv2.debug.commandsigns.gamemodes.feedback.3": "嬉戲之法既設如 經",
+
+  "dv2.debug.commandsigns.maps.1": "[圖] 山",
+  "dv2.debug.commandsigns.maps.feedback.1": "有擇 山 作圖",
+  "dv2.debug.commandsigns.maps.2": "[圖] 磧",
+  "dv2.debug.commandsigns.maps.feedback.2": "有擇 磧 作圖",
+  "dv2.debug.commandsigns.maps.3": "[圖] 邸",
+  "dv2.debug.commandsigns.maps.feedback.3": "有擇 邸 作圖",
+
+  "dv2.game.start.1": "戲始！",
+  "dv2.game.end.1": "戲制終！",
+
+  "dv2.game.stage.process.lifesteal.feedback.1": "[食血] ",
+  "dv2.game.stage.process.lifesteal.feedback.2": "汝尚餘 ",
+  "dv2.game.stage.process.lifesteal.feedback.3": " 命。",
+  "dv2.game.stage.process.lifesteal.feedback.4": "汝已見汰。",
+  "dv2.game.stage.process.lifesteal.feedback.5": " 已見汰！",
 
 
-
-
-  
   "dv2.ability.dagger.0.0": "匕首 (右鍵作)",
   "dv2.ability.dagger.1.0": "右鍵，匕首也故傷之",
   "dv2.ability.dagger.1.1": "半",

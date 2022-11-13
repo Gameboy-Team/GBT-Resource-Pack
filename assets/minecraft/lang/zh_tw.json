@@ -326,6 +326,28 @@
   "rpg.equipment.leggings": "護腿",
   "rpg.equipment.boots": "靴子",
 
+  "dv2.debug.commandsigns.gamemodes.1": "[遊戲模式] 團隊模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.1": "遊戲模式 已更改至 團隊模式。",
+  "dv2.debug.commandsigns.gamemodes.2": "[遊戲模式] Lifesteal模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.2": "遊戲模式 已更改至 Lifesteal模式。",
+  "dv2.debug.commandsigns.gamemodes.3": "[遊戲模式] 經典模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.3": "遊戲模式 已更改至 經典模式。",
+
+  "dv2.debug.commandsigns.maps.1": "[地圖] 高山",
+  "dv2.debug.commandsigns.maps.feedback.1": "已選擇 高山 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.2": "[地圖] 沙漠",
+  "dv2.debug.commandsigns.maps.feedback.2": "已選擇 沙漠 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.3": "[地圖] 大宅",
+  "dv2.debug.commandsigns.maps.feedback.3": "已選擇 大宅 為遊戲場地。",
+
+  "dv2.game.start.1": "遊戲開始！",
+  "dv2.game.end.1": "遊戲強制完結！",
+
+  "dv2.game.stage.process.lifesteal.feedback.1": "[Lifesteal] ",
+  "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
+  "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
+  "dv2.game.stage.process.lifesteal.feedback.4": "你已經被淘汰。",
+  "dv2.game.stage.process.lifesteal.feedback.5": " 已經被淘汰！",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
