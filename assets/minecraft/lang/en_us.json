@@ -659,6 +659,15 @@
   "dv2.ability.torrent_dagger.1.1.0":"Sneak for controlling water to dash forward.",
   "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
 
+  "dv2.weapon.melee.jormungandrs_tooth":"Jörmungandr's Tooth",
+
+
+
+  "dv2.weapon.melee.jormungandrs_scale":"Jörmungandr's Scale",
+
+
+
+
   "dv2.weapon.melee.odachi.broken_odachi": "Broken Odachi",
   "dv2.weapon.melee.odachi.broken_odachi.description": "Once used by a Skilled Martial Artist.",
   "dv2.weapon.melee.odachi.wooden_odachi": "Wooden Odachi",
@@ -1126,13 +1135,13 @@
   "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 30s.",
 
   "dv2.artifacts.magic_string.1":"Magic String I",
-  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Mana when not holding shield,",
+  "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Base Mana when not holding shield,",
   "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
   "dv2.artifacts.magic_string.2":"Magic String II",
-  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Mana when not holding shield,",
+  "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Base Mana when not holding shield,",
   "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
   "dv2.artifacts.magic_string.3":"Magic String III",
-  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Mana when not holding shield,",
+  "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Base Mana when not holding shield,",
   "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
 
 
