@@ -328,8 +328,8 @@
 
   "dv2.debug.commandsigns.gamemodes.1": "[遊戲模式] 團隊模式",
   "dv2.debug.commandsigns.gamemodes.feedback.1": "遊戲模式 已更改至 團隊模式。",
-  "dv2.debug.commandsigns.gamemodes.2": "[遊戲模式] Lifesteal模式",
-  "dv2.debug.commandsigns.gamemodes.feedback.2": "遊戲模式 已更改至 Lifesteal模式。",
+  "dv2.debug.commandsigns.gamemodes.2": "[遊戲模式] 奪命模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.2": "遊戲模式 已更改至 奪命模式。",
   "dv2.debug.commandsigns.gamemodes.3": "[遊戲模式] 經典模式",
   "dv2.debug.commandsigns.gamemodes.feedback.3": "遊戲模式 已更改至 經典模式。",
 
@@ -343,7 +343,7 @@
   "dv2.game.start.1": "遊戲開始！",
   "dv2.game.end.1": "遊戲強制完結！",
 
-  "dv2.game.stage.process.lifesteal.feedback.1": "[Lifesteal] ",
+  "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
   "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
   "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
   "dv2.game.stage.process.lifesteal.feedback.4": "你已經被淘汰。",
