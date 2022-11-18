@@ -1231,8 +1231,8 @@
   "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Mana.",
 
   "dv2.artifacts.cast_off":"Cast Off",
-  "dv2.artifacts.cast_off.1.0":"Reduce Your DEF to NO MORE THAN 0 when HP lower than 50%,",
-  "dv2.artifacts.cast_off.2.0":"increase 33% ALL Elemental DMG, STR and 15% SPD. ",
+  "dv2.artifacts.cast_off.1.0":"Reduce Your DEF to NO MORE THAN 0 when HP lower than 50%.",
+  "dv2.artifacts.cast_off.2.0":"At the same time, increase 33% ALL Elemental DMG, STR and 15% SPD. ",
 
 
   "dv2.food.canned_food": "Canned Food",
