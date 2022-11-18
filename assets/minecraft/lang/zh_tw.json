@@ -1052,8 +1052,8 @@
   "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Mana",
 
   "dv2.artifacts.cast_off":"蛻殻",
-  "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，將你的 DEF 降低到不高於 0，",
-  "dv2.artifacts.cast_off.2.0":"並增加 33% 全屬性 DMG, STR 及 15% SPD. ",
+  "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
+  "dv2.artifacts.cast_off.2.0":"同時增加 33% 全屬性 DMG, STR 及 15% SPD. ",
 
 
   "dv2.food.canned_food": "罐裝食品",
