@@ -1201,17 +1201,17 @@
 
   "dv2.artifacts.wave_sense.1":"Wave Sense I",
   "dv2.artifacts.wave_sense.1.1.1":"Giving enemy ",
-  "dv2.artifacts.wave_sense.1.1.2":" in an area of 5 blocks diameter.",
+  "dv2.artifacts.wave_sense.1.1.2":" in an area of 5 blocks radius.",
   "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.1.2.2":" effect.",
   "dv2.artifacts.wave_sense.2":"Wave Sense II",
   "dv2.artifacts.wave_sense.2.1.1":"Giving enemy ",
-  "dv2.artifacts.wave_sense.2.1.2":" in an area of 10 blocks diameter.",
+  "dv2.artifacts.wave_sense.2.1.2":" in an area of 10 blocks radius.",
   "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.2.2.2":" effect.",
   "dv2.artifacts.wave_sense.3":"Wave Sense III",
   "dv2.artifacts.wave_sense.3.1.1":"Giving enemy ",
-  "dv2.artifacts.wave_sense.3.1.2":" in an area of 15 blocks diameter.",
+  "dv2.artifacts.wave_sense.3.1.2":" in an area of 15 blocks radius.",
   "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.3.2.2":" effect.",
 
@@ -1224,7 +1224,7 @@
   "dv2.artifacts.soldier.1.0":"Increase 30 STR when your Max HP lower than 115.",
 
   "dv2.artifacts.rose_of_void":"Rose of Void",
-  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks diameter.",
+  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks radius.",
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
