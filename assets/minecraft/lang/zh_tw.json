@@ -1020,17 +1020,17 @@
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
 
   "dv2.artifacts.wave_sense.1":"感知 I",
-  "dv2.artifacts.wave_sense.1.1.1":"給予直徑5格範圍内的敵人",
+  "dv2.artifacts.wave_sense.1.1.1":"給予半徑5格範圍内的敵人",
   "dv2.artifacts.wave_sense.1.1.2":"效果",
   "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.1.2.2":" effect.",
   "dv2.artifacts.wave_sense.2":"感知 II",
-  "dv2.artifacts.wave_sense.2.1.1":"給予直徑10格範圍内的敵人",
+  "dv2.artifacts.wave_sense.2.1.1":"給予半徑10格範圍内的敵人",
   "dv2.artifacts.wave_sense.2.1.2":"效果",
   "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.2.2.2":" effect.",
   "dv2.artifacts.wave_sense.3":"感知 III",
-  "dv2.artifacts.wave_sense.3.1.1":"給予直徑15格範圍内的敵人",
+  "dv2.artifacts.wave_sense.3.1.1":"給予半徑15格範圍内的敵人",
   "dv2.artifacts.wave_sense.3.1.2":"效果",
   "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
   "dv2.artifacts.wave_sense.3.2.2":" effect.",
@@ -1045,11 +1045,15 @@
   "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 STR",
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
-  "dv2.artifacts.rose_of_void.1.0":"將直徑 6 格範圍內敵人的 DEF 降至 50%",
+  "dv2.artifacts.rose_of_void.1.0":"將半徑 6 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.awakened":"覺者",
   "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
   "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Base Mana",
+
+  "dv2.artifacts.cast_off":"蛻殻",
+  "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
+  "dv2.artifacts.cast_off.2.0":"同時增加 33% 全屬性 DMG, STR 及 15% SPD. ",
 
 
   "dv2.food.canned_food": "罐裝食品",
