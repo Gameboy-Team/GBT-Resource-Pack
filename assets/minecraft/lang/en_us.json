@@ -1228,12 +1228,26 @@
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
-  "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Mana.",
+  "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Base Mana.",
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF CAN'T OVER 0 when HP lower than 50%,",
   "dv2.artifacts.cast_off.2.0":"increase 33% ALL Elemental DMG, STR and 15% SPD. ",
 
+  "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
+  "dv2.artifacts.battle_flag_attack.1.0":"Reduce 50 DEF and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_attack.2.0":"Increase 40 STR.",
+  "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 20 per player within a 7 block radius.",
+  "dv2.artifacts.battle_flag_attack.4.0":"(Maximum: 2 players)",
+  "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
+  "dv2.artifacts.battle_flag_defend.1.0":"Reduce 30 SPD and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_defend.2.0":"Increase 100% DEF.",
+  "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
+  "dv2.artifacts.battle_flag_support.1.0":"Reduce 50 DEF, 50% STR and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_support.2.0":"Increase 30% SPD.",
+  "dv2.artifacts.battle_flag_support.3.0":"Increase teammate 33% Recovery and Base Mana in an area of 7 blocks radius.",
+
+  "dv2.artifacts.battle_flag_change":"(Sneak to cycle between 3 mode)",
 
   "dv2.food.canned_food": "Canned Food",
 
