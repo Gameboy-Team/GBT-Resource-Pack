@@ -462,7 +462,8 @@
   "rpg.effects.poison": "Poison",
   "rpg.effects.darkness": "Darkness",
   "rpg.effects.freeze": "Freeze",
-
+  "rpg.effects.seal": "Seal",
+  "rpg.effects.chaos": "Chaos",
 
   "rpg.equipment.main_hand": "Main Hand",
   "rpg.equipment.offhand": "Offhand",
@@ -683,13 +684,32 @@
   "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
 
   "dv2.weapon.melee.jormungandrs_tooth":"Jörmungandr's Tooth",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"Ends, then begins.",
+  "dv2.ability.jormungandrs_tooth.1.0.0":"Ragnarok",
+  "dv2.ability.jormungandrs_tooth.1.1.0":"Sneak to give enemy in an area of 20 blocks radius",
+  "dv2.ability.jormungandrs_tooth.1.2.0":", ",
+  "dv2.ability.jormungandrs_tooth.1.2.1":" and ",
+  "dv2.ability.jormungandrs_tooth.1.2.2":" effects.",
+  "dv2.ability.jormungandrs_tooth.1.3.0":"(Requires at least 15000 Mana)",
+
+  "dv2.ability.jormungandrs_tooth.2.0.0":"Ouroboros Swallow",
+  "dv2.ability.jormungandrs_tooth.2.1.0":"Sneak with item in offhand to give enemy in an area of 5 blocks radius",
+  "dv2.ability.jormungandrs_tooth.2.2.0":" effect.",
+  "dv2.ability.jormungandrs_tooth.2.3.0":"(Requires Mana)",
 
 
 
   "dv2.weapon.melee.jormungandrs_scale":"Jörmungandr's Scale",
-
-
-
+  "dv2.weapon.melee.jormungandrs_scale.description":"The end is coming...",
+  "dv2.ability.jormungandrs_scale.1.0.0":"Mobius Ring",
+  "dv2.ability.jormungandrs_scale.1.1.0":"Increases",
+  "dv2.ability.jormungandrs_scale.1.1.1":" 20 ",
+  "dv2.ability.jormungandrs_scale.1.1.2":"All DEF (Physical and Elemental),",
+  "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
+  "dv2.ability.jormungandrs_scale.1.2.1":"and",
+  "dv2.ability.jormungandrs_scale.1.2.2":" 3000 ",
+  "dv2.ability.jormungandrs_scale.1.2.3":"Base Mana",
+  "dv2.ability.jormungandrs_scale.1.2.4":" when not holding shield.",
 
   "dv2.weapon.melee.odachi.broken_odachi": "Broken Odachi",
   "dv2.weapon.melee.odachi.broken_odachi.description": "Once used by a Skilled Martial Artist.",
