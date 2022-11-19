@@ -1252,7 +1252,7 @@
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 when HP lower than 50%,",
-  "dv2.artifacts.cast_off.2.0":"increase 33% ALL Elemental DMG, STR and 15% SPD. ",
+  "dv2.artifacts.cast_off.2.0":"increase 60% ALL Elemental DMG, STR and 15% SPD. ",
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 50 DEF and receive Glowing effect while using.",
