@@ -1239,10 +1239,10 @@
 
   "dv2.artifacts.fighter":"Fighter",
   "dv2.artifacts.fighter.1.0":"Increase 30 STR when your DEF lower than 20.",
-  "dv2.artifacts.fighter.2.0":"Your STR will NOT OVER 70 while holding this artifacts.",
+  "dv2.artifacts.fighter.2.0":"Your STR WILL NOT OVER 70 while holding this artifacts.",
   "dv2.artifacts.soldier":"Soldier",
   "dv2.artifacts.soldier.1.0":"Increase 30 STR when your Max HP lower than 115.",
-  "dv2.artifacts.soldier.2.0":"Your STR will NOT OVER 70 while holding this artifacts.",
+  "dv2.artifacts.soldier.2.0":"Your STR WILL NOT OVER 70 while holding this artifacts.",
 
 
 
