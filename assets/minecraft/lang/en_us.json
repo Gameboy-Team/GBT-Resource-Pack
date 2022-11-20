@@ -1272,6 +1272,14 @@
 
   "dv2.artifacts.battle_flag_change":"(Sneak to cycle between 3 mode)",
 
+  "dv2.artifacts.book_of_wisdom":"Book of Wisdom",
+  "dv2.artifacts.book_of_wisdom.1.0":"Reduce 30% Stamina while using.",
+  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 0.2 ALL EM in an area of 6 blocks radius.",
+
+  "dv2.artifacts.aether_substance":"Aether Substance",
+  "dv2.artifacts.aether_substance.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 while using.",
+  "dv2.artifacts.aether_substance.2.0":"Receive Invisible effect.",
+
   "dv2.food.canned_food": "Canned Food",
 
 
