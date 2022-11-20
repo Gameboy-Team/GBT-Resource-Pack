@@ -7,6 +7,7 @@
         {"predicate": {"custom_model_data":100000}, "model": "rpg/book/menu"},
         {"predicate": {"custom_model_data":100001}, "model": "rpg/magic_array/simple/level1"},
         {"predicate": {"custom_model_data":100002}, "model": "rpg/magic_array/simple/level1_heal"},
+        {"predicate": {"custom_model_data":100050}, "model": "rpg/mob/rock_prism"},
         {"predicate": {"custom_model_data":100101}, "model": "misc/kaguya_cloth"},
         {"predicate": {"custom_model_data":486001}, "model": "chemistry/compound/bluish_green_test_tube"},
         {"predicate": {"custom_model_data":486002}, "model": "chemistry/compound/pale_green_test_tube"},
