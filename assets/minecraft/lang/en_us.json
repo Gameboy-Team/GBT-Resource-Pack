@@ -637,7 +637,7 @@
   "dv2.ability.might_of_an_utu.3.2.0": "Increase ",
   "dv2.ability.might_of_an_utu.3.2.1": "80 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": ", ",
-  "dv2.ability.might_of_an_utu.3.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "15 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG, STR ",
   "dv2.ability.might_of_an_utu.3.2.5": " and 100 All Affinity.",
 
@@ -1147,8 +1147,8 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "dv2.artifacts.berserker":"Berserker",
-  "dv2.artifacts.berserker.1.0":"Increase STR by 20% when HP lower Than 60%.",
-  "dv2.artifacts.berserker.2.0":"Increase STR by 40% when HP lower Than 30%.",
+  "dv2.artifacts.berserker.1.0":"Increase STR by 15% when HP lower Than 50%.",
+  "dv2.artifacts.berserker.2.0":"Increase STR by 30% when HP lower Than 33%.",
 
   "dv2.artifacts.unyielding_heart":"Unyielding Heart",
   "dv2.artifacts.unyielding_heart.1.0":"Increase DEF by 15% when HP lower Than 50%.",
@@ -1166,9 +1166,9 @@
   "dv2.artifacts.shield.3.1.0":"Increase 40 DEF when holding a shield.",
 
   "dv2.artifacts.warrior.1":"Warrior I",
-  "dv2.artifacts.warrior.1.1.0":"Increase 10 STR when not holding shield.",
+  "dv2.artifacts.warrior.1.1.0":"Increase 5 STR when not holding shield.",
   "dv2.artifacts.warrior.2":"Warrior II",
-  "dv2.artifacts.warrior.2.1.0":"Increase 20 STR when not holding shield.",
+  "dv2.artifacts.warrior.2.1.0":"Increase 15 STR when not holding shield.",
 
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 10s.",
@@ -1193,7 +1193,7 @@
 
   "dv2.artifacts.tank":"Tank",
   "dv2.artifacts.tank.1.0":"Your DEF is Increase by 12",
-  "dv2.artifacts.tank.2.0":"per player within a 6 block radius.",
+  "dv2.artifacts.tank.2.0":"per teammate within a 6 block radius.",
   "dv2.artifacts.tank.3.0":"Gain 20 DEF and 20 HP while using.",
 
   "dv2.artifacts.wanderer":"Wanderer",
@@ -1204,7 +1204,7 @@
 
   "dv2.artifacts.vikings":"Vikings",
   "dv2.artifacts.vikings.1.0":"Your STR is Increase by 5",
-  "dv2.artifacts.vikings.2.0":"per player within a 6 block radius.",
+  "dv2.artifacts.vikings.2.0":"per teammate within a 6 block radius.",
   "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
   
   "dv2.artifacts.vampire.1":"Vampire I",
@@ -1239,10 +1239,10 @@
 
   "dv2.artifacts.fighter":"Fighter",
   "dv2.artifacts.fighter.1.0":"Increase 30 STR when your DEF lower than 20.",
-  "dv2.artifacts.fighter.2.0":"Your STR WILL NOT OVER 70 while holding this artifacts.",
+  "dv2.artifacts.fighter.2.0":"Your STR WILL NOT OVER 40 while holding this artifacts.",
   "dv2.artifacts.soldier":"Soldier",
   "dv2.artifacts.soldier.1.0":"Increase 30 STR when your Max HP lower than 115.",
-  "dv2.artifacts.soldier.2.0":"Your STR WILL NOT OVER 70 while holding this artifacts.",
+  "dv2.artifacts.soldier.2.0":"Your STR WILL NOT OVER 40 while holding this artifacts.",
 
 
 
@@ -1255,12 +1255,12 @@
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 when HP lower than 50%,",
-  "dv2.artifacts.cast_off.2.0":"increase 60% ALL Elemental DMG, STR and 15% SPD. ",
+  "dv2.artifacts.cast_off.2.0":"increase 30% ALL Elemental DMG, STR and 20% SPD. ",
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 50 DEF and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_attack.2.0":"Increase 30 STR.",
-  "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 30 per player within a 7 block radius.",
+  "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 30 per teammate within a 7 block radius.",
   "dv2.artifacts.battle_flag_attack.4.0":"(Maximum: 1 players)",
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 50% SPD, DAMAGE and receive Glowing effect while using.",
@@ -1274,7 +1274,7 @@
 
   "dv2.artifacts.book_of_wisdom":"Book of Wisdom",
   "dv2.artifacts.book_of_wisdom.1.0":"Reduce 30% Stamina while using.",
-  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 0.2 ALL EM in an area of 6 blocks radius.",
+  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 0.2 ALL EM in an area of 7 blocks radius.",
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 while using.",
@@ -1282,13 +1282,13 @@
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
   "dv2.artifacts.command_flag_attack.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 5 blocks radius.",
+  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_defend":"Command Flag <Defend>",
   "dv2.artifacts.command_flag_defend.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 5 blocks radius.",
+  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
   "dv2.artifacts.command_flag_escape.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 50% Recovery in an area of 5 blocks radius.",
+  "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 50% Recovery in an area of 7 blocks radius.",
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
 
