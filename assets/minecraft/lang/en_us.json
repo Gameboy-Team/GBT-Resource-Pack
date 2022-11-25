@@ -1277,8 +1277,8 @@
   "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 0.2 ALL EM in an area of 7 blocks radius.",
 
   "dv2.artifacts.aether_substance":"Aether Substance",
-  "dv2.artifacts.aether_substance.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 while using.",
-  "dv2.artifacts.aether_substance.2.0":"Receive invisiblity effect.",
+  "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
+  "dv2.artifacts.aether_substance.2.0":"Receive invisiblity effect when your HP more than 90% .",
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
   "dv2.artifacts.command_flag_attack.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
@@ -1292,9 +1292,10 @@
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
 
-
-
-
+  "dv2.artifacts.defender":"Defender",
+  "dv2.artifacts.defender.1.0":"Reduce 10% SPD, 30% DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.defender.2.0":"Give enemy Blindness effect in an area of 5 blocks radius.",
+  "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will Immune Glowing effect.",
 
 
   "dv2.food.canned_food": "Canned Food",
