@@ -1263,7 +1263,7 @@
   "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 30 per teammate within a 6 block radius.",
   "dv2.artifacts.battle_flag_attack.4.0":"(Maximum: 1 players)",
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
-  "dv2.artifacts.battle_flag_defend.1.0":"Reduce 50% SPD, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_defend.1.0":"Reduce 25% SPD, 50% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
   "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
   "dv2.artifacts.battle_flag_support.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
