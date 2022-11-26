@@ -668,7 +668,7 @@
   "dv2.weapon.melee.vampire_tooth.description": "I took a tooth from the Vampire...",
 
   "dv2.ability.vampire_tooth.1.0.0": "Vampire Sight",
-  "dv2.ability.vampire_tooth.1.1.0": "When holding this Weapon, Immune ",
+  "dv2.ability.vampire_tooth.1.1.0": "When holding this Weapon, immune ",
   "dv2.ability.vampire_tooth.1.1.2": " effect.",
 
   "dv2.ability.vampire_tooth.2.0.0": "Fear of Light",
@@ -1295,8 +1295,12 @@
   "dv2.artifacts.defender":"Defender",
   "dv2.artifacts.defender.1.0":"Reduce 20% SPD, 30% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.defender.2.0":"Give enemy Blindness effect in an area of 7 blocks radius.",
-  "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will Immune Glowing effect.",
+  "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
 
+  "dv2.artifacts.shelter":"Shelter",
+  "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
+  "dv2.artifacts.shelter.2.0":"when your HP more than 50%,",
+  "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invincibility effect.",
 
   "dv2.food.canned_food": "Canned Food",
 
