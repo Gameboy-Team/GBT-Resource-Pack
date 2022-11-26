@@ -1287,7 +1287,7 @@
   "dv2.artifacts.command_flag_defend.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 6 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
-  "dv2.artifacts.command_flag_escape.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_escape.1.0":"Reduce 50 DEF, 50% DAMAGE while using.",
   "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 75% Recovery in an area of 6 blocks radius.",
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
@@ -1299,7 +1299,7 @@
 
   "dv2.artifacts.shelter":"Shelter",
   "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
-  "dv2.artifacts.shelter.2.0":"when your HP more than 50%,",
+  "dv2.artifacts.shelter.2.0":"when your HP more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invincibility effect.",
 
   "dv2.food.canned_food": "Canned Food",
