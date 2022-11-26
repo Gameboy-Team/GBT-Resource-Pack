@@ -684,7 +684,7 @@
   "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
 
   "dv2.weapon.melee.jormungandrs_tooth":"Jörmungandr's Tooth",
-  "dv2.weapon.melee.jormungandrs_tooth.description":"Ends, then begins.",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"Closure comes with a wellspring.",
   "dv2.ability.jormungandrs_tooth.1.0.0":"Ragnarok",
   "dv2.ability.jormungandrs_tooth.1.1.0":"Sneak to give enemy in an area of 20 blocks radius",
   "dv2.ability.jormungandrs_tooth.1.2.0":", ",
@@ -692,7 +692,7 @@
   "dv2.ability.jormungandrs_tooth.1.2.2":" effects.",
   "dv2.ability.jormungandrs_tooth.1.3.0":"(Requires at least 15000 Mana)",
 
-  "dv2.ability.jormungandrs_tooth.2.0.0":"Ouroboros Swallow",
+  "dv2.ability.jormungandrs_tooth.2.0.0":"Ouroboros' Swallow",
   "dv2.ability.jormungandrs_tooth.2.1.0":"Sneak with item in offhand to give enemy in an area of 5 blocks radius",
   "dv2.ability.jormungandrs_tooth.2.2.0":" effect.",
   "dv2.ability.jormungandrs_tooth.2.3.0":"(Requires Mana)",
@@ -1266,7 +1266,7 @@
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 25% SPD, 50% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
   "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
-  "dv2.artifacts.battle_flag_support.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_support.1.0":"Reduce 25% DEF, 25% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_support.2.0":"Increase 10% SPD.",
   "dv2.artifacts.battle_flag_support.3.0":"Increase teammate 50% Recovery and Base Mana in an area of 7 blocks radius.",
 
@@ -1278,16 +1278,16 @@
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
-  "dv2.artifacts.aether_substance.2.0":"Receive Invisiblity effect when your HP more than 90% .",
+  "dv2.artifacts.aether_substance.2.0":"Receive Invisibility effect when your HP more than 90%",
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
-  "dv2.artifacts.command_flag_attack.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_attack.1.0":"Reduce 25% DEF, 25% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_defend":"Command Flag <Defend>",
-  "dv2.artifacts.command_flag_defend.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_defend.1.0":"Reduce 25% DEF, 25% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
-  "dv2.artifacts.command_flag_escape.1.0":"Reduce 25% DEF, DAMAGE while using.",
+  "dv2.artifacts.command_flag_escape.1.0":"Reduce 25% DEF, 25% DAMAGE while using.",
   "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 100% Recovery in an area of 7 blocks radius.",
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
@@ -1299,8 +1299,35 @@
 
   "dv2.artifacts.shelter":"Shelter",
   "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
-  "dv2.artifacts.shelter.2.0":"when your HP more than 40%,",
+  "dv2.artifacts.shelter.2.0":"When your HP more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
+
+
+
+
+
+
+
+
+
+
+  "dv2.artifacts.signature": "Signature Skill",
+
+  "dv2.artifacts.antibiotics": "Antibiotics",
+  "dv2.artifacts.antibiotics.1.0": "",
+
+  "dv2.artifacts.epiphyte": "Epiphyte",
+  "dv2.artifacts.epiphyte.1.0": "",
+
+  "dv2.artifacts.fiesta": "Fiesta",
+  "dv2.artifacts.fiesta.1.0": "Increase 1 All EM.",
+
+  "dv2.artifacts.lone_wolf": "Lone Wolf",
+  "dv2.artifacts.lone_wolf.1.0": "",
+
+  "dv2.artifacts.nihility": "Nihility",
+  "dv2.artifacts.nihility.1.0": "Immune to all negative effect.",
+
 
   "dv2.food.canned_food": "Canned Food",
 
