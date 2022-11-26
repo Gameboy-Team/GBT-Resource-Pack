@@ -306,6 +306,8 @@
   "rpg.effects.poison": "劇毒",
   "rpg.effects.darkness": "黑暗",
   "rpg.effects.freeze": "冰凍",
+  "rpg.effects.seal": "封印",
+  "rpg.effects.chaos": "混沌",
 
 
   "dv2.kits.berserker.1": "狂戰士 1",
@@ -471,7 +473,7 @@
   "dv2.ability.might_of_an_utu.3.2.0": "增加",
   "dv2.ability.might_of_an_utu.3.2.1": "80 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": "，",
-  "dv2.ability.might_of_an_utu.3.2.3": "10 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "15 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG 及 STR",
   "dv2.ability.might_of_an_utu.3.2.5": "以及 100 全元素 DEF",
 
@@ -517,11 +519,33 @@
   "dv2.ability.torrent_dagger.1.1.0":"蹲下以控制水流，使玩家向前衝。",
   "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
 
-  "dv2.weapon.melee.jormungandrs_tooth":"耶夢加德之牙",
+  "dv2.weapon.melee.jormungandrs_tooth":"耶夢加得之牙",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"終焉，伴隨著新生。",
+  "dv2.ability.jormungandrs_tooth.1.0.0":"諸神黃昏",
+  "dv2.ability.jormungandrs_tooth.1.1.0":"蹲下以給予半徑20格範圍内的敵人",
+  "dv2.ability.jormungandrs_tooth.1.2.0":"、",
+  "dv2.ability.jormungandrs_tooth.1.2.1":"及",
+  "dv2.ability.jormungandrs_tooth.1.2.2":"效果。",
+  "dv2.ability.jormungandrs_tooth.1.3.0":"(消耗至少 15000 Mana)",
+
+  "dv2.ability.jormungandrs_tooth.2.0.0":"銜尾蛇的吞噬",
+  "dv2.ability.jormungandrs_tooth.2.1.0":"副手持有這把武器時蹲下以給予半徑5格範圍内的敵人",
+  "dv2.ability.jormungandrs_tooth.2.2.0":"效果。",
+  "dv2.ability.jormungandrs_tooth.2.3.0":"(消耗 Mana)",
 
 
 
-  "dv2.weapon.melee.jormungandrs_scale":"耶夢加德的鱗片",
+  "dv2.weapon.melee.jormungandrs_scale":"耶夢加得的鱗片",
+  "dv2.weapon.melee.jormungandrs_scale.description":"終焉之時已至...",
+  "dv2.ability.jormungandrs_scale.1.0.0":"莫比烏斯環",
+  "dv2.ability.jormungandrs_scale.1.1.0":"不持盾時增加",
+  "dv2.ability.jormungandrs_scale.1.1.1":" 20 ",
+  "dv2.ability.jormungandrs_scale.1.1.2":"物理&全屬性 DEF ,",
+  "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
+  "dv2.ability.jormungandrs_scale.1.2.1":"及",
+  "dv2.ability.jormungandrs_scale.1.2.2":" 3000 ",
+  "dv2.ability.jormungandrs_scale.1.2.3":"Base Mana",
+  "dv2.ability.jormungandrs_scale.1.2.4":".",
 
 
 
@@ -948,8 +972,8 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在 HP 低於 60% 時增加 20% STR",
-  "dv2.artifacts.berserker.2.0":"在 HP 低於 30% 時增加 40% STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15% STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30% STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
@@ -967,11 +991,11 @@
   "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
   
   "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
-  "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 10 秒",
+  "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 5 秒",
   "dv2.artifacts.totem_of_hope.2":"希望圖騰 II",
-  "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 20 秒",
+  "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 10 秒",
   "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
-  "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 30 秒",
+  "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 15 秒",
 
   "dv2.artifacts.magic_string.1":"魔弦 I",
   "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Base Mana",
@@ -984,15 +1008,15 @@
   "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
   
   "dv2.artifacts.warrior.1":"戰士 I",
-  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 10 STR",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 STR",
   "dv2.artifacts.warrior.2":"戰士 II",
-  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 20 STR",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
 
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
 
   "dv2.artifacts.tank":"坦克",
-  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的玩家，",
+  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的隊友，",
   "dv2.artifacts.tank.2.0":"增加 12 DEF",
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
@@ -1003,7 +1027,7 @@
   "dv2.artifacts.wanderer.4.0":"(上限：9位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
-  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的玩家，",
+  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
   "dv2.artifacts.vikings.2.0":"將會增加你 5 STR",
   "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
   
@@ -1055,8 +1079,52 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 33% 全屬性 DMG, STR 及 15% SPD. ",
+  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全屬性 DMG, STR 及 200% SPD. ",
 
+  "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
+  "dv2.artifacts.battle_flag_attack.1.0":"Reduce 50 DEF and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_attack.2.0":"Increase 30 STR.",
+  "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 30 per teammate within a 6 block radius.",
+  "dv2.artifacts.battle_flag_attack.4.0":"(Maximum: 1 players)",
+  "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
+  "dv2.artifacts.battle_flag_defend.1.0":"Reduce 25% SPD, 50% DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
+  "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
+  "dv2.artifacts.battle_flag_support.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_support.2.0":"Increase 10% SPD.",
+  "dv2.artifacts.battle_flag_support.3.0":"Increase teammate 50% Recovery and Base Mana in an area of 7 blocks radius.",
+
+  "dv2.artifacts.battle_flag_change":"(Sneak to cycle between 3 mode)",
+
+  "dv2.artifacts.book_of_wisdom":"智慧之書",
+  "dv2.artifacts.book_of_wisdom.1.0":"Reduce 30% Stamina while using.",
+  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 0.2 ALL EM in an area of 7 blocks radius.",
+
+  "dv2.artifacts.aether_substance":"以太物質",
+  "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
+  "dv2.artifacts.aether_substance.2.0":"Receive Invisiblity effect when your HP more than 90% .",
+
+  "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
+  "dv2.artifacts.command_flag_attack.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 7 blocks radius.",
+  "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
+  "dv2.artifacts.command_flag_defend.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 7 blocks radius.",
+  "dv2.artifacts.command_flag_escape":"指揮旗 <撤退模式>",
+  "dv2.artifacts.command_flag_escape.1.0":"Reduce 25% DEF, DAMAGE while using.",
+  "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 100% Recovery in an area of 7 blocks radius.",
+
+  "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
+
+  "dv2.artifacts.defender":"防守者",
+  "dv2.artifacts.defender.1.0":"Reduce 20% SPD, 30% DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.defender.2.0":"Give enemy Blindness effect in an area of 7 blocks radius.",
+  "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
+
+  "dv2.artifacts.shelter":"庇護所",
+  "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
+  "dv2.artifacts.shelter.2.0":"when your HP more than 40%,",
+  "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
   "dv2.food.canned_food": "罐裝食品",
 
