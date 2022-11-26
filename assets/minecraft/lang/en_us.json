@@ -1266,9 +1266,9 @@
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 25% SPD, 50% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
   "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
-  "dv2.artifacts.battle_flag_support.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.battle_flag_support.2.0":"Increase 5% SPD.",
-  "dv2.artifacts.battle_flag_support.3.0":"Increase teammate 50% Recovery and Base Mana in an area of 6 blocks radius.",
+  "dv2.artifacts.battle_flag_support.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.battle_flag_support.2.0":"Increase 10% SPD.",
+  "dv2.artifacts.battle_flag_support.3.0":"Increase teammate 50% Recovery and Base Mana in an area of 7 blocks radius.",
 
   "dv2.artifacts.battle_flag_change":"(Sneak to cycle between 3 mode)",
 
@@ -1281,14 +1281,14 @@
   "dv2.artifacts.aether_substance.2.0":"Receive Invisiblity effect when your HP more than 90% .",
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
-  "dv2.artifacts.command_flag_attack.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 6 blocks radius.",
+  "dv2.artifacts.command_flag_attack.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG and STR in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_defend":"Command Flag <Defend>",
-  "dv2.artifacts.command_flag_defend.1.0":"Reduce 50 DEF, 50% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 6 blocks radius.",
+  "dv2.artifacts.command_flag_defend.1.0":"Reduce 25% DEF, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 7 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
-  "dv2.artifacts.command_flag_escape.1.0":"Reduce 50 DEF, 50% DAMAGE while using.",
-  "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 75% Recovery in an area of 6 blocks radius.",
+  "dv2.artifacts.command_flag_escape.1.0":"Reduce 25% DEF, DAMAGE while using.",
+  "dv2.artifacts.command_flag_escape.2.0":"Increase teammate 15% SPD and 100% Recovery in an area of 7 blocks radius.",
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
 
