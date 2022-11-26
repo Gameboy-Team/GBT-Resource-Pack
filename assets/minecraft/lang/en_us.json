@@ -1056,7 +1056,7 @@
   "dv2.spells.long_lasting.earth.1.health_recovery_array.1.2": " of players within a ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
-  "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(Lasts for 15 seconds)",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "Cost: ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
 
@@ -1068,7 +1068,7 @@
   "dv2.spells.long_lasting.earth.2.health_recovery_array.1.2": " of players within a ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
-  "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(Lasts for 30 seconds)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(Lasts for 15 seconds)",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "Cost: ",
   "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
 
@@ -1173,9 +1173,9 @@
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 10s.",
   "dv2.artifacts.totem_of_hope.2":"Totem of Hope II",
-  "dv2.artifacts.totem_of_hope.2.1.0":"Increase your array's life time by 20s.",
+  "dv2.artifacts.totem_of_hope.2.1.0":"Increase your array's life time by 15s.",
   "dv2.artifacts.totem_of_hope.3":"Totem of Hope III",
-  "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 30s.",
+  "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 20s.",
 
   "dv2.artifacts.magic_string.1":"Magic String I",
   "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Base Mana when not holding shield,",
