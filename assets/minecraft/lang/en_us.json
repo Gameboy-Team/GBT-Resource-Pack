@@ -1171,11 +1171,11 @@
   "dv2.artifacts.warrior.2.1.0":"Increase 15 STR when not holding shield.",
 
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
-  "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 10s.",
+  "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 5s.",
   "dv2.artifacts.totem_of_hope.2":"Totem of Hope II",
-  "dv2.artifacts.totem_of_hope.2.1.0":"Increase your array's life time by 15s.",
+  "dv2.artifacts.totem_of_hope.2.1.0":"Increase your array's life time by 10s.",
   "dv2.artifacts.totem_of_hope.3":"Totem of Hope III",
-  "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 20s.",
+  "dv2.artifacts.totem_of_hope.3.1.0":"Increase your array's life time by 15s.",
 
   "dv2.artifacts.magic_string.1":"Magic String I",
   "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Base Mana when not holding shield,",
@@ -1300,7 +1300,7 @@
   "dv2.artifacts.shelter":"Shelter",
   "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
   "dv2.artifacts.shelter.2.0":"when your HP more than 40%,",
-  "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invincibility effect.",
+  "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
   "dv2.food.canned_food": "Canned Food",
 
