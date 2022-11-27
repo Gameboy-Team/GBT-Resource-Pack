@@ -117,6 +117,8 @@
     {"predicate": {"custom_model_data":7000006}, "model": "rpg/weapon/devas_2/odachi/muramasa"},
     {"predicate": {"custom_model_data":7000007}, "model": "rpg/weapon/devas_2/odachi/muramasa_swing"},
     {"predicate": {"custom_model_data":7000008}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"},
-    {"predicate": {"custom_model_data":7000009}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"}
+    {"predicate": {"custom_model_data":7000009}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"},
+    {"predicate": {"custom_model_data":7000010}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_scale"},
+    {"predicate": {"custom_model_data":7000011}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_scale"}
   ]
 }

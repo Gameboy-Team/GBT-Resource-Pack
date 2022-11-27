@@ -322,6 +322,7 @@
 
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
+  "rpg.equipment.bow": "弓",
   "rpg.equipment.wand": "法杖",
   "rpg.equipment.helmet": "頭盔",
   "rpg.equipment.chestplate": "胸甲",
@@ -516,7 +517,7 @@
   "dv2.weapon.melee.torrent_dagger":"激流",
   "dv2.weapon.melee.torrent_dagger.description":"在激流中前進。",
   "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
-  "dv2.ability.torrent_dagger.1.1.0":"蹲下以控制水流，使玩家向前衝。",
+  "dv2.ability.torrent_dagger.1.1.0":"蹲下以控制水流，使玩家向前衝刺。",
   "dv2.ability.torrent_dagger.1.1.1":"(消耗 Stamina)",
 
   "dv2.weapon.melee.jormungandrs_tooth":"耶夢加得之牙",
@@ -1134,35 +1135,35 @@
 
 
   "dv2.artifacts.signature": "招牌首飾",
-  "dv2.artifacts.signature.1.0": "當你是最後一位倖存者時生效",
+  "dv2.artifacts.signature.1.0": "當你是最後一位倖存者時才會生效。",
 
   "dv2.artifacts.antibiotics": "抗生素",
-  "dv2.artifacts.antibiotics.1.0": "Increase 100 ALL DEF(Physical and Elemental).",
+  "dv2.artifacts.antibiotics.1.0": "增加 100 物理&全屬性DEF",
 
   "dv2.artifacts.epiphyte": "附生植物",
-  "dv2.artifacts.epiphyte.1.0": "Increase 100% Recovery and 50 Lifesteal",
-  "dv2.artifacts.epiphyte.2.0": "Restores 25% MAX HP when you kill an enemy.",
+  "dv2.artifacts.epiphyte.1.0": "增加 100% 自然回復 及 50 吸血。",
+  "dv2.artifacts.epiphyte.2.0": "擊殺敵人時回復自身最大 HP 的 25%",
 
   "dv2.artifacts.fiesta": "狂歡節",
   "dv2.artifacts.fiesta.1.0": "增加 1.0 全屬性EM",
 
   "dv2.artifacts.lone_wolf": "孤狼",
-  "dv2.artifacts.lone_wolf.1.0": "Incrase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
+  "dv2.artifacts.lone_wolf.1.0": "增加 75% 物理&全屬性DMG, 20% SPD 及 25 吸血。",
   
   "dv2.artifacts.nihility": "虛無",
   "dv2.artifacts.nihility.1.0": "免疫所有負面效果。",
 
 
   "dv2.point":"點數 (PT)",
-  "dv2.point.1.0":"你可以使用PT來購買武器，首飾，物品和法陣",
+  "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
 
   "dv2.movement_point":"行動點數 (MP)",
-  "dv2.movement_point.1.0":"你只有一個MP用於購買特殊行動",
+  "dv2.movement_point.1.0":"你只有一個MP，可用於購買特殊行動",
 
   "dv2.signature_point":"招牌點數 (SP)",
-  "dv2.signature_point.1.0":"你只有一個SP用於購買招牌首飾",
+  "dv2.signature_point.1.0":"你只有一個SP，可用於購買招牌首飾",
 
-  "dv2.point.description":"凡事都有代價",
+  "dv2.point.description":"凡事都有代價。",
 
 
   "dv2.food.canned_food": "罐裝食品",
