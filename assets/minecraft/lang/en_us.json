@@ -1311,22 +1311,42 @@
 
 
 
-  "dv2.artifacts.signature": "Signature Skill",
+  "dv2.artifacts.signature": "Signature Artifacts",
+  "dv2.artifacts.signature.1.0": "Only effective when you are last survivor.",
 
   "dv2.artifacts.antibiotics": "Antibiotics",
-  "dv2.artifacts.antibiotics.1.0": "",
+  "dv2.artifacts.antibiotics.1.0": "Increase 100 ALL DEF(Physical and Elemental).",
 
   "dv2.artifacts.epiphyte": "Epiphyte",
-  "dv2.artifacts.epiphyte.1.0": "",
+  "dv2.artifacts.epiphyte.1.0": "Increase 100% Recovery and 50 Lifesteal",
+  "dv2.artifacts.epiphyte.2.0": "Restores 25% MAX HP when you kill an enemy.",
 
   "dv2.artifacts.fiesta": "Fiesta",
-  "dv2.artifacts.fiesta.1.0": "Increase 1 All EM.",
+  "dv2.artifacts.fiesta.1.0": "Increase 1.0 All EM.",
 
   "dv2.artifacts.lone_wolf": "Lone Wolf",
-  "dv2.artifacts.lone_wolf.1.0": "",
+  "dv2.artifacts.lone_wolf.1.0": "Incrase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
 
   "dv2.artifacts.nihility": "Nihility",
   "dv2.artifacts.nihility.1.0": "Immune to all negative effect.",
+
+
+
+
+
+
+
+  "dv2.point":"Point (PT)",
+  "dv2.point.1.0":"You can use PT to buy weapon, artifacts, item and array.",
+
+  "dv2.movement_point":"Movement Point (MP)",
+  "dv2.movement_point.1.0":"You have only one MP for purchasing special movement.",
+
+  "dv2.signature_point":"Signature Point (SP)",
+  "dv2.signature_point.1.0":"You have only one SP for purchasing signature artifacts.",
+
+  "dv2.point.description":"Everthing take price.",
+
 
 
   "dv2.food.canned_food": "Canned Food",
