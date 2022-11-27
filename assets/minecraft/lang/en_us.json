@@ -1314,9 +1314,10 @@
   "dv2.artifacts.shelter.2.0":"When your HP more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
-
-
-
+  "dv2.artifacts.guardian":"Guardian",
+  "dv2.artifacts.guardian.1.0":"Increase 30 HP while using.",
+  "dv2.artifacts.guardian.2.0":"When your HP more than 30%,",
+  "dv2.artifacts.guardian.3.0":"increase teammate 30 DEF in an area of 7 blocks radius.",
 
 
 
