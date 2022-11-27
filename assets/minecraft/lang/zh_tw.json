@@ -1090,7 +1090,7 @@
   "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 25% SPD, 50% DMG，並獲得發光效果。",
   "dv2.artifacts.battle_flag_defend.2.0":"增加 50% DEF",
   "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
-  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 25% DEF, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 25% DEF, DMG，並獲得發光效果。",
   "dv2.artifacts.battle_flag_support.2.0":"增加 10% SPD,",
   "dv2.artifacts.battle_flag_support.3.0":"增加半徑6格範圍內的隊友 50% 自然回復 及 Base Mana",
 
@@ -1105,13 +1105,13 @@
   "dv2.artifacts.aether_substance.2.0":"在 HP 高於 90% 時獲得隱形效果。",
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
-  "dv2.artifacts.command_flag_attack.1.0":"使用時減少 25% DEF, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_attack.1.0":"使用時減少 25% DEF, DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_attack.2.0":"增加半徑7格範圍內的隊友 30% 全屬性DMG 及 STR",
   "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
-  "dv2.artifacts.command_flag_defend.1.0":"使用時減少 25% DEF, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_defend.1.0":"使用時減少 25% DEF, DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑7格範圍內的隊友 30% 物理&全屬性DEF",
   "dv2.artifacts.command_flag_escape":"指揮旗 <撤退模式>",
-  "dv2.artifacts.command_flag_escape.1.0":"使用時減少 25% DEF 及 25% DMG",
+  "dv2.artifacts.command_flag_escape.1.0":"使用時減少 25% DEF 及 DMG",
   "dv2.artifacts.command_flag_escape.2.0":"增加半徑7格範圍內的隊友 15% SPD 及 100% 自然回復。",
 
   "dv2.artifacts.command_flag_change":"(蹲下以切換攻擊、防禦、撤退三種模式)",
