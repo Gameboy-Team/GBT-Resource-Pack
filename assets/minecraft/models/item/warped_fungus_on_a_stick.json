@@ -119,6 +119,8 @@
     {"predicate": {"custom_model_data":7000008}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"},
     {"predicate": {"custom_model_data":7000009}, "model": "rpg/weapon/devas_2/dagger/torrent_dagger"},
     {"predicate": {"custom_model_data":7000010}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_scale"},
-    {"predicate": {"custom_model_data":7000011}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_scale"}
+    {"predicate": {"custom_model_data":7000011}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_scale"},
+    {"predicate": {"custom_model_data":7000012}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_tooth"},
+    {"predicate": {"custom_model_data":7000013}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_tooth"}
   ]
 }

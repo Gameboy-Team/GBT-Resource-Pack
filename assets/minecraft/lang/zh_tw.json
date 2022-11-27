@@ -320,6 +320,18 @@
   "dv2.kits.mage.2": "法師 2",
 
 
+  "dv2.display.arrow": "Arrow",
+  "dv2.display.artifact": "Artifact",
+  "dv2.display.bow": "Bow",
+  "dv2.display.dno": "Dagger & Odachi",
+  "dv2.display.gnl": "Greatsword & Longsword",
+  "dv2.display.powder": "Powder",
+  "dv2.display.signature": "Signature Artifact",
+  "dv2.display.sns": "Special & Shield",
+  "dv2.display.spell": "Spell",
+  "dv2.display.wand": "Wand",
+
+
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
   "rpg.equipment.bow": "弓",
