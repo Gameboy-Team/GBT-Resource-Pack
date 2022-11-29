@@ -1156,6 +1156,7 @@
 
   "dv2.artifacts.antibiotics": "抗生素",
   "dv2.artifacts.antibiotics.1.0": "增加 100 物理&全屬性DEF",
+  "dv2.artifacts.antibiotics.2.0": "免疫所有負面效果。",
 
   "dv2.artifacts.epiphyte": "附生植物",
   "dv2.artifacts.epiphyte.1.0": "增加 100% 自然回復 及 50 吸血。",
@@ -1168,7 +1169,7 @@
   "dv2.artifacts.lone_wolf.1.0": "增加 75% 物理&全屬性DMG, 20% SPD 及 25 吸血。",
   
   "dv2.artifacts.nihility": "虛無",
-  "dv2.artifacts.nihility.1.0": "免疫所有負面效果。",
+  "dv2.artifacts.nihility.1.0": "Increase 40% SPD and give all enemy Darkness effect.",
 
 
   "dv2.point":"點數 (PT)",

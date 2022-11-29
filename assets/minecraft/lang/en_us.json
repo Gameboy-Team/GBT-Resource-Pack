@@ -1329,6 +1329,7 @@
 
   "dv2.artifacts.antibiotics": "Antibiotics",
   "dv2.artifacts.antibiotics.1.0": "Increase 100 ALL DEF(Physical and Elemental).",
+  "dv2.artifacts.antibiotics.2.0": "Immune to all negative effect.",
 
   "dv2.artifacts.epiphyte": "Epiphyte",
   "dv2.artifacts.epiphyte.1.0": "Increase 100% Recovery and 50 Lifesteal",
@@ -1341,7 +1342,7 @@
   "dv2.artifacts.lone_wolf.1.0": "Increase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
 
   "dv2.artifacts.nihility": "Nihility",
-  "dv2.artifacts.nihility.1.0": "Immune to all negative effect.",
+  "dv2.artifacts.nihility.1.0": "Increase 40% SPD and give all enemy Darkness effect.",
 
 
 
