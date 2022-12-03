@@ -488,7 +488,7 @@
   "dv2.ability.might_of_an_utu.3.2.2": "，",
   "dv2.ability.might_of_an_utu.3.2.3": "15 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG 及 STR",
-  "dv2.ability.might_of_an_utu.3.2.5": "以及 100 全元素 DEF",
+  "dv2.ability.might_of_an_utu.3.2.5": "以及 100 全屬性 DEF",
 
 
 
@@ -615,7 +615,7 @@
   "dv2.ability.muramasa.2.2.6": "火屬性",
   "dv2.ability.muramasa.2.2.7": "、",
   "dv2.ability.muramasa.2.2.8": "土屬性",
-  "dv2.ability.muramasa.2.3.0": "元素DEF",
+  "dv2.ability.muramasa.2.3.0": "DEF",
   "dv2.ability.muramasa.2.3.1": "，5 DMG和STR",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"塞勒涅的權能",
@@ -712,7 +712,7 @@
   "dv2.weapon.shield.bladed_shield.earth.description": "得到土精靈的幫助",
 
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
-  "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種元素",
+  "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
 
   "dv2.weapon.bow.archers_bow": "射手之弓",
   "dv2.weapon.bow.archers_bow.description": "一把好老弓",
@@ -1077,10 +1077,10 @@
 
   "dv2.artifacts.fighter":"鬥士",
   "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 STR",
-  "dv2.artifacts.fighter.2.0":"持有此製品時，你的 STR 將不會超過 40",
+  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 STR 將不會超過 40",
   "dv2.artifacts.soldier":"軍人",
   "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 STR",
-  "dv2.artifacts.soldier.2.0":"持有此製品時，你的 STR 將不會超過 40",
+  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 STR 將不會超過 40",
 
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
