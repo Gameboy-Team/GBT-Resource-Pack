@@ -306,6 +306,8 @@
   "rpg.effects.poison": "毒",
   "rpg.effects.darkness": "黯",
   "rpg.effects.freeze": "寒",
+  "rpg.effects.seal": "封",
+  "rpg.effects.chaos": "渾淪",
 
 
   "dv2.kits.berserker.1": "狂士 甲",
@@ -317,9 +319,21 @@
   "dv2.kits.mage.1": "法者 甲",
   "dv2.kits.mage.2": "法者 乙",
 
+  "dv2.display.arrow": "矢",
+  "dv2.display.artifact": "飾",
+  "dv2.display.bow": "弓",
+  "dv2.display.dno": "匕首大太刀",
+  "dv2.display.gnl": "巨長劍",
+  "dv2.display.powder": "末",
+  "dv2.display.signature": "招牌飾",
+  "dv2.display.sns": "奇器幹",
+  "dv2.display.spell": "法",
+  "dv2.display.wand": "杖",
+
 
   "rpg.equipment.main_hand": "主手",
   "rpg.equipment.offhand": "次手",
+  "rpg.equipment.bow": "弓",
   "rpg.equipment.wand": "杖",
   "rpg.equipment.helmet": "胄",
   "rpg.equipment.chestplate": "鎧",
@@ -515,7 +529,38 @@
   "dv2.weapon.melee.torrent_dagger.description":"行在湍。",
   "dv2.ability.torrent_dagger.1.0.0":"水流衝刺",
   "dv2.ability.torrent_dagger.1.1.0":"蹲以制水而爾前。",
-  "dv2.ability.torrent_dagger.1.1.1":"(費 Stamina)",
+  "dv2.ability.torrent_dagger.1.1.1":"(費耐)",
+
+  "dv2.weapon.melee.jormungandrs_tooth":"耶夢加得齒",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"終從而生。",
+  "dv2.ability.jormungandrs_tooth.1.0.0":"諸神黃昏",
+  "dv2.ability.jormungandrs_tooth.1.1.0":"敵以徑卌格限，蹲以予",
+  "dv2.ability.jormungandrs_tooth.1.2.0":"",
+  "dv2.ability.jormungandrs_tooth.1.2.1":"",
+  "dv2.ability.jormungandrs_tooth.1.2.2":"效。",
+  "dv2.ability.jormungandrs_tooth.1.3.0":"(費至萬五千魔)",
+
+  "dv2.ability.jormungandrs_tooth.2.0.0":"蛇銜尾吞",
+  "dv2.ability.jormungandrs_tooth.2.1.0":"次手持此器，敵以徑十格限，蹲以予",
+  "dv2.ability.jormungandrs_tooth.2.2.0":"效。",
+  "dv2.ability.jormungandrs_tooth.2.3.0":"(費魔)",
+
+
+
+  "dv2.weapon.melee.jormungandrs_scale":"耶夢加得鱗",
+  "dv2.weapon.melee.jormungandrs_scale.description":"終至...",
+  "dv2.ability.jormungandrs_scale.1.0.0":"莫比烏斯環",
+  "dv2.ability.jormungandrs_scale.1.1.0":"不執幹，益",
+  "dv2.ability.jormungandrs_scale.1.1.1":"廿",
+  "dv2.ability.jormungandrs_scale.1.1.2":"物理並全素，",
+  "dv2.ability.jormungandrs_scale.1.2.0":"生直",
+  "dv2.ability.jormungandrs_scale.1.2.1":"與",
+  "dv2.ability.jormungandrs_scale.1.2.2":"三千",
+  "dv2.ability.jormungandrs_scale.1.2.3":"基魔",
+  "dv2.ability.jormungandrs_scale.1.2.4":"。",
+
+
+
 
   "dv2.weapon.melee.odachi.broken_odachi": "大破之大太刀",
   "dv2.weapon.melee.odachi.broken_odachi.description": "為劍高詠之用。",
@@ -712,13 +757,13 @@
   "dv2.ability.destroyer.1.2.2": " 的時候.",
 
   
-  "dv2.weapon.bow.bladed_bow": "颶風弓",
+  "dv2.weapon.bow.bladed_bow": "嚴飈弓",
   "dv2.weapon.bow.bladed_bow.description": "急子 大笑",
   "dv2.ability.bladed_bow.1.0.0": "主風",
   "dv2.ability.bladed_bow.1.1.0": "汝蹲，於下作風以降緩",
   "dv2.ability.bladed_bow.1.2.0": "(費魔)",
   "dv2.ability.bladed_bow.2.0.0": "高壓氣",
-  "dv2.ability.bladed_bow.2.1.0": "次手持此弓時，蹲，",
+  "dv2.ability.bladed_bow.2.1.0": "次手持此弓，蹲，",
   "dv2.ability.bladed_bow.2.2.0": "生使君卻之風",
   "dv2.ability.bladed_bow.2.3.0": "(費魔)",
 
@@ -939,8 +984,8 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000魔",
 
   "dv2.artifacts.berserker":"狂士",
-  "dv2.artifacts.berserker.1.0":"生直下五三，益五有一力",
-  "dv2.artifacts.berserker.2.0":"生直下十三，益五有二力",
+  "dv2.artifacts.berserker.1.0":"生直下半，益廿有三力",
+  "dv2.artifacts.berserker.2.0":"生直下三一，益十有三力",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"生直下半，益十五御",
@@ -958,11 +1003,11 @@
   "dv2.artifacts.shield.3.1.0":"執幹，益卌御",
   
   "dv2.artifacts.totem_of_hope.1":"祈璽 一階",
-  "dv2.artifacts.totem_of_hope.1.1.0":"以法使限延十秒",
+  "dv2.artifacts.totem_of_hope.1.1.0":"以法使限延五秒",
   "dv2.artifacts.totem_of_hope.2":"祈璽 二階",
-  "dv2.artifacts.totem_of_hope.2.1.0":"以法使限延廿秒",
+  "dv2.artifacts.totem_of_hope.2.1.0":"以法使限延十秒",
   "dv2.artifacts.totem_of_hope.3":"祈璽 三階",
-  "dv2.artifacts.totem_of_hope.3.1.0":"以法使限延卅秒",
+  "dv2.artifacts.totem_of_hope.3.1.0":"以法使限延十五秒",
 
   "dv2.artifacts.magic_string.1":"魔弦 一階",
   "dv2.artifacts.magic_string.1.1.0":"不執幹，益千五百魔",
@@ -975,15 +1020,15 @@
   "dv2.artifacts.magic_string.3.2.0":"執幹，益二千五百耐",
   
   "dv2.artifacts.warrior.1":"戰士 一階",
-  "dv2.artifacts.warrior.1.1.0":"不執幹，益十力",
+  "dv2.artifacts.warrior.1.1.0":"不執幹，益五力",
   "dv2.artifacts.warrior.2":"戰士 二階",
-  "dv2.artifacts.warrior.2.1.0":"不執幹，益廿力",
+  "dv2.artifacts.warrior.2.1.0":"不執幹，益十力",
 
   "dv2.artifacts.resistor":"阻電具",
   "dv2.artifacts.resistor.1.0":"當得負效，益卌力",
 
   "dv2.artifacts.tank":"肉盾",
-  "dv2.artifacts.tank.1.0":"每生以徑十二格限，",
+  "dv2.artifacts.tank.1.0":"每友以徑十二格限，",
   "dv2.artifacts.tank.2.0":"當益爾二六御",
   "dv2.artifacts.tank.3.0":"有則益廿御生直",
 
@@ -994,7 +1039,7 @@
   "dv2.artifacts.wanderer.4.0":"(上九生)",
 
   "dv2.artifacts.vikings":"游居者",
-  "dv2.artifacts.vikings.1.0":"每生以徑十二格限，",
+  "dv2.artifacts.vikings.1.0":"每友以徑十二格限，",
   "dv2.artifacts.vikings.2.0":"當益爾五力",
   "dv2.artifacts.vikings.3.0":"有則益五力",
   
@@ -1031,9 +1076,10 @@
 
   "dv2.artifacts.fighter":"鬥者",
   "dv2.artifacts.fighter.1.0":"及爾御下廿，益卅力",
-
+  "dv2.artifacts.fighter.2.0":"持此飾，爾力不過卌",
   "dv2.artifacts.soldier":"卒",
   "dv2.artifacts.soldier.1.0":"及爾之生直限下百十五，益卅力",
+  "dv2.artifacts.soldier.2.0":"持此飾，爾力不過卌",
 
   "dv2.artifacts.rose_of_void":"黄泉瑰",
   "dv2.artifacts.rose_of_void.1.0":"敵以徑十二格限，其御降及半",
@@ -1041,6 +1087,99 @@
   "dv2.artifacts.awakened":"覺者",
   "dv2.artifacts.awakened.1.0":"爾當得盲效，",
   "dv2.artifacts.awakened.2.0":"益全素擊與魔之三一",
+
+  "dv2.artifacts.cast_off":"蛻殻",
+  "dv2.artifacts.cast_off.1.0":"生直下半，減廿御，且爾御不高零，",
+  "dv2.artifacts.cast_off.2.0":"亦益十有三全素擊力，五有一速",
+
+  "dv2.artifacts.battle_flag_attack":"戰旗 <擊式>",
+  "dv2.artifacts.battle_flag_attack.1.0":"有則減五十御，得光效",
+  "dv2.artifacts.battle_flag_attack.2.0":"益卅力",
+  "dv2.artifacts.battle_flag_attack.3.0":"每友以徑十二格限，當減爾卅力",
+  "dv2.artifacts.battle_flag_attack.4.0":"(上一生)",
+  "dv2.artifacts.battle_flag_defend":"戰旗 <御式>",
+  "dv2.artifacts.battle_flag_defend.1.0":"有則減四一速，半擊，得光效",
+  "dv2.artifacts.battle_flag_defend.2.0":"益半御",
+  "dv2.artifacts.battle_flag_support":"戰旗 <輔式>",
+  "dv2.artifacts.battle_flag_support.1.0":"有則減四一御擊，得光效",
+  "dv2.artifacts.battle_flag_support.2.0":"益十有一速",
+  "dv2.artifacts.battle_flag_support.3.0":"友以徑十二格限，其自復基魔益半",
+
+  "dv2.artifacts.battle_flag_change":"(蹲以換擊御輔三式)",
+
+  "dv2.artifacts.book_of_wisdom":"載智者書",
+  "dv2.artifacts.book_of_wisdom.1.0":"有則減十有三耐",
+  "dv2.artifacts.book_of_wisdom.2.0":"友以徑十四格限，其全素通益五一",
+
+  "dv2.artifacts.aether_substance":"以太物",
+  "dv2.artifacts.aether_substance.1.0":"有則爾御不高零",
+  "dv2.artifacts.aether_substance.2.0":"生直上十有九，得隱效",
+
+  "dv2.artifacts.command_flag_attack":"麾 <擊式>",
+  "dv2.artifacts.command_flag_attack.1.0":"有則減五一御擊，得光效",
+  "dv2.artifacts.command_flag_attack.2.0":"友以徑廿格限，其全素擊力益十有三",
+  "dv2.artifacts.command_flag_defend":"麾 <御式>",
+  "dv2.artifacts.command_flag_defend.1.0":"有則減五一御擊，得光效",
+  "dv2.artifacts.command_flag_defend.2.0":"友以徑廿格限，其物理並全素御益十有三",
+  "dv2.artifacts.command_flag_escape":"麾 <撤式>",
+  "dv2.artifacts.command_flag_escape.1.0":"有則減五一御擊",
+  "dv2.artifacts.command_flag_escape.2.0":"友以徑廿格限，其速益廿有三，雙自復",
+
+  "dv2.artifacts.command_flag_change":"(蹲以換擊御撤三式)",
+
+  "dv2.artifacts.defender":"守者",
+  "dv2.artifacts.defender.1.0":"有則減五一速，十有三擊，得光效",
+  "dv2.artifacts.defender.2.0":"敵以徑十四格限，得盲效",
+  "dv2.artifacts.defender.3.0":"友以徑十格限，免光效",
+
+  "dv2.artifacts.shelter":"庇居",
+  "dv2.artifacts.shelter.1.0":"有則益五十生直，增一秒攻間",
+  "dv2.artifacts.shelter.2.0":"生直上五二，",
+  "dv2.artifacts.shelter.3.0":"友以徑十格限，得隱效",
+
+  "dv2.artifacts.guardian":"衛者",
+  "dv2.artifacts.guardian.1.0":"有則益卅生直",
+  "dv2.artifacts.guardian.2.0":"生直上十有三，",
+  "dv2.artifacts.guardian.3.0":"友以徑十四格限，益卅御",
+
+
+
+
+
+
+
+
+  "dv2.artifacts.signature": "招牌飾",
+  "dv2.artifacts.signature.1.0": "作君幸存乃生效。",
+
+  "dv2.artifacts.antibiotics": "仙丹",
+  "dv2.artifacts.antibiotics.1.0": "益百物理並全素御",
+  "dv2.artifacts.antibiotics.2.0": "免負效",
+
+  "dv2.artifacts.epiphyte": "苔蕨",
+  "dv2.artifacts.epiphyte.1.0": "得雙自復，五十食血",
+  "dv2.artifacts.epiphyte.2.0": "擊賊，復自之生直限四有一",
+
+  "dv2.artifacts.fiesta": "一夜魚龍舞",
+  "dv2.artifacts.fiesta.1.0": "益一全素通",
+
+  "dv2.artifacts.lone_wolf": "孤狼",
+  "dv2.artifacts.lone_wolf.1.0": "益四三物理並全素擊，五一速，廿五吸血",
+  
+  "dv2.artifacts.nihility": "奈落",
+  "dv2.artifacts.nihility.1.0": "益十有四速，予敵黯效",
+
+
+  "dv2.point":"點",
+  "dv2.point.1.0":"可市器飾物法",
+
+  "dv2.movement_point":"行點",
+  "dv2.movement_point.1.0":"汝一行點，可市特行",
+
+  "dv2.signature_point":"招牌點",
+  "dv2.signature_point.1.0":"汝一招牌點，可市招牌飾",
+
+  "dv2.point.description":"事皆有費",
 
 
   "dv2.food.canned_food": "罐食",
