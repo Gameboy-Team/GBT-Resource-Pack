@@ -735,7 +735,7 @@
   "dv2.ability.nightmare.1.1.2": "，",
   "dv2.ability.nightmare.1.2.0": "，得",
   "dv2.ability.nightmare.1.2.2": "二秒，矢得",
-  "dv2.ability.nightmare.1.3.0": "十暗擊之 <加二有三 素通>",
+  "dv2.ability.nightmare.1.3.0": "十五暗擊之 <加二 素通>",
   "dv2.ability.nightmare.1.3.1": "，且爾矢以",
   "dv2.ability.nightmare.1.3.2": "每秒約二丈",
   "dv2.ability.nightmare.1.3.3": "速行",
@@ -743,7 +743,7 @@
   "dv2.ability.nightmare.2.0.0": "盡引",
   "dv2.ability.nightmare.2.1.0": "為子之彀，卿",
   "dv2.ability.nightmare.2.2.0": "當得",
-  "dv2.ability.nightmare.2.2.1": "五暗擊之 <加半 素通>",
+  "dv2.ability.nightmare.2.2.1": "五擊之",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -992,8 +992,8 @@
   "dv2.artifacts.unyielding_heart.2.0":"生直下三一，益卅御",
   
   "dv2.artifacts.coward":"怯子",
-  "dv2.artifacts.coward.1.0":"生直下半，益五有一速",
-  "dv2.artifacts.coward.2.0":"生直下三一，益五有二速",
+  "dv2.artifacts.coward.1.0":"生直下半，益廿有三速",
+  "dv2.artifacts.coward.2.0":"生直下三一，益十有三速",
   
   "dv2.artifacts.shield.1":"幹 一階",
   "dv2.artifacts.shield.1.1.0":"執幹，益廿御",
@@ -1128,8 +1128,8 @@
   "dv2.artifacts.command_flag_change":"(蹲以換擊御撤三式)",
 
   "dv2.artifacts.defender":"守者",
-  "dv2.artifacts.defender.1.0":"有則減五一速，十有三擊，得光效",
-  "dv2.artifacts.defender.2.0":"敵以徑十四格限，得盲效",
+  "dv2.artifacts.defender.1.0":"有則減廿有三速擊，得光效",
+  "dv2.artifacts.defender.2.0":"敵以徑卅格限，得盲效",
   "dv2.artifacts.defender.3.0":"友以徑十格限，免光效",
 
   "dv2.artifacts.shelter":"庇居",
@@ -1167,7 +1167,8 @@
   "dv2.artifacts.lone_wolf.1.0": "益四三物理並全素擊，五一速，廿五吸血",
   
   "dv2.artifacts.nihility": "奈落",
-  "dv2.artifacts.nihility.1.0": "益十有四速，予敵黯效",
+  "dv2.artifacts.nihility.1.0": "生直上十有七。得隱效",
+  "dv2.artifacts.nihility.2.0": "予敵黯效",
 
 
   "dv2.point":"點",
