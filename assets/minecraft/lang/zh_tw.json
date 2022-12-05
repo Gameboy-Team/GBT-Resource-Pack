@@ -737,7 +737,7 @@
   "dv2.ability.nightmare.1.1.2": "時，",
   "dv2.ability.nightmare.1.2.0": "你將會獲得",
   "dv2.ability.nightmare.1.2.2": "2秒，箭矢會獲得",
-  "dv2.ability.nightmare.1.3.0": "10點暗屬性DMG <+1.5 EM>",
+  "dv2.ability.nightmare.1.3.0": "15點暗屬性DMG <+2 EM>",
   "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
   "dv2.ability.nightmare.1.3.2": "每秒6米",
   "dv2.ability.nightmare.1.3.3": "的速度行進",
@@ -745,7 +745,7 @@
   "dv2.ability.nightmare.2.0.0": "完全蓄力",
   "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
   "dv2.ability.nightmare.2.2.0": "獲得",
-  "dv2.ability.nightmare.2.2.1": "5點暗屬性DMG <+0.5 EM>",
+  "dv2.ability.nightmare.2.2.1": "5 POW",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -994,8 +994,8 @@
   "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30 DEF",
   
   "dv2.artifacts.coward":"膽小鬼",
-  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 20% SPD",
-  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 40% SPD",
+  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 15% SPD",
+  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 30% SPD",
   
   "dv2.artifacts.shield.1":"盾牌 I",
   "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
