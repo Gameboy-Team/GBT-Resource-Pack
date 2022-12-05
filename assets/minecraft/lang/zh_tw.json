@@ -1131,8 +1131,8 @@
   "dv2.artifacts.command_flag_change":"(蹲下以切換攻擊、防禦、撤退三種模式)",
 
   "dv2.artifacts.defender":"防守者",
-  "dv2.artifacts.defender.1.0":"使用時減少 20% SPD, 30% DMG，並獲得發光效果。",
-  "dv2.artifacts.defender.2.0":"給予半徑7格範圍內的敵人致盲效果。",
+  "dv2.artifacts.defender.1.0":"使用時減少 15% SPD, DMG，並獲得發光效果。",
+  "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
   "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
 
   "dv2.artifacts.shelter":"庇護所",
@@ -1170,7 +1170,8 @@
   "dv2.artifacts.lone_wolf.1.0": "增加 75% 物理&全屬性DMG, 20% SPD 及 25 吸血。",
   
   "dv2.artifacts.nihility": "虛無",
-  "dv2.artifacts.nihility.1.0": "增加 40% SPD，同時給予所有敵人黑暗效果。",
+  "dv2.artifacts.nihility.1.0": "當你的 HP 高於 70% 時獲得隱形效果，",
+  "dv2.artifacts.nihility.2.0": "同時給予所有敵人黑暗效果。",
 
 
   "dv2.point":"點數 (PT)",

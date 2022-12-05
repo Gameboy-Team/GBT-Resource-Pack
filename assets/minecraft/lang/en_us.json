@@ -1305,8 +1305,8 @@
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
 
   "dv2.artifacts.defender":"Defender",
-  "dv2.artifacts.defender.1.0":"Reduce 20% SPD, 30% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.defender.2.0":"Give enemy Blindness effect in an area of 7 blocks radius.",
+  "dv2.artifacts.defender.1.0":"Reduce 15% SPD, DAMAGE and receive Glowing effect while using.",
+  "dv2.artifacts.defender.2.0":"Give enemy Darkness effect and reduce 10% SPD in an area of 15 blocks radius.",
   "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
 
   "dv2.artifacts.shelter":"Shelter",
@@ -1342,8 +1342,8 @@
   "dv2.artifacts.lone_wolf.1.0": "Increase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
 
   "dv2.artifacts.nihility": "Nihility",
-  "dv2.artifacts.nihility.1.0": "Increase 40% SPD and give all enemy Darkness effect.",
-
+  "dv2.artifacts.nihility.1.0": "Receive Invisibility effect when your HP more than 70%",
+  "dv2.artifacts.nihility.2.0": "and give all enemy Darkness effect.",
 
 
 
