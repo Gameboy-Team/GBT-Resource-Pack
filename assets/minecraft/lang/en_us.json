@@ -442,7 +442,7 @@
   "rpg.stats.recovery": "Recovery",
   "rpg.stats.base_mana": "Base Mana",
   "rpg.stats.mana": "Mana",
-  "rpg.stats.health": "Health",
+  "rpg.stats.health": "HP",
   "rpg.stats.speed": "Speed",
   "rpg.stats.stamina": "Stamina",
 
@@ -599,7 +599,7 @@
   "dv2.ability.excalibur.2.0.0": "Glory of Justice",
   "dv2.ability.excalibur.2.1.0": "Gain ",
   "dv2.ability.excalibur.2.1.1": "10 Light DMG <+2.0 EM>",
-  "dv2.ability.excalibur.2.1.2": " when your health falls below 40%.",
+  "dv2.ability.excalibur.2.1.2": " when your HP falls below 40%.",
 
   "dv2.weapon.melee.leaf_steel_sword": "Leaf Steel Sword",
   "dv2.weapon.melee.leaf_steel_sword.description":"Make with steel rich in Earth element.",
@@ -616,14 +616,14 @@
 
   "dv2.ability.giant_sword.1.0.0": "Defense is the Best Offense",
   "dv2.ability.giant_sword.1.1.0": "Gain ",
-  "dv2.ability.giant_sword.1.1.1": "10%",
+  "dv2.ability.giant_sword.1.1.1": "your HP10%",
   "dv2.ability.giant_sword.1.1.2": " of your DEF as DMG.",
 
   "dv2.weapon.melee.great_sword.might_of_an_utu": "Manifestation of An-Utu",
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "Feeling the judgement of Shamash.",
 
   "dv2.ability.might_of_an_utu.1.0.0": "Price of meeting Shamash",
-  "dv2.ability.might_of_an_utu.1.1.0": "When your health is above 50%,",
+  "dv2.ability.might_of_an_utu.1.1.0": "When your HP is above 50%,",
   "dv2.ability.might_of_an_utu.1.2.0": "your ",
   "dv2.ability.might_of_an_utu.1.2.2": " Skill Multiplier is reduced by ",
   "dv2.ability.might_of_an_utu.1.2.3": "100%",
@@ -632,18 +632,18 @@
   "dv2.ability.might_of_an_utu.2.0.0": "Sacrifice for god",
   "dv2.ability.might_of_an_utu.2.1.0": "Sneak to reduce ",
   "dv2.ability.might_of_an_utu.2.1.1": "33%",
-  "dv2.ability.might_of_an_utu.2.1.2": " of your current health,",
-  "dv2.ability.might_of_an_utu.2.2.0": "and increase ",
+  "dv2.ability.might_of_an_utu.2.1.2": " of your current HP,",
+  "dv2.ability.might_of_an_utu.2.2.0": "increase ",
   "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
   "dv2.ability.might_of_an_utu.2.2.2": " Per ",
   "dv2.ability.might_of_an_utu.2.2.3": "10 ",
   "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
   "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
-  "dv2.ability.might_of_an_utu.2.3.0": "(reduce to 50% HP when your HP more than 50%)",
+  "dv2.ability.might_of_an_utu.2.3.0": "(reduce to 50% HP when your HP is more than 50%)",
   "dv2.ability.might_of_an_utu.2.4.0": "(Cooldown: 20s)",
 
   "dv2.ability.might_of_an_utu.3.0.0": "Blessing of Utu",
-  "dv2.ability.might_of_an_utu.3.1.0": "When your health is lower than ",
+  "dv2.ability.might_of_an_utu.3.1.0": "When your HP is lower than ",
   "dv2.ability.might_of_an_utu.3.1.1": "50%",
   "dv2.ability.might_of_an_utu.3.1.2": ",",
   "dv2.ability.might_of_an_utu.3.2.0": "Increase ",
@@ -665,7 +665,7 @@
   "dv2.ability.soul_scythe.1.1.4": " STR per kill. (Max 5)",
 
   "dv2.ability.soul_scythe.2.0.0": "Soul Seeker",
-  "dv2.ability.soul_scythe.2.1.0": "When your health is lower than ",
+  "dv2.ability.soul_scythe.2.1.0": "When your HP is lower than ",
   "dv2.ability.soul_scythe.2.1.1": "30%",
   "dv2.ability.soul_scythe.2.1.2": ",",
   "dv2.ability.soul_scythe.2.1.3": "",
@@ -763,7 +763,7 @@
   "dv2.ability.muramasa.1.1.4": ".",
   "dv2.ability.muramasa.1.2.0": "(Max: 10 Dark DMG)",
   "dv2.ability.muramasa.2.0.0": "Pact with the Demon",
-  "dv2.ability.muramasa.2.1.0": "When your health is lower than ",
+  "dv2.ability.muramasa.2.1.0": "When your HP is lower than ",
   "dv2.ability.muramasa.2.1.1": "50%",
   "dv2.ability.muramasa.2.1.2": ",",
   "dv2.ability.muramasa.2.2.0": "Increase ",
@@ -781,14 +781,14 @@
   "dv2.weapon.melee.jurisdiction_of_selene":"Jurisdiction of Selene",
   "dv2.weapon.melee.jurisdiction_of_selene.description":"Needn't be dismayed, my people! As She is with you, eternally!",
   "dv2.ability.jurisdiction_of_selene.1.0.0":"Full Moon",
-  "dv2.ability.jurisdiction_of_selene.1.1.0":"When your health is more than ",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"When your HP is more than ",
   "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
   "dv2.ability.jurisdiction_of_selene.1.1.2":", ",
   "dv2.ability.jurisdiction_of_selene.1.2.0":"Immune ",
   "dv2.ability.jurisdiction_of_selene.1.2.1":" effect and ",
   "dv2.ability.jurisdiction_of_selene.1.2.2":" effect.",
   "dv2.ability.jurisdiction_of_selene.2.0.0":"Waning moon",
-  "dv2.ability.jurisdiction_of_selene.2.1.0":"When your health is less than ",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"When your HP is less than ",
   "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
   "dv2.ability.jurisdiction_of_selene.2.1.2":", ",
   "dv2.ability.jurisdiction_of_selene.2.2.0":"Immune ",
@@ -825,7 +825,7 @@
 
   "dv2.ability.heavy_shield.1.0.0": "Unbeatable Fortress",
   "dv2.ability.heavy_shield.1.1.0": "Grants ",
-  "dv2.ability.heavy_shield.1.1.2": " if your health is lower than 40%.",
+  "dv2.ability.heavy_shield.1.1.2": " if your HP is lower than 40%.",
   "dv2.ability.heavy_shield.1.2.0": "(Does NOT Stack)",
 
 
@@ -922,7 +922,7 @@
   "dv2.ability.destroyer.1.0.0": "Sniper",
   "dv2.ability.destroyer.1.1.0": "Your arrows will have ",
   "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "when your health is above ",
+  "dv2.ability.destroyer.1.2.0": "when your HP is above ",
   "dv2.ability.destroyer.1.2.1": "70%",
   "dv2.ability.destroyer.1.2.2": ".",
 
@@ -1056,7 +1056,7 @@
 
   "dv2.spells.long_lasting.wind.1.escape": "Escape (Level 1)",
   "dv2.spells.long_lasting.wind.1.escape.0": "<Lv 1 - Long Lasting - Wind>",
-  "dv2.spells.long_lasting.wind.1.escape.1": "Removes 33% of your health, and",
+  "dv2.spells.long_lasting.wind.1.escape.1": "Removes 33% of your HP, and",
   "dv2.spells.long_lasting.wind.1.escape.2": "increases your SPD for 5s.",
   "dv2.spells.long_lasting.wind.1.escape.3.0": "Cost: ",
   "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
@@ -1290,7 +1290,7 @@
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
-  "dv2.artifacts.aether_substance.2.0":"Receive Invisibility effect when your HP more than 90%",
+  "dv2.artifacts.aether_substance.2.0":"Receive Invisibility effect when your HP is more than 90%",
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
   "dv2.artifacts.command_flag_attack.1.0":"Reduce 20% DEF, DAMAGE and receive Glowing effect while using.",
@@ -1311,13 +1311,13 @@
 
   "dv2.artifacts.shelter":"Shelter",
   "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 50 HP while using.",
-  "dv2.artifacts.shelter.2.0":"When your HP more than 40%,",
+  "dv2.artifacts.shelter.2.0":"When your HP is more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
   "dv2.artifacts.guardian":"Guardian",
   "dv2.artifacts.guardian.1.0":"Increase 30 HP while using.",
-  "dv2.artifacts.guardian.2.0":"When your HP more than 30%,",
-  "dv2.artifacts.guardian.3.0":"increase teammate 30 DEF in an area of 7 blocks radius.",
+  "dv2.artifacts.guardian.2.0":"When your HP is more than 30%,",
+  "dv2.artifacts.guardian.3.0":"teammate in an area of 7 blocks radius will increase 30 DEF.",
 
 
 
@@ -1342,8 +1342,8 @@
   "dv2.artifacts.lone_wolf.1.0": "Increase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
 
   "dv2.artifacts.nihility": "Nihility",
-  "dv2.artifacts.nihility.1.0": "Receive Invisibility effect when your HP more than 70%",
-  "dv2.artifacts.nihility.2.0": "and give all enemy Darkness effect.",
+  "dv2.artifacts.nihility.1.0": "Receive Invisibility effect when your HP is more than 70%",
+  "dv2.artifacts.nihility.2.0": "Give all enemy Darkness effect.",
 
 
 
