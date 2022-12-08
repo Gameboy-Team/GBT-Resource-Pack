@@ -2,6 +2,7 @@
   "werewolf.game.name": "人狼殺",
   "werewolf.game.win.werewolf": "人狼の勝利",
   "werewolf.game.win.villagers": "村人の勝利",
+  "werewolf.game.win.bonus.soulmate": "<3 恋人の勝ち！！！ <3",
 
   "werewolf.time.day": "朝",
   "werewolf.time.night": "晩",
@@ -58,6 +59,12 @@
   "werewolf.item.ability.instant_barrier": "インスタントバリア【右ボタン】",
 
 
+  "werewolf.item.ability.bonus.soulmate.linked_souls": "繋がる魂【右ボタン】",
+  "werewolf.item.ability.bonus.soulmate.linked_souls.lore": "恋人をここで呼び出す。",
+
+
+
+
 
 
   "werewolf.messages.votes.prefix": "【投票】 ",
@@ -71,7 +78,9 @@
   "werewolf.messages.kill.prefix": "【キル】 ",
   "werewolf.messages.kill.wolf.killer": "%s を殺しました。",
   "werewolf.messages.kill.wolf.dead": "狼は君を殺しました。",
-
+  
+  "werewolf.messages.kill.soulmate.dead": "恋人が死んだ... 君は夜に駆ける。",
+  
   "werewolf.messages.kill.witch.poison": "%s は魔女を毒されました。",
 
   "werewolf.tutorial.prefix.class": "【キャラクター】   ",
@@ -129,6 +138,22 @@
 
   "werewolf.name.spectator.prefix": "【観客】 ",
   
+  "### ----- Bonus Classes ----- ###": "",
+  "werewolf.tutorial.prefix.bonus": "【他の設定】 ",
+
+  "werewolf.tutorial.bonus.soulmate.class": "恋人",
+  "werewolf.tutorial.bonus.soulmate.ability": "  君と君の恋人の生命は一になる。一人が死んだなら，全滅する。",
+  "werewolf.tutorial.bonus.soulmate.soulmate": "君の恋人：",
+
+  
+  "werewolf.tutorial.bonus.officer.class": "警官",
+  "werewolf.tutorial.bonus.officer.ability": "  投票剣が二つの票がある。",
+
+  "werewolf.announce.officer": " は警官になりました。",
+
+
+
+
   "werewolf.actionbar.you_are": "君は ",
   "werewolf.actionbar.you_are_an": "君は "
 }

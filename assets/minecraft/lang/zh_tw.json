@@ -137,6 +137,7 @@
   "werewolf.game.name": "狼人殺",
   "werewolf.game.win.werewolf": "狼人勝利",
   "werewolf.game.win.villagers": "村民勝利",
+  "werewolf.game.win.bonus.soulmate": "<3  CP 勝利！！！ <3",
 
   "werewolf.time.day": "早上",
   "werewolf.time.night": "夜晚",
@@ -194,6 +195,12 @@
   "werewolf.item.ability.instant_barrier": "即時屏障【右鍵】",
 
 
+  "werewolf.item.ability.bonus.soulmate.linked_souls": "聯係的靈魂【右鍵】",
+  "werewolf.item.ability.bonus.soulmate.linked_souls.lore": "傳送你的戀人至自己。",
+
+
+
+
 
 
 
@@ -208,7 +215,9 @@
   "werewolf.messages.kill.prefix": "【擊殺】 ",
   "werewolf.messages.kill.wolf.killer": "你殺了 %s。",
   "werewolf.messages.kill.wolf.dead": "你被狼殺了。",
-
+  
+  "werewolf.messages.kill.soulmate.dead": "你的情人被殺了... 你也跟著自盡了。",
+  
   "werewolf.messages.kill.witch.poison": "%s 被女巫毒死了。",
 
   "werewolf.tutorial.prefix.class": "【角色】   ",
@@ -267,6 +276,20 @@
 
 
   "werewolf.name.spectator.prefix": "【旁觀者】 ",
+
+  "### ----- Bonus Classes ----- ###": "",
+  "werewolf.tutorial.prefix.bonus": "【其他】 ",
+
+  "werewolf.tutorial.bonus.soulmate.class": "情侶",
+  "werewolf.tutorial.bonus.soulmate.ability": "  你跟你的情侶的生命雙連。一個死，就一石二鳥。",
+  "werewolf.tutorial.bonus.soulmate.soulmate": "你的情侶：",
+
+  
+  "werewolf.tutorial.bonus.officer.class": "警官",
+  "werewolf.tutorial.bonus.officer.ability": "  票人劍被 Upgrade 了！一下打兩次。",
+
+  "werewolf.announce.officer": " 被選爲警官。",
+
 
   
 
