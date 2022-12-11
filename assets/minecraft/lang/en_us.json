@@ -544,6 +544,11 @@
   "dv2.gui.last_page": "Last Page",
   "dv2.gui.next_page": "Next Page",
 
+  "dv2.gui.cost.format": " -  %s: %s/%s",
+  "dv2.gui.cost.item": "Item",
+  "dv2.gui.cost.movement": "Movement",
+  "dv2.gui.cost.signature": "Signature",
+  "dv2.gui.cost.reset": "[DOUBLE CLICK to Reset]",
 
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Artifact",
