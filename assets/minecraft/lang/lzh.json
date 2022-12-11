@@ -325,8 +325,8 @@
   "dv2.gui.kits": "甲：",
   "dv2.gui.stats": "體：",
   "dv2.gui.return": "返",
-  "dv2.gui.last_page": "上頁",
-  "dv2.gui.next_page": "下頁",
+  "dv2.gui.last_page": "← 上頁",
+  "dv2.gui.next_page": "下頁 →",
 
   "dv2.gui.cost.format": " -  %s：%s/%s",
   "dv2.gui.cost.item": "甲",

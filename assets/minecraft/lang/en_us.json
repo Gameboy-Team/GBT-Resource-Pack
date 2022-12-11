@@ -541,8 +541,8 @@
   "dv2.gui.kits": "Loadout: ",
   "dv2.gui.stats": "Stats: ",
   "dv2.gui.return": "Return to last page",
-  "dv2.gui.last_page": "Last Page",
-  "dv2.gui.next_page": "Next Page",
+  "dv2.gui.last_page": "← Previous Page",
+  "dv2.gui.next_page": "Next Page →",
 
   "dv2.gui.cost.format": " -  %s: %s/%s",
   "dv2.gui.cost.item": "Item",

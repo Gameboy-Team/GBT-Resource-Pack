@@ -348,8 +348,8 @@
   "dv2.gui.kits": "配置：",
   "dv2.gui.stats": "個體數值：",
   "dv2.gui.return": "返回",
-  "dv2.gui.last_page": "上一頁",
-  "dv2.gui.next_page": "下一頁",
+  "dv2.gui.last_page": "← 上一頁",
+  "dv2.gui.next_page": "下一頁 →",
 
   "dv2.gui.cost.format": " -  %s：%s/%s",
   "dv2.gui.cost.item": "裝備",
