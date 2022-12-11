@@ -288,9 +288,14 @@
   "rpg.ui.mana.32": "\uF80B\uF80A\uF805\uCD30\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD31\uF801\uF82B\uF82A\uF825",
 
 
+  "game.achievements": "Game Achievements",
 
-
-
+  "werewolf.achievements.finish_game": "Finish the game",
+  "werewolf.achievements.finish_game.description": "Complete the game regardless of the results.",
+  "werewolf.achievements.voting": "Voting",
+  "werewolf.achievements.voting.description": "Voting for who to execute during daytime.",
+  "werewolf.achievements.officers_batton": "Officer's Batton",
+  "werewolf.achievements.officers_batton.description": "Using your officer powers to vote for someone.",
 
   "werewolf.game.name": "Werewolf",
   "werewolf.game.win.werewolf": "Werewolf Wins",
