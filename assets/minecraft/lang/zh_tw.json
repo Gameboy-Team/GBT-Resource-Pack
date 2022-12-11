@@ -377,6 +377,13 @@
   "dv2.display.weapon.melee.special": "特殊武器",
 
 
+  "dv2.display.spell.mobility": "機動性",
+  "dv2.display.spell.combat": "戰鬥",
+  "dv2.display.spell.buff": "增益",
+  "dv2.display.spell.debuff": "減益",
+  "dv2.display.spell.others": "其他",
+
+
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
   "rpg.equipment.bow": "弓",
@@ -1029,6 +1036,27 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
+
+  "dv2.spells.burst.wind.1.leap": "飛躍 (等級一)",
+  "dv2.spells.burst.wind.1.leap.0": "<等級一 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.1.leap.1": "",
+  "dv2.spells.burst.wind.1.leap.2": "",
+  "dv2.spells.burst.wind.1.leap.3.0": "",
+  "dv2.spells.burst.wind.1.leap.3.1": "",
+
+  "dv2.spells.burst.wind.2.leap": "飛躍 (等級二)",
+  "dv2.spells.burst.wind.2.leap.0": "<等級二 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.2.leap.1": "",
+  "dv2.spells.burst.wind.2.leap.2": "",
+  "dv2.spells.burst.wind.2.leap.3.0": "",
+  "dv2.spells.burst.wind.2.leap.3.1": "",
+
+  "dv2.spells.burst.wind.3.leap": "飛躍 (等級三)",
+  "dv2.spells.burst.wind.3.leap.0": "<等級三 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.3.leap.1": "",
+  "dv2.spells.burst.wind.3.leap.2": "",
+  "dv2.spells.burst.wind.3.leap.3.0": "",
+  "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂戰士",
   "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15% STR",

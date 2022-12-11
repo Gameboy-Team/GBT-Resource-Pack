@@ -354,6 +354,13 @@
   "dv2.display.weapon.melee.special": "奇器",
 
 
+  "dv2.display.spell.mobility": "動",
+  "dv2.display.spell.combat": "鬥",
+  "dv2.display.spell.buff": "益",
+  "dv2.display.spell.debuff": "負",
+  "dv2.display.spell.others": "他者",
+
+
   "rpg.equipment.main_hand": "主手",
   "rpg.equipment.offhand": "次手",
   "rpg.equipment.bow": "弓",
@@ -1005,6 +1012,27 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(終卅秒)",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "費：",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000魔",
+
+  "dv2.spells.burst.wind.1.leap": "躍 (一階)",
+  "dv2.spells.burst.wind.1.leap.0": "<一階 - 火暴 - 風>",
+  "dv2.spells.burst.wind.1.leap.1": "",
+  "dv2.spells.burst.wind.1.leap.2": "",
+  "dv2.spells.burst.wind.1.leap.3.0": "",
+  "dv2.spells.burst.wind.1.leap.3.1": "",
+
+  "dv2.spells.burst.wind.2.leap": "躍 (二階)",
+  "dv2.spells.burst.wind.2.leap.0": "<二階 - 火暴 - 風>",
+  "dv2.spells.burst.wind.2.leap.1": "",
+  "dv2.spells.burst.wind.2.leap.2": "",
+  "dv2.spells.burst.wind.2.leap.3.0": "",
+  "dv2.spells.burst.wind.2.leap.3.1": "",
+
+  "dv2.spells.burst.wind.3.leap": "躍 (三階)",
+  "dv2.spells.burst.wind.3.leap.0": "<三階 - 火暴 - 風>",
+  "dv2.spells.burst.wind.3.leap.1": "",
+  "dv2.spells.burst.wind.3.leap.2": "",
+  "dv2.spells.burst.wind.3.leap.3.0": "",
+  "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂士",
   "dv2.artifacts.berserker.1.0":"生直下半，益廿有三力",
