@@ -1209,9 +1209,9 @@
   "dv2.artifacts.tank.3.0":"Gain 20 DEF and 20 HP while using.",
 
   "dv2.artifacts.wanderer":"Wanderer",
-  "dv2.artifacts.wanderer.1.0":"Your POW is REDUCED by 5",
+  "dv2.artifacts.wanderer.1.0":"Your STR is REDUCED by 10",
   "dv2.artifacts.wanderer.2.0":"per player within a 7 block radius.",
-  "dv2.artifacts.wanderer.3.0":"Gain 15 POW while using.",
+  "dv2.artifacts.wanderer.3.0":"Gain 30 STR while using.",
   "dv2.artifacts.wanderer.4.0":"(Maximum: 4 players)",
 
   "dv2.artifacts.vikings":"Vikings",
