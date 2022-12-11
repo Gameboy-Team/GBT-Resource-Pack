@@ -318,6 +318,16 @@
   "dv2.kits.archer.2": "射者 乙",
   "dv2.kits.mage.1": "法者 甲",
   "dv2.kits.mage.2": "法者 乙",
+  
+
+  "dv2.gui.cost": "餘點：",
+  "dv2.gui.info": "示：",
+  "dv2.gui.kits": "甲：",
+  "dv2.gui.stats": "體：",
+  "dv2.gui.return": "返",
+  "dv2.gui.last_page": "上頁",
+  "dv2.gui.next_page": "下頁",
+
 
   "dv2.display.arrow": "矢",
   "dv2.display.artifact": "飾",
@@ -329,6 +339,19 @@
   "dv2.display.sns": "奇器幹",
   "dv2.display.spell": "法",
   "dv2.display.wand": "杖",
+  "dv2.display.weapon": "戰武",
+  "dv2.display.utility": "雜",
+
+  "dv2.display.weapon.bow": "弓",
+  "dv2.display.weapon.melee": "戰武",
+  "dv2.display.weapon.shield": "幹",
+  "dv2.display.weapon.wand": "杖",
+
+  "dv2.display.weapon.melee.dagger": "匕首",
+  "dv2.display.weapon.melee.greatsword": "巨劍",
+  "dv2.display.weapon.melee.longsword": "長劍",
+  "dv2.display.weapon.melee.odachi": "大太刀",
+  "dv2.display.weapon.melee.special": "奇器",
 
 
   "rpg.equipment.main_hand": "主手",

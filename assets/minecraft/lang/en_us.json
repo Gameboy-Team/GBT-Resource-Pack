@@ -531,6 +531,15 @@
   "dv2.kits.mage.2": "Mage 2",
 
 
+  "dv2.gui.cost": "Remaining Cost: ",
+  "dv2.gui.info": "Tips: ",
+  "dv2.gui.kits": "Loadout: ",
+  "dv2.gui.stats": "Stats: ",
+  "dv2.gui.return": "Return to last page",
+  "dv2.gui.last_page": "Last Page",
+  "dv2.gui.next_page": "Next Page",
+
+
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Artifact",
   "dv2.display.bow": "Bow",
@@ -541,6 +550,20 @@
   "dv2.display.sns": "Special & Shield",
   "dv2.display.spell": "Spell",
   "dv2.display.wand": "Wand",
+  "dv2.display.weapon": "Weapon",
+  "dv2.display.utility": "Utilities",
+
+  "dv2.display.weapon.bow": "Bow",
+  "dv2.display.weapon.melee": "Melee",
+  "dv2.display.weapon.shield": "Shield",
+  "dv2.display.weapon.wand": "Wand",
+
+  "dv2.display.weapon.melee.dagger": "Dagger",
+  "dv2.display.weapon.melee.greatsword": "Greatsword",
+  "dv2.display.weapon.melee.longsword": "Longsword",
+  "dv2.display.weapon.melee.odachi": "Odachi",
+  "dv2.display.weapon.melee.special": "Special",
+
 
 
 
