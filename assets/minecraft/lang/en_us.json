@@ -295,6 +295,7 @@
   "werewolf.game.name": "Werewolf",
   "werewolf.game.win.werewolf": "Werewolf Wins",
   "werewolf.game.win.villagers": "Villagers Wins",
+  "werewolf.game.win.bonus.soulmate": "<3 Soulmates Wins <3",
 
   "werewolf.time.day": "Day",
   "werewolf.time.night": "Night",
@@ -354,6 +355,11 @@
 
   "werewolf.item.ability.instant_barrier": "Instant Barrier [Right Click]",
 
+  
+
+  "werewolf.item.ability.bonus.soulmate.linked_souls": "Linked Souls [Right Click]",
+  "werewolf.item.ability.bonus.soulmate.linked_souls.lore": "Teleports your soulmate to your position.",
+
 
 
 
@@ -368,6 +374,8 @@
   "werewolf.messages.kill.prefix": "[Kill] ",
   "werewolf.messages.kill.wolf.killer": "You killed %s.",
   "werewolf.messages.kill.wolf.dead": "You were killed by a wolf.",
+
+  "werewolf.messages.kill.soulmate.dead": "Your soulmate was killed... You were so sad that you died as well.",
   
   "werewolf.messages.kill.witch.poison": "%s was killed by a witch using poison.",
 
@@ -428,6 +436,20 @@
 
 
   "werewolf.name.spectator.prefix": "[Spectator] ",
+
+
+  "### ----- Bonus Classes ----- ###": "",
+  "werewolf.tutorial.prefix.bonus": "【Bonus】 ",
+
+  "werewolf.tutorial.bonus.soulmate.class": "Soulmate",
+  "werewolf.tutorial.bonus.soulmate.ability": " You and your soulmate share the same life. If any of you die, you both die.",
+  "werewolf.tutorial.bonus.soulmate.soulmate": "Your soulmate: ",
+
+  
+  "werewolf.tutorial.bonus.officer.class": "Officer",
+  "werewolf.tutorial.bonus.officer.ability": " Your voting knife becomes an officer's batton, which counts double votes.",
+
+  "werewolf.announce.officer": " has been chosen as the officer.",
 
 
   "werewolf.actionbar.you_are_a": "You are a ",
