@@ -351,6 +351,11 @@
   "dv2.gui.last_page": "上一頁",
   "dv2.gui.next_page": "下一頁",
 
+  "dv2.gui.cost.format": " -  %s：%s/%s",
+  "dv2.gui.cost.item": "裝備",
+  "dv2.gui.cost.movement": "行動",
+  "dv2.gui.cost.signature": "招牌",
+  "dv2.gui.cost.reset": "[雙擊 以重設點數]",
 
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "飾品",

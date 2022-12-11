@@ -328,6 +328,11 @@
   "dv2.gui.last_page": "上頁",
   "dv2.gui.next_page": "下頁",
 
+  "dv2.gui.cost.format": " -  %s：%s/%s",
+  "dv2.gui.cost.item": "甲",
+  "dv2.gui.cost.movement": "行",
+  "dv2.gui.cost.signature": "招牌",
+  "dv2.gui.cost.reset": "[以二設點雙擊]",
 
   "dv2.display.arrow": "矢",
   "dv2.display.artifact": "飾",
@@ -339,7 +344,7 @@
   "dv2.display.sns": "奇器幹",
   "dv2.display.spell": "法",
   "dv2.display.wand": "杖",
-  "dv2.display.weapon": "戰武",
+  "dv2.display.weapon": "器",
   "dv2.display.utility": "雜",
 
   "dv2.display.weapon.bow": "弓",
