@@ -536,6 +536,8 @@
   "dv2.kits.mage.2": "Mage 2",
 
 
+  "container.enderchest": "\uF82A\uF829\uF828\uF826%s-Shop-",
+  "container.enderchest_comment": "space.62",
   "dv2.gui.cost": "Remaining Cost: ",
   "dv2.gui.info": "Tips: ",
   "dv2.gui.kits": "Loadout: ",

@@ -320,6 +320,8 @@
   "dv2.kits.mage.2": "法者 乙",
   
 
+  "container.enderchest": "\uF82B\uF826%s-店-",
+  "container.enderchest_comment": "space.70",
   "dv2.gui.cost": "餘點：",
   "dv2.gui.info": "示：",
   "dv2.gui.kits": "甲：",
