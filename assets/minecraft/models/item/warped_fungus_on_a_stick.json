@@ -77,6 +77,8 @@
     {"predicate": {"custom_model_data":6900209}, "model": "rpg/weapon/sword/longsword/golden_swing"},
     {"predicate": {"custom_model_data":6900210}, "model": "rpg/weapon/devas_2/longsword/jurisdiction_of_selene"},
     {"predicate": {"custom_model_data":6900211}, "model": "rpg/weapon/devas_2/longsword/jurisdiction_of_selene_swing"},
+    {"predicate": {"custom_model_data":6900212}, "model": "rpg/weapon/devas_2/longsword/excalibur"},
+    {"predicate": {"custom_model_data":6900213}, "model": "rpg/weapon/devas_2/longsword/excalibur_swing"},
 
     {"predicate": {"custom_model_data":6900300}, "model": "rpg/weapon/sword/greatsword/wood"},
     {"predicate": {"custom_model_data":6900301}, "model": "rpg/weapon/sword/greatsword/wood_swing"},
