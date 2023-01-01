@@ -390,6 +390,8 @@
   "dv2.debug.commandsigns.maps.feedback.2": "有擇 磧 作圖",
   "dv2.debug.commandsigns.maps.3": "[圖] 邸",
   "dv2.debug.commandsigns.maps.feedback.3": "有擇 邸 作圖",
+  "dv2.debug.commandsigns.maps.4": "[圖] 島",
+  "dv2.debug.commandsigns.maps.feedback.4": "有擇 島 作圖",
 
   "dv2.game.start.1": "戲始！",
   "dv2.game.end.1": "戲制終！",

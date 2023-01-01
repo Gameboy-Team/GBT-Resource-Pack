@@ -515,6 +515,8 @@
   "dv2.debug.commandsigns.maps.feedback.2": "Selected the map Desert.",
   "dv2.debug.commandsigns.maps.3": "[Map] Mansion",
   "dv2.debug.commandsigns.maps.feedback.3": "Selected the map Mansion.",
+  "dv2.debug.commandsigns.maps.4": "[Map] Island",
+  "dv2.debug.commandsigns.maps.feedback.4": "Selected the map Island.",
 
   "dv2.game.start.1": "Game Start!",
   "dv2.game.end.1": "Game Force Ended!",

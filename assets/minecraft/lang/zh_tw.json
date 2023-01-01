@@ -413,6 +413,8 @@
   "dv2.debug.commandsigns.maps.feedback.2": "已選擇 沙漠 為遊戲場地。",
   "dv2.debug.commandsigns.maps.3": "[地圖] 大宅",
   "dv2.debug.commandsigns.maps.feedback.3": "已選擇 大宅 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.4": "[地圖] 海島",
+  "dv2.debug.commandsigns.maps.feedback.4": "已選擇 海島 為遊戲場地。",
 
   "dv2.game.start.1": "遊戲開始！",
   "dv2.game.end.1": "遊戲強制完結！",
