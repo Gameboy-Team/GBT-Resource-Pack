@@ -23,6 +23,12 @@
       {"predicate": {"custom_model_data":6900031}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_0"},
       {"predicate": {"custom_model_data":6900032}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_1"},
       {"predicate": {"custom_model_data":6900033}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_2"},
+      
+
+      {"predicate": {"custom_model_data":6900040}, "model": "rpg/weapon/bow/nightmare/nightmare"},
+      {"predicate": {"custom_model_data":6900041}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_0"},
+      {"predicate": {"custom_model_data":6900042}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_1"},
+      {"predicate": {"custom_model_data":6900043}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_2"},
 
       {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},
       {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/gun/r6/416c_carbine/aim"}

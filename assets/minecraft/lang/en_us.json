@@ -1031,6 +1031,17 @@
   "dv2.ability.magic_beam.1.1.0": "Shoots out lasers.",
   "dv2.ability.magic_beam.1.2.0": "Cost: ",
   "dv2.ability.magic_beam.1.2.1": "150 Mana",
+
+  "dv2.weapon.wand.healing_wand": "Healing Wand",
+  "dv2.weapon.wand.healing_staff": "Healing Staff",
+  "dv2.weapon.wand.healing_scepter": "Healing Scepter",
+  
+  "dv2.ability.healing_beam.1.0.0": "Skill: Healing Beam",
+  "dv2.ability.healing_beam.1.1.0": "Shoots out a laser which heals %s HP.",
+  "dv2.ability.healing_beam.1.2.0": "(Opponents receive 50% healing if hit) ",
+  "dv2.ability.healing_beam.1.3.0": "Cost: ",
+  "dv2.ability.healing_beam.1.3.1": "%s Mana",
+  "dv2.ability.healing_beam.1.4.0": "(Cooldown: %s.%ss)",
   
   "dv2.ability.rock_throw.1.0.0": "Skill: Rock Throw",
   "dv2.ability.rock_throw.1.1.0": "Able to throw out rocks.",

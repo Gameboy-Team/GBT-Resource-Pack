@@ -73,8 +73,8 @@
 		},
 		{
 			"name": "octagon",
-			"from": [7.58579, 13.7875, 7.6],
-			"to": [8.41421, 21.6375, 8.4],
+			"from": [7.58579, 13.7875, 7.575],
+			"to": [8.41421, 21.6375, 8.425],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 18.5375, 7.9]},
 			"faces": {
 				"north": {"uv": [4, 0, 6, 11], "texture": "#0"},
@@ -388,7 +388,13 @@
 			"translation": [0, 0, 1]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 4.75, 0]
+			"translation": [1.5, -1.75, 0]
+		},
+		"gui": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"scale": [0.8, 0.8, 0.8]
 		}
 	},
 	"groups": [
