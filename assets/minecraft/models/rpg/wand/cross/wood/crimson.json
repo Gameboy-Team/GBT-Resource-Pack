@@ -1,5 +1,5 @@
 {
-	"parent": "rpg:wand/cross/parent",
+	"parent": "rpg/wand/cross/parent",
 	"textures": {
 		"0": "block/crimson_planks",
 		"particle": "block/crimson_planks"
