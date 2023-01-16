@@ -1,0 +1,7 @@
+{
+	"parent": "rpg:wand/cross/parent",
+	"textures": {
+		"0": "block/oak_planks",
+		"particle": "block/oak_planks"
+	}
+}
