@@ -794,7 +794,7 @@
   "dv2.weapon.bow.nightmare.description": "融入漆黑之中，化作夢魘",
   "dv2.ability.nightmare.1.0.0": "突發驚嚇",
   "dv2.ability.nightmare.1.1.0": "當你拉弓超過",
-  "dv2.ability.nightmare.1.1.1": "10秒",
+  "dv2.ability.nightmare.1.1.1": "3秒",
   "dv2.ability.nightmare.1.1.2": "時，",
   "dv2.ability.nightmare.1.2.0": "你將會獲得",
   "dv2.ability.nightmare.1.2.2": "2秒，箭矢會獲得",
@@ -806,7 +806,7 @@
   "dv2.ability.nightmare.2.0.0": "完全蓄力",
   "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
   "dv2.ability.nightmare.2.2.0": "獲得",
-  "dv2.ability.nightmare.2.2.1": "10點暗屬性DMG",
+  "dv2.ability.nightmare.2.2.1": "5點暗屬性DMG",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -1118,9 +1118,9 @@
 
   "dv2.artifacts.wanderer":"遊子",
   "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
-  "dv2.artifacts.wanderer.2.0":"將會減少你 10 STR",
-  "dv2.artifacts.wanderer.3.0":"使用時增加 30 STR",
-  "dv2.artifacts.wanderer.4.0":"(上限：4位玩家)",
+  "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹STR",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 40 🏹STR",
+  "dv2.artifacts.wanderer.4.0":"(上限：5位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
   "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
