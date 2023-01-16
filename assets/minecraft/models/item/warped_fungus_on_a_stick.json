@@ -49,6 +49,7 @@
     {"predicate": {"custom_model_data":6900007}, "model": "rpg/weapon/sword/katana/iron_swing"},
     {"predicate": {"custom_model_data":6900008}, "model": "rpg/weapon/sword/katana/mithril"},
     {"predicate": {"custom_model_data":6900009}, "model": "rpg/weapon/sword/katana/mithril_swing"},
+    {"predicate": {"custom_model_data":6900010}, "model": "rpg/weapon/devas_2/katana/virtuouscontract"},
 
     {"predicate": {"custom_model_data":6900100}, "model": "rpg/weapon/sword/odachi/wood"},
     {"predicate": {"custom_model_data":6900101}, "model": "rpg/weapon/sword/odachi/wood_swing"},
@@ -64,6 +65,7 @@
     {"predicate": {"custom_model_data":6900113}, "model": "rpg/weapon/sword/odachi/water_swing"},
     {"predicate": {"custom_model_data":6900116}, "model": "rpg/weapon/sword/odachi/earth"},
     {"predicate": {"custom_model_data":6900117}, "model": "rpg/weapon/sword/odachi/earth_swing"},
+    {"predicate": {"custom_model_data":6900118}, "model": "rpg/weapon/devas_2/odachi/virtuoustreaty"},
 
     {"predicate": {"custom_model_data":6900200}, "model": "rpg/weapon/sword/longsword/wood"},
     {"predicate": {"custom_model_data":6900201}, "model": "rpg/weapon/sword/longsword/wood_swing"},
