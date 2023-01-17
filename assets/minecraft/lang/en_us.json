@@ -1398,7 +1398,7 @@
   "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 10 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
   "dv2.artifacts.command_flag_escape.1.0":"Reduce 10% DEF, DAMAGE and Increase 10% SPD while using.",
-  "dv2.artifacts.command_flag_escape.2.0":"Heal teammate heal 8 HP per 3 seconds and icrase them 10% SPD in an area of 10 blocks radius.",
+  "dv2.artifacts.command_flag_escape.2.0":"Heal teammate 8 HP per 3 seconds and increase them 10% SPD in an area of 10 blocks radius.",
 
   "dv2.artifacts.command_flag_change":"(Sneak to cycle between 3 mode)",
 
