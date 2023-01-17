@@ -823,11 +823,11 @@
   "dv2.weapon.melee.odachi.muramasa.description.2": "violence and madness have passed into the blade.",
   "dv2.ability.muramasa.1.0.0": "Muramasa",
   "dv2.ability.muramasa.1.1.0": "Increase ",
-  "dv2.ability.muramasa.1.1.1": "1 Dark DMG",
+  "dv2.ability.muramasa.1.1.1": "0.1 Dark EM",
   "dv2.ability.muramasa.1.1.2": " per ",
-  "dv2.ability.muramasa.1.1.3": "10 Dark DEF",
+  "dv2.ability.muramasa.1.1.3": "1 Dark DMG",
   "dv2.ability.muramasa.1.1.4": ".",
-  "dv2.ability.muramasa.1.2.0": "(Max: 10 Dark DMG)",
+  "dv2.ability.muramasa.1.2.0": "(Max: 1.5 Dark EM)",
   "dv2.ability.muramasa.2.0.0": "Pact with the Demon",
   "dv2.ability.muramasa.2.1.0": "When your HP is lower than ",
   "dv2.ability.muramasa.2.1.1": "50%",
@@ -841,7 +841,7 @@
   "dv2.ability.muramasa.2.2.6": "FIRE",
   "dv2.ability.muramasa.2.2.7": ", ",
   "dv2.ability.muramasa.2.2.8": "EARTH",
-  "dv2.ability.muramasa.2.3.0": "Elemental DEF",
+  "dv2.ability.muramasa.2.3.0": "Elemental AFF",
   "dv2.ability.muramasa.2.3.1": ", 5 DMG and STR.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"Jurisdiction of Selene",
@@ -1388,7 +1388,7 @@
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
-  "dv2.artifacts.aether_substance.2.0":"Receive Invisibility effect when your HP is more than 90%",
+  "dv2.artifacts.aether_substance.2.0":"Receive Invisibility effect when your HP is more than 95%",
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
   "dv2.artifacts.command_flag_attack.1.0":"Reduce 20% DEF, DAMAGE and receive Glowing effect while using.",
