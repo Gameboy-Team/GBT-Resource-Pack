@@ -537,7 +537,6 @@
   "dv2.kits.mage.1": "Mage 1",
   "dv2.kits.mage.2": "Mage 2",
 
-
   "container.enderchest": "\uF82A\uF829\uF828\uF826%s-Shop-",
   "container.enderchest_comment": "space.62",
   "dv2.gui.cost": "Remaining Cost: ",
@@ -553,6 +552,7 @@
   "dv2.gui.cost.movement": "Movement",
   "dv2.gui.cost.signature": "Signature",
   "dv2.gui.cost.reset": "[DOUBLE CLICK to Reset]",
+  "dv2.format.switch_page_lore": " - %s - ",
 
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",
