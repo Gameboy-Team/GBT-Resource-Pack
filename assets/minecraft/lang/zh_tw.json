@@ -1209,7 +1209,7 @@
 
   "dv2.artifacts.aether_substance":"以太物質",
   "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
-  "dv2.artifacts.aether_substance.2.0":"在 HP 高於 95% 時獲得隱形效果。",
+  "dv2.artifacts.aether_substance.2.0":"在 HP 高於 99% 時獲得隱形效果。",
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
   "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
