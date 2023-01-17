@@ -592,7 +592,7 @@
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
   "dv2.ability.dagger.1.0": "Deal ",
-  "dv2.ability.dagger.1.1": "x0.5",
+  "dv2.ability.dagger.1.1": "x0.4",
   "dv2.ability.dagger.1.2": " of your Regular Damage when Right Clicking.",
   "dv2.ability.dagger.2.0": "Equipping a SECOND dagger on your offhand",
   "dv2.ability.dagger.2.1": "allows you to ",
@@ -781,7 +781,7 @@
   "dv2.weapon.melee.jormungandrs_scale.description":"The end is coming...",
   "dv2.ability.jormungandrs_scale.1.0.0":"Mobius Ring",
   "dv2.ability.jormungandrs_scale.1.1.0":"Increases",
-  "dv2.ability.jormungandrs_scale.1.1.1":" 20 ",
+  "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
   "dv2.ability.jormungandrs_scale.1.1.2":"All DEF (Physical and Elemental),",
   "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
   "dv2.ability.jormungandrs_scale.1.2.1":"and",

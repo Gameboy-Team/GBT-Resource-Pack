@@ -428,7 +428,7 @@
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
   "dv2.ability.dagger.1.0": "右鍵時造成匕首原本傷害的",
-  "dv2.ability.dagger.1.1": "0.5",
+  "dv2.ability.dagger.1.1": "0.4",
   "dv2.ability.dagger.1.2": "倍",
   "dv2.ability.dagger.2.0": "在非慣用手裝備另一把匕首",
   "dv2.ability.dagger.2.1": "能夠讓傷害提升",
@@ -614,7 +614,7 @@
   "dv2.weapon.melee.jormungandrs_scale.description":"終焉之時已至...",
   "dv2.ability.jormungandrs_scale.1.0.0":"莫比烏斯環",
   "dv2.ability.jormungandrs_scale.1.1.0":"不持盾時增加",
-  "dv2.ability.jormungandrs_scale.1.1.1":" 20 ",
+  "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
   "dv2.ability.jormungandrs_scale.1.1.2":"物理&全屬性 DEF,",
   "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
   "dv2.ability.jormungandrs_scale.1.2.1":"及",
