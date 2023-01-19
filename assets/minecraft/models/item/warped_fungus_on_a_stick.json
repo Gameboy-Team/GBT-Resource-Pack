@@ -124,6 +124,7 @@
     {"predicate": {"custom_model_data":6901044}, "model": "rpg/wand/cross/stone/granite"},
     {"predicate": {"custom_model_data":6901046}, "model": "rpg/wand/cross/stone/diorite"},
     {"predicate": {"custom_model_data":6901048}, "model": "rpg/wand/cross/stone/andesite"},
+    {"predicate": {"custom_model_data":6901050}, "model": "rpg/wand/cross/cross"},
     
 
     {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
