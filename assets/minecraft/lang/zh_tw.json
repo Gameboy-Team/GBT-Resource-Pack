@@ -563,15 +563,15 @@
   "dv2.ability.soul_scythe.1.1.4": " STR (最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
-  "dv2.ability.soul_scythe.2.1.0": "When your health is lower than ",
+  "dv2.ability.soul_scythe.2.1.0": "當自身血量低於",
   "dv2.ability.soul_scythe.2.1.1": "30%",
-  "dv2.ability.soul_scythe.2.1.2": ",",
+  "dv2.ability.soul_scythe.2.1.2": "時，",
   "dv2.ability.soul_scythe.2.1.3": "",
   "dv2.ability.soul_scythe.2.1.4": "",
-  "dv2.ability.soul_scythe.2.2.0": "Increase ",
+  "dv2.ability.soul_scythe.2.2.0": "增加 ",
   "dv2.ability.soul_scythe.2.2.1": "15 DEF",
-  "dv2.ability.soul_scythe.2.2.2": ", 5 DMG and STR",
-  "dv2.ability.soul_scythe.2.2.3": ".",
+  "dv2.ability.soul_scythe.2.2.2": ", 5 DMG 及 STR",
+  "dv2.ability.soul_scythe.2.2.3": "",
   "dv2.ability.soul_scythe.2.2.4": "",
 
 
@@ -1129,8 +1129,8 @@
 
   "dv2.artifacts.wanderer":"遊子",
   "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
-  "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹STR",
-  "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹STR",
+  "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
   "dv2.artifacts.wanderer.4.0":"(上限：4位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
