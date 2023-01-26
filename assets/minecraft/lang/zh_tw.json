@@ -331,6 +331,12 @@
   "rpg.effects.freeze": "冰凍",
   "rpg.effects.seal": "封印",
   "rpg.effects.chaos": "混沌",
+  "rpg.effects.vaporize": "蒸發",
+  "rpg.effects.electrify": "觸電",
+  "rpg.effects.erosion": "侵蝕",
+  "rpg.effects.decay": "枯毀",
+  "rpg.effects.fission": "炸裂",
+  "rpg.effects.sprout": "萌芽",
 
 
   "dv2.kits.berserker.1": "狂戰士 1",
