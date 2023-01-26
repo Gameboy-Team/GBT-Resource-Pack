@@ -491,6 +491,13 @@
   "rpg.effects.freeze": "Freeze",
   "rpg.effects.seal": "Seal",
   "rpg.effects.chaos": "Chaos",
+  "rpg.effects.vaporize": "Vaporize",
+  "rpg.effects.electrify": "Electrify",
+  "rpg.effects.erosion": "Erosion",
+  "rpg.effects.decay": "Decay",
+  "rpg.effects.fission": "Fission",
+  "rpg.effects.sprout": "Sprout",
+
 
   "rpg.equipment.main_hand": "Main Hand",
   "rpg.equipment.offhand": "Offhand",
