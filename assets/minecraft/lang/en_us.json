@@ -726,8 +726,8 @@
   "dv2.weapon.melee.soul_scythe.description": "Absorb the soul for the scythe.",
 
   "dv2.ability.soul_scythe.1.0.0": "Divine Soul",
-  "dv2.ability.soul_scythe.1.1.0": "Increases",
-  "dv2.ability.soul_scythe.1.1.2": "2 Dark DMG",
+  "dv2.ability.soul_scythe.1.1.0": "Increases ",
+  "dv2.ability.soul_scythe.1.1.2": "2 Dark DMG ",
   "dv2.ability.soul_scythe.1.1.4": "per kill. (Max 5)",
 
   "dv2.ability.soul_scythe.2.0.0": "Soul Seeker",
@@ -842,7 +842,7 @@
   "dv2.ability.muramasa.2.2.7": ", ",
   "dv2.ability.muramasa.2.2.8": "EARTH",
   "dv2.ability.muramasa.2.3.0": "Elemental AFF",
-  "dv2.ability.muramasa.2.3.1": ", 5 DMG and STR.",
+  "dv2.ability.muramasa.2.3.1": ", 5 DMG.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"Jurisdiction of Selene",
   "dv2.weapon.melee.jurisdiction_of_selene.description":"Needn't be dismayed, my people! As She is with you, eternally!",
