@@ -995,17 +995,15 @@
   "dv2.spells.long_lasting.earth.1.meat_shield": "肉盾 (一階)",
   "dv2.spells.long_lasting.earth.1.meat_shield.0": "<一階 - 久陰 - 土>",
   "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "100 DEF",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "70 DEF",
   "dv2.spells.long_lasting.earth.1.meat_shield.1.2": " and ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "70 Elemental DEF (All)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "10 Elemental DEF (All)",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
   "dv2.spells.long_lasting.earth.1.meat_shield.3": "(終20秒，冷卻25秒)",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "費：",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "2000 Stamina",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.2": " + ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.3": "200 Hunger",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "4000 Stamina",
 
 
 
