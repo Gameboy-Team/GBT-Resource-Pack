@@ -592,7 +592,18 @@
   "dv2.display.spell.debuff": "Debuff",
   "dv2.display.spell.others": "Others",
 
+  "dv2.display.loadout.no_group": "No Group",
+  "dv2.display.loadout.no_loadout": "No Loadout",
+  "dv2.display.loadout.click_to_edit": "[Click to Edit]",
+  "dv2.display.loadout.save_kit": "[Click to save current loadout]",
+  "dv2.display.loadout.io": "Import/Export",
+  "dv2.display.loadout.io.lore.group.0": "Place a USB here to import a group",
+  "dv2.display.loadout.io.lore.group.1": "[Double Click] to export this group as USB",
+  "dv2.display.loadout.io.lore.kit.0": "Place a USB here to import a kit",
+  "dv2.display.loadout.io.lore.kit.1": "[Double Click] to export this kit as USB",
 
+  "dv2.display.loadout.edit.anvil": "Edit Icon",
+  "dv2.display.loadout.view_loadout": "View Loadout",
 
 
 
