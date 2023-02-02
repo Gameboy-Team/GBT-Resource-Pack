@@ -373,6 +373,20 @@
   "dv2.display.spell.debuff": "負",
   "dv2.display.spell.others": "他者",
 
+  "dv2.display.loadout.no_group": "尚無為組",
+  "dv2.display.loadout.no_loadout": "尚無置之備",
+  "dv2.display.loadout.click_to_edit": "[以下此則改]",
+  "dv2.display.loadout.save_kit": "[以下此則置今備儲]",
+  "dv2.display.loadout.io": "入出",
+  "dv2.display.loadout.io.lore.group.0": "於是置 隨身碟 以入組",
+  "dv2.display.loadout.io.lore.group.1": "[雙擊] 以成此組 為碟隨身",
+  "dv2.display.loadout.io.lore.kit.0": "於是置 隨身碟 以入備儲",
+  "dv2.display.loadout.io.lore.kit.1": "[雙擊] 以成此備儲 為碟隨身",
+
+  "dv2.display.loadout.edit.anvil": "改圖示之",
+  "dv2.display.loadout.view_loadout": "視備儲",
+
+
 
   "rpg.equipment.main_hand": "主手",
   "rpg.equipment.offhand": "次手",

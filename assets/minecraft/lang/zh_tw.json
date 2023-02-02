@@ -396,6 +396,19 @@
   "dv2.display.spell.debuff": "減益",
   "dv2.display.spell.others": "其他",
 
+  "dv2.display.loadout.no_group": "尚無分組",
+  "dv2.display.loadout.no_loadout": "尚無配置",
+  "dv2.display.loadout.click_to_edit": "[點擊 以修改]",
+  "dv2.display.loadout.save_kit": "[點擊 以儲存當前配置]",
+  "dv2.display.loadout.io": "匯入/匯出",
+  "dv2.display.loadout.io.lore.group.0": "於此處放置 隨身碟 以匯入分組",
+  "dv2.display.loadout.io.lore.group.1": "[雙擊] 以匯出此分組為 隨身碟",
+  "dv2.display.loadout.io.lore.kit.0": "於此處放置 隨身碟 以匯入配置",
+  "dv2.display.loadout.io.lore.kit.1": "[雙擊] 以匯出此配置為 隨身碟",
+
+  "dv2.display.loadout.edit.anvil": "修改圖示",
+  "dv2.display.loadout.view_loadout": "檢視配置",
+
 
   "rpg.equipment.main_hand": "慣用手",
   "rpg.equipment.offhand": "非慣用手",
