@@ -1152,7 +1152,7 @@
   "dv2.spells.long_lasting.wind.1.escape": "Escape (Level 1)",
   "dv2.spells.long_lasting.wind.1.escape.0": "<Lv 1 - Long Lasting - Wind>",
   "dv2.spells.long_lasting.wind.1.escape.1": "Removes 33% of your HP, and",
-  "dv2.spells.long_lasting.wind.1.escape.2": "increases your SPD for 5s.",
+  "dv2.spells.long_lasting.wind.1.escape.2": "increases +100% SPD for 5s.",
   "dv2.spells.long_lasting.wind.1.escape.3.0": "Cost: ",
   "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
 
@@ -1450,7 +1450,7 @@
   "dv2.artifacts.epiphyte.2.0": "Restores 25% MAX HP when you kill an enemy.",
 
   "dv2.artifacts.fiesta": "Fiesta",
-  "dv2.artifacts.fiesta.1.0": "Increase 1.0 All EM.",
+  "dv2.artifacts.fiesta.1.0": "Increase 100% All EM.",
 
   "dv2.artifacts.lone_wolf": "Lone Wolf",
   "dv2.artifacts.lone_wolf.1.0": "Increase 75% ALL DAMAGE, 20% SPD and 25 Lifesteal.",
