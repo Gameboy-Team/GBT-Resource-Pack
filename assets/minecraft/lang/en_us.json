@@ -1424,7 +1424,7 @@
   "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
 
   "dv2.artifacts.shelter":"Shelter",
-  "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 40 HP while using.",
+  "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 60 HP while using.",
   "dv2.artifacts.shelter.2.0":"When your HP is more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
