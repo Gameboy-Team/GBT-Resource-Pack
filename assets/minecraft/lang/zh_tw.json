@@ -1096,8 +1096,8 @@
   "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15% STR",
-  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30% STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
@@ -1203,12 +1203,12 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全屬性 DMG, STR 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全 DMG 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
-  "dv2.artifacts.battle_flag_attack.2.0":"增加 30 STR,",
-  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 30 STR",
+  "dv2.artifacts.battle_flag_attack.2.0":"增加 50 STR,",
+  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 50 STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
   "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
@@ -1230,7 +1230,7 @@
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
   "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
-  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG 及 STR",
+  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG",
   "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
   "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
