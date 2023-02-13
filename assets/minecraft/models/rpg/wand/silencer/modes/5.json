@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/wand/silencer/parent",
+	"textures": {
+		"0": "rpg/wand/silencer/silencer5",
+		"particle": "rpg/wand/silencer/silencer5"
+	}
+}

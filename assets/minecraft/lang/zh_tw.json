@@ -1096,8 +1096,8 @@
   "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15% STR",
-  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30% STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
@@ -1137,7 +1137,7 @@
   "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
 
   "dv2.artifacts.resistor":"電阻器",
-  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 40 STR",
+  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 STR",
 
   "dv2.artifacts.tank":"坦克",
   "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的隊友，",
@@ -1147,7 +1147,7 @@
   "dv2.artifacts.wanderer":"遊子",
   "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
-  "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 20 🏹 STR",
   "dv2.artifacts.wanderer.4.0":"(上限：4位玩家)",
 
   "dv2.artifacts.vikings":"維京人",
@@ -1203,12 +1203,12 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全屬性 DMG, STR 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全 DMG 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
-  "dv2.artifacts.battle_flag_attack.2.0":"增加 30 STR,",
-  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 30 STR",
+  "dv2.artifacts.battle_flag_attack.2.0":"增加 40 STR,",
+  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 50 STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
   "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
@@ -1230,7 +1230,7 @@
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
   "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
-  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG 及 STR",
+  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG",
   "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
   "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
@@ -1246,7 +1246,7 @@
   "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
 
   "dv2.artifacts.shelter":"庇護所",
-  "dv2.artifacts.shelter.1.0":"使用時增加 50 HP, 1秒攻擊間隔。",
+  "dv2.artifacts.shelter.1.0":"使用時增加 60 HP, 1秒攻擊間隔。",
   "dv2.artifacts.shelter.2.0":"當你的 HP 高於 40% 時，",
   "dv2.artifacts.shelter.3.0":"半徑5格範圍內的隊友將會獲得隱形效果。",
 
