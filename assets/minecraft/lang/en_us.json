@@ -1296,6 +1296,12 @@
   "dv2.artifacts.warrior.2":"Warrior II",
   "dv2.artifacts.warrior.2.1.0":"Increase 15 STR when not holding shield.",
 
+  "dv2.artifacts.shooter.1":"Shooter I",
+  "dv2.artifacts.shooter.1.1.0":"Increase 5 🏹STR when not holding shield.",
+  "dv2.artifacts.shooter.2":"Shooter II",
+  "dv2.artifacts.shooter.2.1.0":"Increase 15 🏹STR when not holding shield.",
+
+
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 5s.",
   "dv2.artifacts.totem_of_hope.2":"Totem of Hope II",
@@ -1326,7 +1332,7 @@
   "dv2.artifacts.wanderer.1.0":"Your 🏹STR is REDUCED by 10",
   "dv2.artifacts.wanderer.2.0":"per player within a 7 block radius.",
   "dv2.artifacts.wanderer.3.0":"Gain 20 🏹STR while using.",
-  "dv2.artifacts.wanderer.4.0":"(Maximum: 4 players)",
+  "dv2.artifacts.wanderer.4.0":"(Maximum: -20 🏹STR)",
 
   "dv2.artifacts.vikings":"Vikings",
   "dv2.artifacts.vikings.1.0":"Your STR is Increase by 5",

@@ -1141,6 +1141,11 @@
   "dv2.artifacts.warrior.2":"戰士 II",
   "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
 
+  "dv2.artifacts.shooter.1":"射手 I",
+  "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
+  "dv2.artifacts.shooter.2":"射手 II",
+  "dv2.artifacts.shooter.2.1.0":"不持盾時增加 15 🏹STR",
+
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 STR",
 
@@ -1153,7 +1158,7 @@
   "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
   "dv2.artifacts.wanderer.3.0":"使用時增加 20 🏹 STR",
-  "dv2.artifacts.wanderer.4.0":"(上限：4位玩家)",
+  "dv2.artifacts.wanderer.4.0":"(上限：-20 🏹STR)",
 
   "dv2.artifacts.vikings":"維京人",
   "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
