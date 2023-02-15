@@ -1157,8 +1157,8 @@
   "dv2.artifacts.wanderer":"遊子",
   "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
-  "dv2.artifacts.wanderer.3.0":"使用時增加 20 🏹 STR",
-  "dv2.artifacts.wanderer.4.0":"(上限：-20 🏹STR)",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
+  "dv2.artifacts.wanderer.4.0":"(上限：-10 🏹STR)",
 
   "dv2.artifacts.vikings":"維京人",
   "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
