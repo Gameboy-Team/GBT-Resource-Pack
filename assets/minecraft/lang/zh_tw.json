@@ -795,6 +795,9 @@
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
   "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
 
+  "dv2.weapon.shield.rattan_shield":"藤盾",
+  "dv2.weapon.shield.rattan_shield.description":"完美的燃料",
+
   "dv2.weapon.bow.archers_bow": "射手之弓",
   "dv2.weapon.bow.archers_bow.description": "一把好老弓",
 
