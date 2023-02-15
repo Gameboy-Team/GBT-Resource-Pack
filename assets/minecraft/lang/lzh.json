@@ -669,9 +669,9 @@
   "dv2.ability.muramasa.2.2.2": "，",
   "dv2.ability.muramasa.2.2.3": "卅",
   "dv2.ability.muramasa.2.2.4": "暗",
-  "dv2.ability.muramasa.2.2.5": "、",
+  "dv2.ability.muramasa.2.2.5": "、十",
   "dv2.ability.muramasa.2.2.6": "火",
-  "dv2.ability.muramasa.2.2.7": "、",
+  "dv2.ability.muramasa.2.2.7": "、十",
   "dv2.ability.muramasa.2.2.8": "土",
   "dv2.ability.muramasa.2.3.0": "素耐",
   "dv2.ability.muramasa.2.3.1": "，五擊與力。",
@@ -772,6 +772,9 @@
   "dv2.ability.bladed_shield.1.0.0": "素抗",
   "dv2.ability.bladed_shield.1.1.0": "蹲以換火、水、風、土四素",
 
+  "dv2.weapon.shield.rattan_shield":"籐幹",
+  "dv2.weapon.shield.rattan_shield.description":"美薪",
+
   "dv2.weapon.bow.archers_bow": "射者弓",
   "dv2.weapon.bow.archers_bow.description": "一為老弓",
 
@@ -794,7 +797,7 @@
   "dv2.ability.nightmare.1.1.2": "，",
   "dv2.ability.nightmare.1.2.0": "得",
   "dv2.ability.nightmare.1.2.2": "二秒，矢得",
-  "dv2.ability.nightmare.1.3.0": "十五暗擊之 <加二 素通>",
+  "dv2.ability.nightmare.1.3.0": "三點六暗擊之 <加三 素通>",
   "dv2.ability.nightmare.1.3.1": "，且爾矢以",
   "dv2.ability.nightmare.1.3.2": "每秒約二丈",
   "dv2.ability.nightmare.1.3.3": "速行",
@@ -802,7 +805,7 @@
   "dv2.ability.nightmare.2.0.0": "盡引",
   "dv2.ability.nightmare.2.1.0": "為子之彀，卿",
   "dv2.ability.nightmare.2.2.0": "當得",
-  "dv2.ability.nightmare.2.2.1": "五暗擊之",
+  "dv2.ability.nightmare.2.2.1": "一點八暗擊之",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -926,6 +929,9 @@
   "dv2.item.powder.elemental.light.2":"光末 二階",
   "dv2.item.powder.elemental.dark.1":"暗末 一階",
   "dv2.item.powder.elemental.dark.2":"暗末 二階",
+  "dv2.item.powder.elemental.super":"神末",
+
+  "dv2.item.special.whetstone":"砥",
 
 
 
@@ -1073,8 +1079,8 @@
   "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂士",
-  "dv2.artifacts.berserker.1.0":"生直下半，益廿有三力",
-  "dv2.artifacts.berserker.2.0":"生直下三一，益十有三力",
+  "dv2.artifacts.berserker.1.0":"生直下半，益十五力",
+  "dv2.artifacts.berserker.2.0":"生直下三一，益卅力",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"生直下半，益十五御",
@@ -1113,8 +1119,13 @@
   "dv2.artifacts.warrior.2":"戰士 二階",
   "dv2.artifacts.warrior.2.1.0":"不執幹，益十力",
 
+  "dv2.artifacts.shooter.1":"射 一階",
+  "dv2.artifacts.shooter.1.1.0":"不執幹，益五弓",
+  "dv2.artifacts.shooter.2":"射 二階",
+  "dv2.artifacts.shooter.2.1.0":"不執幹，益十五弓",
+
   "dv2.artifacts.resistor":"阻電具",
-  "dv2.artifacts.resistor.1.0":"當得負效，益卌力",
+  "dv2.artifacts.resistor.1.0":"當得負效，益卅力",
 
   "dv2.artifacts.tank":"肉盾",
   "dv2.artifacts.tank.1.0":"每友以徑十二格限，",
@@ -1123,9 +1134,9 @@
 
   "dv2.artifacts.wanderer":"遊子",
   "dv2.artifacts.wanderer.1.0":"每生以徑十四格限，",
-  "dv2.artifacts.wanderer.2.0":"當減爾十力",
-  "dv2.artifacts.wanderer.3.0":"有則益三十力",
-  "dv2.artifacts.wanderer.4.0":"(上四生)",
+  "dv2.artifacts.wanderer.2.0":"當減爾十弓",
+  "dv2.artifacts.wanderer.3.0":"有則益三十弓",
+  "dv2.artifacts.wanderer.4.0":"(上至下十弓)",
 
   "dv2.artifacts.vikings":"游居者",
   "dv2.artifacts.vikings.1.0":"每友以徑十二格限，",
@@ -1179,12 +1190,12 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"生直下半，減廿御，且爾御不高零，",
-  "dv2.artifacts.cast_off.2.0":"亦益十有三全素擊力，五有一速",
+  "dv2.artifacts.cast_off.2.0":"亦益十有三全擊，五有一速",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <擊式>",
   "dv2.artifacts.battle_flag_attack.1.0":"有則減廿御，得光效",
-  "dv2.artifacts.battle_flag_attack.2.0":"益卅力",
-  "dv2.artifacts.battle_flag_attack.3.0":"每友以徑十二格限，當減爾卅力",
+  "dv2.artifacts.battle_flag_attack.2.0":"益卌力",
+  "dv2.artifacts.battle_flag_attack.3.0":"每友以徑十二格限，當減爾卌力",
   "dv2.artifacts.battle_flag_attack.4.0":"(上一生)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <御式>",
   "dv2.artifacts.battle_flag_defend.1.0":"有則減十有一速，四一擊，得光效",
@@ -1206,7 +1217,7 @@
 
   "dv2.artifacts.command_flag_attack":"麾 <擊式>",
   "dv2.artifacts.command_flag_attack.1.0":"有則減廿有三御擊，得光效",
-  "dv2.artifacts.command_flag_attack.2.0":"友以徑廿格限，其全素擊力益十有三",
+  "dv2.artifacts.command_flag_attack.2.0":"友以徑廿格限，其全素擊力益十五",
   "dv2.artifacts.command_flag_defend":"麾 <御式>",
   "dv2.artifacts.command_flag_defend.1.0":"有則減廿有三御擊，得光效",
   "dv2.artifacts.command_flag_defend.2.0":"友以徑廿格限，其物理並全素御益十有三",
@@ -1222,7 +1233,7 @@
   "dv2.artifacts.defender.3.0":"友以徑十格限，免光效",
 
   "dv2.artifacts.shelter":"庇居",
-  "dv2.artifacts.shelter.1.0":"有則益五十生直，增一秒攻間",
+  "dv2.artifacts.shelter.1.0":"有則益六十生直，增一秒攻間",
   "dv2.artifacts.shelter.2.0":"生直上五二，",
   "dv2.artifacts.shelter.3.0":"友以徑十格限，得隱效",
 
