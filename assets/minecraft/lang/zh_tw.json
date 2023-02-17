@@ -1216,7 +1216,7 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 30% 全 DMG 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 50 全類型STR 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
