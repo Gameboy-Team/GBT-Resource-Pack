@@ -1379,7 +1379,11 @@
 
 
   "dv2.artifacts.rose_of_void":"Rose of Void",
-  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 6 blocks radius.",
+  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 7 blocks radius.",
+
+  "dv2.artifacts.pearl_of_abyss":"Pearl of Abyss",
+  "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 ALL STR in an area of 7 blocks radius.",
+
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
