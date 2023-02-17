@@ -670,7 +670,7 @@
   "dv2.ability.dark_knife.2.2.4": ".",
 
   "dv2.weapon.melee.diamond_sword": "Diamond Sword",
-  "dv2.weapon.melee.diamond_sword.description": "Well fxck off Netherite.",
+  "dv2.weapon.melee.diamond_sword.description": "Classic.",
 
   "dv2.weapon.melee.excalibur": "Excalibur",
   "dv2.weapon.melee.excalibur.description": "Power takes a price.",
@@ -699,9 +699,9 @@
   "dv2.weapon.melee.giant_sword.description": "The Sword which was Forged by the Twilight Gods.",
 
   "dv2.ability.giant_sword.1.0.0": "Defense is the Best Offense",
-  "dv2.ability.giant_sword.1.1.0": "Gain ",
-  "dv2.ability.giant_sword.1.1.1": "your HP10%",
-  "dv2.ability.giant_sword.1.1.2": " of your DEF as DMG.",
+  "dv2.ability.giant_sword.1.1.0": "Increase ",
+  "dv2.ability.giant_sword.1.1.1": "1",
+  "dv2.ability.giant_sword.1.1.2": " DMG per 30 DEF.",
 
   "dv2.weapon.melee.great_sword.might_of_an_utu": "Manifestation of An-Utu",
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "Feeling the judgement of Shamash.",
@@ -719,7 +719,9 @@
   "dv2.ability.might_of_an_utu.2.1.2": " of your current HP,",
   "dv2.ability.might_of_an_utu.2.2.0": "increase ",
   "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
+  "dv2.ability.might_of_an_utu.2.2.1.zh": "",
   "dv2.ability.might_of_an_utu.2.2.2": " Per ",
+  "dv2.ability.might_of_an_utu.2.2.3.zh": "",
   "dv2.ability.might_of_an_utu.2.2.3": "30 ",
   "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
   "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
@@ -761,7 +763,7 @@
   "dv2.ability.soul_scythe.2.2.4": "",
 
   "dv2.weapon.melee.vampire_tooth": "Vampire Tooth",
-  "dv2.weapon.melee.vampire_tooth.description": "I took a tooth from the Vampire...",
+  "dv2.weapon.melee.vampire_tooth.description": "I took a tooth from the Vampire :D",
 
   "dv2.ability.vampire_tooth.1.0.0": "Vampire Sight",
   "dv2.ability.vampire_tooth.1.1.0": "When holding this Weapon, immune ",
@@ -769,9 +771,20 @@
 
   "dv2.ability.vampire_tooth.2.0.0": "Fear of Light",
   "dv2.ability.vampire_tooth.2.1.0": "Grants ",
+  "dv2.ability.vampire_tooth.2.1.1": "20% SPD",
   "dv2.ability.vampire_tooth.2.1.2": " but reduces ",
+  "dv2.ability.vampire_tooth.2.1.3": "10% DMG",
   "dv2.ability.vampire_tooth.2.2.0": "when you have the ",
+  "dv2.ability.vampire_tooth.2.2.1": "Glowing",
   "dv2.ability.vampire_tooth.2.2.2": " effect.",
+  "dv2.ability.vampire_tooth.2.1.0.zh": "",
+  "dv2.ability.vampire_tooth.2.1.1.zh": "",
+  "dv2.ability.vampire_tooth.2.1.2.zh": "",
+  "dv2.ability.vampire_tooth.2.1.3.zh": "",
+  "dv2.ability.vampire_tooth.2.1.4.zh": "",
+  "dv2.ability.vampire_tooth.2.2.0.zh": "",
+  "dv2.ability.vampire_tooth.2.2.1.zh": "",
+
 
   "dv2.weapon.melee.torrent_dagger":"Torrent Dagger",
   "dv2.weapon.melee.torrent_dagger.description":"Stand with torrent.",
@@ -927,8 +940,10 @@
 
   "dv2.ability.plasma_shield.2.0.0": "Beacon of Hope",
   "dv2.ability.plasma_shield.2.1.0": "Increases ",
+  "dv2.ability.plasma_shield.2.1.1.zh": "",
   "dv2.ability.plasma_shield.2.1.1": "All AFF",
   "dv2.ability.plasma_shield.2.1.2": " by ",
+  "dv2.ability.plasma_shield.2.1.3": "15",
   "dv2.ability.plasma_shield.2.2.0": "when HP is lower than 33%.",
 
 
@@ -989,7 +1004,7 @@
   "dv2.ability.nightmare.1.1.2": ",",
   "dv2.ability.nightmare.1.2.0": "you will be ",
   "dv2.ability.nightmare.1.2.2": " and gain additional ",
-  "dv2.ability.nightmare.1.3.0": "+3.6 Dark DMG <+3 EM>",
+  "dv2.ability.nightmare.1.3.0": "+3.6 Dark DMG <+3.0 EM>",
   "dv2.ability.nightmare.1.3.1": " and travel in ",
   "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": ".",
@@ -997,7 +1012,7 @@
   "dv2.ability.nightmare.2.0.0": "Full Charge",
   "dv2.ability.nightmare.2.1.0": "When your bow is fully charged, you will",
   "dv2.ability.nightmare.2.2.0": "receive ",
-  "dv2.ability.nightmare.2.2.1": "1.8 Dark DMG <+7 EM>",
+  "dv2.ability.nightmare.2.2.1": "1.8 Dark DMG <+7.0 EM>",
   "dv2.ability.nightmare.2.2.2": ".",
 
   
@@ -1301,7 +1316,6 @@
   "dv2.artifacts.shooter.2":"Shooter II",
   "dv2.artifacts.shooter.2.1.0":"Increase 15 🏹STR when not holding shield.",
 
-
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 5s.",
   "dv2.artifacts.totem_of_hope.2":"Totem of Hope II",
@@ -1354,18 +1368,12 @@
   "dv2.artifacts.wave_sense.1":"Wave Sense I",
   "dv2.artifacts.wave_sense.1.1.1":"Giving enemy ",
   "dv2.artifacts.wave_sense.1.1.2":" in an area of 5 blocks radius.",
-  "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.1.2.2":" effect.",
   "dv2.artifacts.wave_sense.2":"Wave Sense II",
   "dv2.artifacts.wave_sense.2.1.1":"Giving enemy ",
   "dv2.artifacts.wave_sense.2.1.2":" in an area of 10 blocks radius.",
-  "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.2.2.2":" effect.",
   "dv2.artifacts.wave_sense.3":"Wave Sense III",
   "dv2.artifacts.wave_sense.3.1.1":"Giving enemy ",
   "dv2.artifacts.wave_sense.3.1.2":" in an area of 15 blocks radius.",
-  "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.3.2.2":" effect.",
 
 
 
@@ -1410,7 +1418,7 @@
 
   "dv2.artifacts.book_of_wisdom":"Book of Wisdom",
   "dv2.artifacts.book_of_wisdom.1.0":"Reduce 30% Stamina while using.",
-  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 75% <ALL> EM in an area of 7 blocks radius.",
+  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 75% ALL EM in an area of 7 blocks radius.",
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",

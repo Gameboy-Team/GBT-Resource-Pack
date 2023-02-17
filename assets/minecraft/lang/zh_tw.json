@@ -461,16 +461,16 @@
   "dv2.ability.longsword.2.0": "(此攻擊有更長的攻擊範圍)",
 
   "dv2.ability.greatsword.0.0": "巨劍 (右鍵發動)",
-  "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害的",
+  "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害",
   "dv2.ability.greatsword.1.1": "3",
-  "dv2.ability.greatsword.1.2": "倍",
+  "dv2.ability.greatsword.1.2": "倍的範圍傷害",
   "dv2.ability.greatsword.2.0": "（需要大量的 Stamina，並會減緩你的速度）",
 
   "dv2.ability.odachi.0.0": "大太刀 (右鍵發動)",
   "dv2.ability.odachi.1.0": "右鍵時向前突刺，",
   "dv2.ability.odachi.2.0": "對路徑上的敵人造成 ",
-  "dv2.ability.odachi.2.1": "2.5倍 DMG",
-  "dv2.ability.odachi.2.2": " 傷害",
+  "dv2.ability.odachi.2.1": "2.5倍的 DMG",
+  "dv2.ability.odachi.2.2": "",
 
 
 
@@ -503,7 +503,7 @@
   "dv2.ability.dark_knife.2.2.4": "",
 
   "dv2.weapon.melee.diamond_sword": "鑽石劍",
-  "dv2.weapon.melee.diamond_sword.description": "做的好性交下界合金 -- Baidu Translate",
+  "dv2.weapon.melee.diamond_sword.description": "經典",
 
   "dv2.weapon.melee.excalibur": "王者之劍",
   "dv2.weapon.melee.excalibur.description": "力量的代價",
@@ -515,7 +515,7 @@
 
   "dv2.ability.excalibur.2.0.0": "王者的意志",
   "dv2.ability.excalibur.2.1.0": "在 HP 低於40%時增加",
-  "dv2.ability.excalibur.2.1.1": "10點光屬性DMG",
+  "dv2.ability.excalibur.2.1.1": "10點光屬性DMG <+2.0 EM>",
   "dv2.ability.excalibur.2.1.2": "",
 
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
@@ -532,9 +532,9 @@
   "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍",
 
   "dv2.ability.giant_sword.1.0.0": "防禦是最好的攻擊",
-  "dv2.ability.giant_sword.1.1.0": "以自身DEF的",
-  "dv2.ability.giant_sword.1.1.1": "10%",
-  "dv2.ability.giant_sword.1.1.2": "化作為DMG",
+  "dv2.ability.giant_sword.1.1.0": "每 30 DEF 將增加",
+  "dv2.ability.giant_sword.1.1.1": "1",
+  "dv2.ability.giant_sword.1.1.2": "DMG",
 
   "dv2.weapon.melee.great_sword.might_of_an_utu": "安烏圖的顯現",
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "應當敬畏神，做好覺悟！因那沙瑪什審判之時已經到了。",
@@ -550,14 +550,17 @@
   "dv2.ability.might_of_an_utu.2.1.0": "蹲下以減少現時 HP 的",
   "dv2.ability.might_of_an_utu.2.1.1": "33%",
   "dv2.ability.might_of_an_utu.2.1.2": "，",
-  "dv2.ability.might_of_an_utu.2.2.0": "同時增加",
-  "dv2.ability.might_of_an_utu.2.2.1": "1 Fire",
-  "dv2.ability.might_of_an_utu.2.2.2": " Per ",
-  "dv2.ability.might_of_an_utu.2.2.3": "30 ",
-  "dv2.ability.might_of_an_utu.2.2.4": "Max HP ",
-  "dv2.ability.might_of_an_utu.2.2.5": "for 15s.",
+  "dv2.ability.might_of_an_utu.2.2.0": "同時於15秒内，以每 ",
+  "dv2.ability.might_of_an_utu.2.2.1": "",
+  "dv2.ability.might_of_an_utu.2.2.1.zh": "30",
+  "dv2.ability.might_of_an_utu.2.2.2": " 最大血量增加",
+  "dv2.ability.might_of_an_utu.2.2.3": "",
+  "dv2.ability.might_of_an_utu.2.2.3.zh": "1點火屬性DMG",
+  "dv2.ability.might_of_an_utu.2.2.4": "",
+  "dv2.ability.might_of_an_utu.2.2.5": "",
   "dv2.ability.might_of_an_utu.2.3.0": "(當你的 HP 超過 50% 時將減至 50% HP)",
   "dv2.ability.might_of_an_utu.2.4.0": "(冷卻20秒)",
+  "dv2.ability.might_of_an_utu.fix": "",
 
   "dv2.ability.might_of_an_utu.3.0.0": "安烏圖的神跡",
   "dv2.ability.might_of_an_utu.3.1.0": "當 HP 低於",
@@ -602,10 +605,21 @@
   "dv2.ability.vampire_tooth.1.1.2": "效果",
 
   "dv2.ability.vampire_tooth.2.0.0": "恐光症",
-  "dv2.ability.vampire_tooth.2.1.0": "在擁有",
-  "dv2.ability.vampire_tooth.2.1.2": "效果時獲得",
-  "dv2.ability.vampire_tooth.2.2.0": "，同時減少",
+  "dv2.ability.vampire_tooth.2.1.0": "",
+  "dv2.ability.vampire_tooth.2.1.1": "",
+  "dv2.ability.vampire_tooth.2.1.2": "",
+  "dv2.ability.vampire_tooth.2.1.3": "",
+  "dv2.ability.vampire_tooth.2.2.0": "",
+  "dv2.ability.vampire_tooth.2.2.1": "",
   "dv2.ability.vampire_tooth.2.2.2": "",
+  "dv2.ability.vampire_tooth.2.1.0.zh": "在獲得",
+  "dv2.ability.vampire_tooth.2.1.1.zh": "發光",
+  "dv2.ability.vampire_tooth.2.1.2.zh": "效果時增加 ",
+  "dv2.ability.vampire_tooth.2.1.3.zh": "20% SPD",
+  "dv2.ability.vampire_tooth.2.1.4.zh": "，",
+  "dv2.ability.vampire_tooth.2.2.0.zh": "同時減少",
+  "dv2.ability.vampire_tooth.2.2.1.zh": "10% DMG",
+
 
   "dv2.weapon.melee.torrent_dagger":"激流",
   "dv2.weapon.melee.torrent_dagger.description":"在激流中前進。",
@@ -674,8 +688,8 @@
   "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴!!!",
 
   "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
-  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，",
-  "dv2.weapon.melee.odachi.muramasa.description.2": "刀中充斥著無盡的血性與混沌",
+  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，刀中",
+  "dv2.weapon.melee.odachi.muramasa.description.2": "充斥著無盡的血性與混沌",
   "dv2.ability.muramasa.1.0.0": "村正",
   "dv2.ability.muramasa.1.1.0": "每擁有",
   "dv2.ability.muramasa.1.1.1": "1點暗屬性DMG，",
@@ -758,11 +772,12 @@
   "dv2.ability.plasma_shield.1.1.2": "效果",
 
   "dv2.ability.plasma_shield.2.0.0": "希望之星",
-  "dv2.ability.plasma_shield.2.1.0": "當 HP 低於33%時，增加",
-  "dv2.ability.plasma_shield.2.1.1": "All AFF",
+  "dv2.ability.plasma_shield.2.1.0": "當 HP 低於33%時，增加 ",
+  "dv2.ability.plasma_shield.2.1.1.zh": "15",
+  "dv2.ability.plasma_shield.2.1.1": " 全屬性AFF",
   "dv2.ability.plasma_shield.2.1.2": "",
+  "dv2.ability.plasma_shield.2.1.3": "",
   "dv2.ability.plasma_shield.2.2.0": "",
-  "plasma_shield.comment": "hey we need some discussion here",
 
 
   "dv2.weapon.shield.mega_shield": "巨盾",
@@ -820,15 +835,15 @@
   "dv2.ability.nightmare.1.1.2": "時，",
   "dv2.ability.nightmare.1.2.0": "你將會獲得",
   "dv2.ability.nightmare.1.2.2": "2秒，箭矢會獲得",
-  "dv2.ability.nightmare.1.3.0": "3.6點暗屬性DMG <+3 EM>",
+  "dv2.ability.nightmare.1.3.0": "3.6點暗屬性DMG <+3.0 EM>",
   "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
-  "dv2.ability.nightmare.1.3.2": "每秒6米",
+  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": "的速度行進",
 
   "dv2.ability.nightmare.2.0.0": "完全蓄力",
   "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
   "dv2.ability.nightmare.2.2.0": "獲得",
-  "dv2.ability.nightmare.2.2.1": "1.8點暗屬性DMG <+7 EM>",
+  "dv2.ability.nightmare.2.2.1": "1.8點暗屬性DMG <+7.0 EM>",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -1118,7 +1133,17 @@
   "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 30 DEF",
   "dv2.artifacts.shield.3":"盾牌 III",
   "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
-  
+    
+  "dv2.artifacts.warrior.1":"戰士 I",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 STR",
+  "dv2.artifacts.warrior.2":"戰士 II",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
+
+  "dv2.artifacts.shooter.1":"射手 I",
+  "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
+  "dv2.artifacts.shooter.2":"射手 II",
+  "dv2.artifacts.shooter.2.1.0":"不持盾時增加 15 🏹STR",
+
   "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
   "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 5 秒",
   "dv2.artifacts.totem_of_hope.2":"希望圖騰 II",
@@ -1135,23 +1160,14 @@
   "dv2.artifacts.magic_string.3":"魔弦 III",
   "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Base Mana",
   "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
-  
-  "dv2.artifacts.warrior.1":"戰士 I",
-  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 STR",
-  "dv2.artifacts.warrior.2":"戰士 II",
-  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
 
-  "dv2.artifacts.shooter.1":"射手 I",
-  "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
-  "dv2.artifacts.shooter.2":"射手 II",
-  "dv2.artifacts.shooter.2.1.0":"不持盾時增加 15 🏹STR",
 
   "dv2.artifacts.resistor":"電阻器",
   "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 STR",
 
   "dv2.artifacts.tank":"坦克",
   "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的隊友，",
-  "dv2.artifacts.tank.2.0":"增加 12 DEF",
+  "dv2.artifacts.tank.2.0":"將增加你 12 DEF",
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"遊子",
@@ -1180,18 +1196,12 @@
   "dv2.artifacts.wave_sense.1":"感知 I",
   "dv2.artifacts.wave_sense.1.1.1":"給予半徑5格範圍内的敵人",
   "dv2.artifacts.wave_sense.1.1.2":"效果",
-  "dv2.artifacts.wave_sense.1.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.1.2.2":" effect.",
   "dv2.artifacts.wave_sense.2":"感知 II",
   "dv2.artifacts.wave_sense.2.1.1":"給予半徑10格範圍内的敵人",
   "dv2.artifacts.wave_sense.2.1.2":"效果",
-  "dv2.artifacts.wave_sense.2.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.2.2.2":" effect.",
   "dv2.artifacts.wave_sense.3":"感知 III",
   "dv2.artifacts.wave_sense.3.1.1":"給予半徑15格範圍内的敵人",
   "dv2.artifacts.wave_sense.3.1.2":"效果",
-  "dv2.artifacts.wave_sense.3.2.1":"Curse 30% More DMAGE to an enemy who have the ",
-  "dv2.artifacts.wave_sense.3.2.2":" effect.",
 
 
 
@@ -1242,10 +1252,10 @@
   "dv2.artifacts.aether_substance.2.0":"在 HP 高於 99% 時獲得隱形效果。",
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
-  "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG",
   "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
-  "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
   "dv2.artifacts.command_flag_escape":"指揮旗 <撤退模式>",
   "dv2.artifacts.command_flag_escape.1.0":"使用時減少 10% DEF 及 DMG，並增加 10% SPD",
@@ -1254,12 +1264,12 @@
   "dv2.artifacts.command_flag_change":"(蹲下以切換攻擊、防禦、撤退三種模式)",
 
   "dv2.artifacts.defender":"防守者",
-  "dv2.artifacts.defender.1.0":"使用時減少 15% SPD, DMG，並獲得發光效果。",
+  "dv2.artifacts.defender.1.0":"使用時減少 15% SPD 及 DMG，並獲得發光效果。",
   "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
   "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
 
   "dv2.artifacts.shelter":"庇護所",
-  "dv2.artifacts.shelter.1.0":"使用時增加 60 HP, 1秒攻擊間隔。",
+  "dv2.artifacts.shelter.1.0":"使用時增加 60 HP 及 1秒攻擊間隔。",
   "dv2.artifacts.shelter.2.0":"當你的 HP 高於 40% 時，",
   "dv2.artifacts.shelter.3.0":"半徑5格範圍內的隊友將會獲得隱形效果。",
 
