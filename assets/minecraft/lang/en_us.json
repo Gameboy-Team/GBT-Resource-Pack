@@ -1182,6 +1182,7 @@
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "Cost: ",
   "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
 
+  "dv2.spells.long_lasting.earth.health_recovery_array.1": "Heals players within a %s block radius for %s HP per %ss. ",
 
   
   "dv2.spells.long_lasting.earth.2.health_recovery_array": "Health Recovery Array (Level 2)",
