@@ -1,0 +1,7 @@
+{
+	"parent": "furniture/crystals/crystal_parent",
+	"textures": {
+		"0": "block/budding_amethyst",
+		"particle": "block/budding_amethyst"
+	}
+}

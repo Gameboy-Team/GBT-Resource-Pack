@@ -1,0 +1,7 @@
+{
+	"parent": "furniture/crystals/crystal_parent",
+	"textures": {
+		"0": "block/honey_block_top",
+		"particle": "block/honey_block_top"
+	}
+}
