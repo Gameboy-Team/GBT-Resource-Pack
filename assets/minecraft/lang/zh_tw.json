@@ -1303,7 +1303,7 @@
   "dv2.artifacts.fiesta.1.0": "增加 1.0 全屬性EM",
 
   "dv2.artifacts.lone_wolf": "孤狼",
-  "dv2.artifacts.lone_wolf.1.0": "增加 75% 物理&全屬性DMG, 20% SPD 及 25 吸血。",
+  "dv2.artifacts.lone_wolf.1.0": "增加 50 全類型STR, 20% SPD, 25 吸血及減少 50% 技能 Stamina 消耗。",
   
   "dv2.artifacts.nihility": "虛無",
   "dv2.artifacts.nihility.1.0": "當你的 HP 高於 70% 時獲得隱形效果，",
