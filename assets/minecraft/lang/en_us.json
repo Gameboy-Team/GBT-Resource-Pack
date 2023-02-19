@@ -533,7 +533,10 @@
   "dv2.game.stage.process.lifesteal.feedback.3": " Lives Left.",
   "dv2.game.stage.process.lifesteal.feedback.4": "You have been eliminated.",
   "dv2.game.stage.process.lifesteal.feedback.5": " has been ELIMINATED!!!",
+  "dv2.game.stage.process.lifesteal.feedback.6": "LIFESTEAL",
+  "dv2.game.stage.process.lifesteal.feedback.7": "EVERYONE LOSES 1 LIVE",
 
+  "dv2.game.stage.process.capture.feedback.1": "Capture",
 
   "dv2.kits.berserker.1": "Berserker 1",
   "dv2.kits.berserker.2": "Berserker 2",
@@ -573,6 +576,9 @@
   "dv2.display.wand": "Wand",
   "dv2.display.weapon": "Weapon",
   "dv2.display.utility": "Utilities",
+
+  "dv2.display.shop.failed.1": "[Shop] ",
+  "dv2.display.shop.failed.2": "You do not have enough currency!",
 
   "dv2.display.weapon.bow": "Bow",
   "dv2.display.weapon.melee": "Melee",

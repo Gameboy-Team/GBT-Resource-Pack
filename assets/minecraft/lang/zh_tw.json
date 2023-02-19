@@ -378,6 +378,9 @@
   "dv2.display.weapon": "武器",
   "dv2.display.utility": "雜項",
 
+  "dv2.display.shop.failed.1": "[商店] ",
+  "dv2.display.shop.failed.2": "你沒有足夠的點數！",
+
   "dv2.display.weapon.bow": "弓",
   "dv2.display.weapon.melee": "近戰武器",
   "dv2.display.weapon.shield": "盾牌",
@@ -445,6 +448,10 @@
   "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
   "dv2.game.stage.process.lifesteal.feedback.4": "你已經被淘汰。",
   "dv2.game.stage.process.lifesteal.feedback.5": " 已經被淘汰！",
+  "dv2.game.stage.process.lifesteal.feedback.6": "奪命模式",
+  "dv2.game.stage.process.lifesteal.feedback.7": "所有人減少一條命",
+
+  "dv2.game.stage.process.capture.feedback.1": "佔點",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
@@ -860,7 +867,7 @@
 
   
   "dv2.weapon.bow.bladed_bow": "颶風弓",
-  "dv2.weapon.bow.bladed_bow.description": "掌握於手中的狂風。",
+  "dv2.weapon.bow.bladed_bow.description": "掌握手中的狂風。",
   "dv2.ability.bladed_bow.1.0.0": "操縱輕風",
   "dv2.ability.bladed_bow.1.1.0": "當你蹲下時，在你腳下製造一陣風以助緩降",
   "dv2.ability.bladed_bow.1.2.0": "(消耗 Mana)",
