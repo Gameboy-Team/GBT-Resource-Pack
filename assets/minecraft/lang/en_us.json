@@ -1358,13 +1358,13 @@
   "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
   
   "dv2.artifacts.vampire.1":"Vampire I",
-  "dv2.artifacts.vampire.1.1.0":"REDUCED 10 STR while using.",
+  "dv2.artifacts.vampire.1.1.0":"REDUCED 10 ALL STR while using.",
   "dv2.artifacts.vampire.1.2.0":"Increase 5 Lifesteal",
   "dv2.artifacts.vampire.2":"Vampire II",
-  "dv2.artifacts.vampire.2.1.0":"REDUCED 10 STR while using.",
+  "dv2.artifacts.vampire.2.1.0":"REDUCED 10 ALL STR while using.",
   "dv2.artifacts.vampire.2.2.0":"Increase 10 Lifesteal",
   "dv2.artifacts.vampire.3":"Vampire III",
-  "dv2.artifacts.vampire.3.1.0":"REDUCED 10 STR while using.",
+  "dv2.artifacts.vampire.3.1.0":"REDUCED 10 ALL STR while using.",
   "dv2.artifacts.vampire.3.2.0":"Increase 15 Lifesteal",
   "dv2.artifacts.vampire.3.3.0":"After killing the enemy, restores 25% of",
   "dv2.artifacts.vampire.3.4.0":"the enemy's Max HP.",
@@ -1403,7 +1403,7 @@
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 when HP lower than 50%,",
-  "dv2.artifacts.cast_off.2.0":"increase 50 ALL STR and 20% SPD. ",
+  "dv2.artifacts.cast_off.2.0":"increase 50 STR and 20% SPD. ",
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 20 DEF and receive Glowing effect while using.",

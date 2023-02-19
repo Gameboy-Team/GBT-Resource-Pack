@@ -1185,13 +1185,13 @@
   "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
   
   "dv2.artifacts.vampire.1":"吸血鬼 I",
-  "dv2.artifacts.vampire.1.1.0":"STR減少 10",
+  "dv2.artifacts.vampire.1.1.0":"全類型STR 減少 10",
   "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
   "dv2.artifacts.vampire.2":"吸血鬼 II",
-  "dv2.artifacts.vampire.2.1.0":"STR減少 10",
+  "dv2.artifacts.vampire.2.1.0":"全類型STR 減少 10",
   "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
   "dv2.artifacts.vampire.3":"吸血鬼 III",
-  "dv2.artifacts.vampire.3.1.0":"STR減少 10",
+  "dv2.artifacts.vampire.3.1.0":"全類型STR 減少 10",
   "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
   "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
@@ -1229,7 +1229,7 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 50 全類型STR 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 50 STR 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
@@ -1248,7 +1248,7 @@
 
   "dv2.artifacts.book_of_wisdom":"智慧之書",
   "dv2.artifacts.book_of_wisdom.1.0":"使用時減少 30% Stamina",
-  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑7格範圍内隊友 0.2 的 全屬性EM",
+  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑7格範圍内隊友 75% 的 全屬性EM",
 
   "dv2.artifacts.aether_substance":"以太物質",
   "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
