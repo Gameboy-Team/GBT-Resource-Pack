@@ -523,8 +523,8 @@
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
   "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
-  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於120時，",
-  "dv2.ability.leaf_steel_sword.1.1.1":"增加 50% ",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於105時，",
+  "dv2.ability.leaf_steel_sword.1.1.1":"增加 20% ",
   "dv2.ability.leaf_steel_sword.1.1.2":"受治療量",
 
   "dv2.weapon.melee.blaze_sword":"熾焰劍",

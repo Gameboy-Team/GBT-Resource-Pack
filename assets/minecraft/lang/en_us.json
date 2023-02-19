@@ -690,9 +690,9 @@
   "dv2.weapon.melee.leaf_steel_sword": "Leaf Steel Sword",
   "dv2.weapon.melee.leaf_steel_sword.description":"Make with steel rich in Earth element.",
   "dv2.ability.leaf_steel_sword.1.0.0":"Bounty From Earth",
-  "dv2.ability.leaf_steel_sword.1.1.0":"Increase 50% Your",
+  "dv2.ability.leaf_steel_sword.1.1.0":"Increase 20% Your",
   "dv2.ability.leaf_steel_sword.1.1.1":" Icoming Heal ",
-  "dv2.ability.leaf_steel_sword.1.1.2":"When your Max HP less than 120.",
+  "dv2.ability.leaf_steel_sword.1.1.2":"When your Max HP less than 105.",
 
   "dv2.weapon.melee.blaze_sword":"Blaze Sword",
   "dv2.weapon.melee.blaze_sword.description":"Make with high quality blaze Powder.",
