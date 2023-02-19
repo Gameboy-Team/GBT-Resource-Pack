@@ -795,7 +795,7 @@
   "dv2.ability.torrent_dagger.1.1.1":"(Requires Stamina)",
 
   "dv2.weapon.melee.jormungandrs_tooth":"Jörmungandr's Tooth",
-  "dv2.weapon.melee.jormungandrs_tooth.description":"Closure comes with a wellspring.",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"A closure is followed by a newborn.",
   "dv2.ability.jormungandrs_tooth.1.0.0":"Ragnarok",
   "dv2.ability.jormungandrs_tooth.1.1.0":"Sneak to give enemy in an area of 20 blocks radius",
   "dv2.ability.jormungandrs_tooth.1.2.0":", ",
@@ -811,7 +811,7 @@
 
 
   "dv2.weapon.melee.jormungandrs_scale":"Jörmungandr's Scale",
-  "dv2.weapon.melee.jormungandrs_scale.description":"The end is coming...",
+  "dv2.weapon.melee.jormungandrs_scale.description":"Curtain lowering...",
   "dv2.ability.jormungandrs_scale.1.0.0":"Mobius Ring",
   "dv2.ability.jormungandrs_scale.1.1.0":"Increases",
   "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
@@ -831,14 +831,14 @@
 
 
   "dv2.weapon.melee.odachi.fire_odachi": "Fire Odachi",
-  "dv2.weapon.melee.odachi.fire_odachi.description": "haha u become lafavox.",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "Blazing the trail.",
   "dv2.ability.fire_odachi.1.0.0": "Fire Odachi",
   "dv2.ability.fire_odachi.1.1.0": "Has a 20% chance to inflict the ",
   "dv2.ability.fire_odachi.1.1.2": " effect",
   "dv2.ability.fire_odachi.1.2.0": "for 4 seconds. (6 HP/s)",
 
   "dv2.weapon.melee.odachi.poison_odachi": "Poison Odachi",
-  "dv2.weapon.melee.odachi.poison_odachi.description": "lmao! you poisoned haha",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "Serpent's bite.",
   "dv2.ability.poison_odachi.1.0.0": "Poison Odachi",
   "dv2.ability.poison_odachi.1.1.0": "Has a 20% chance to inflict the ",
   "dv2.ability.poison_odachi.1.1.2": " effect",
@@ -849,11 +849,11 @@
   "dv2.weapon.melee.odachi.ice_odachi.description": "Let it go!!!",
 
   "dv2.weapon.melee.odachi.electric_odachi": "Electric Odachi",
-  "dv2.weapon.melee.odachi.electric_odachi.description": "I am the storm that is approaching!!!",
+  "dv2.weapon.melee.odachi.electric_odachi.description": "I am the storm that is approaching!",
 
   "dv2.weapon.melee.odachi.muramasa": "Demon Blade Muramasa",
-  "dv2.weapon.melee.odachi.muramasa.description": "Cursed swords with demonic powers, the",
-  "dv2.weapon.melee.odachi.muramasa.description.2": "violence and madness have passed into the blade.",
+  "dv2.weapon.melee.odachi.muramasa.description": "The cursed blade revels in its demonic powers and madness.",
+  "dv2.weapon.melee.odachi.muramasa.description.2": "",
   "dv2.ability.muramasa.1.0.0": "Muramasa",
   "dv2.ability.muramasa.1.1.0": "Increase ",
   "dv2.ability.muramasa.1.1.1": "0.1 Dark EM",
@@ -921,7 +921,7 @@
   "dv2.weapon.shield.heavy_shield.description": "This shield is made by a skilled blacksmith.",
 
   "dv2.weapon.shield.bedrock_shield": "Bedrock Shield",
-  "dv2.weapon.shield.bedrock_shield.description": "Oh! So hard!.",
+  "dv2.weapon.shield.bedrock_shield.description": "Oh! So hard!",
 
   "dv2.ability.heavy_shield.1.0.0": "Unbeatable Fortress",
   "dv2.ability.heavy_shield.1.1.0": "Grants ",
@@ -1000,7 +1000,7 @@
 
 
   "dv2.weapon.bow.nightmare": "Nightmare",
-  "dv2.weapon.bow.nightmare.description": "Become a piece of the dark.",
+  "dv2.weapon.bow.nightmare.description": "Become a piece of the darkness.",
   "dv2.ability.nightmare.1.0.0": "Jumpscare",
   "dv2.ability.nightmare.1.1.0": "When your bow is charged for over ",
   "dv2.ability.nightmare.1.1.1": "2s",
@@ -1030,12 +1030,12 @@
 
   
   "dv2.weapon.bow.bladed_bow": "Hurricane Bow",
-  "dv2.weapon.bow.bladed_bow.description": "Speedy BOI loll",
+  "dv2.weapon.bow.bladed_bow.description": "Tempest in the hands, whirlwind of devastation.",
   "dv2.ability.bladed_bow.1.0.0": "Manipulation of Wind",
   "dv2.ability.bladed_bow.1.1.0": "Creates a cloud of gust beneath you when sneak.",
   "dv2.ability.bladed_bow.1.2.0": "(Requires Mana)",
   "dv2.ability.bladed_bow.2.0.0": "Pressurized Wind",
-  "dv2.ability.bladed_bow.2.1.0": "Propagate upwards when sneaking",
+  "dv2.ability.bladed_bow.2.1.0": "Propagate backwards when sneaking",
   "dv2.ability.bladed_bow.2.2.0": "with item in offhand.",
   "dv2.ability.bladed_bow.2.3.0": "(Requires Mana)",
 

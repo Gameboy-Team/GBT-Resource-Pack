@@ -522,7 +522,7 @@
 
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
-  "dv2.ability.leaf_steel_sword.1.0.0":"來自大自然的賞賜",
+  "dv2.ability.leaf_steel_sword.1.0.0":"大自然的欣賜",
   "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於105時，",
   "dv2.ability.leaf_steel_sword.1.1.1":"增加 20% ",
   "dv2.ability.leaf_steel_sword.1.1.2":"受治療量",
@@ -668,14 +668,14 @@
 
 
   "dv2.weapon.melee.odachi.fire_odachi": "烈焰大太刀",
-  "dv2.weapon.melee.odachi.fire_odachi.description": "哈哈你變成了佐丹奴布魯諾哈哈",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "開闢道路",
   "dv2.ability.fire_odachi.1.0.0": "烈焰大太刀",
   "dv2.ability.fire_odachi.1.1.0": "有 20% 的機率造成4秒的",
   "dv2.ability.fire_odachi.1.1.2": "效果",
   "dv2.ability.fire_odachi.1.2.0": "(6 HP/秒)",
 
   "dv2.weapon.melee.odachi.poison_odachi": "劇毒大太刀",
-  "dv2.weapon.melee.odachi.poison_odachi.description": "哈哈你變成了光緒帝哈哈",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "蛇蠍之噬",
   "dv2.ability.poison_odachi.1.0.0": "劇毒大太刀",
   "dv2.ability.poison_odachi.1.1.0": "有 20% 的機率造成3秒的",
   "dv2.ability.poison_odachi.1.1.2": "效果",
@@ -686,11 +686,11 @@
   "dv2.weapon.melee.odachi.ice_odachi.description": "Let it go!!!",
 
   "dv2.weapon.melee.odachi.electric_odachi": "閃電大太刀",
-  "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴!!!",
+  "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴！",
 
   "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
-  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，刀中",
-  "dv2.weapon.melee.odachi.muramasa.description.2": "充斥著無盡的血性與混沌",
+  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，刀中充斥著無盡的血性與混沌",
+  "dv2.weapon.melee.odachi.muramasa.description.2": "",
   "dv2.ability.muramasa.1.0.0": "村正",
   "dv2.ability.muramasa.1.1.0": "每擁有",
   "dv2.ability.muramasa.1.1.1": "1點暗屬性DMG，",
@@ -754,7 +754,7 @@
   "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
 
   "dv2.weapon.shield.bedrock_shield": "基岩盾",
-  "dv2.weapon.shield.bedrock_shield.description": "噢! 太堅硬了!",
+  "dv2.weapon.shield.bedrock_shield.description": "噢！太堅硬了！",
 
   "dv2.ability.heavy_shield.1.0.0": "無敵堡壘",
   "dv2.ability.heavy_shield.1.1.0": "在 HP 低於40%時增加",
@@ -798,16 +798,16 @@
 
 
   "dv2.weapon.shield.bladed_shield.fire": "盾刃 <火>",
-  "dv2.weapon.shield.bladed_shield.fire.description": "得到火精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的幫助",
 
   "dv2.weapon.shield.bladed_shield.water": "盾刃 <水>",
-  "dv2.weapon.shield.bladed_shield.water.description": "得到水精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的幫助",
 
   "dv2.weapon.shield.bladed_shield.wind": "盾刃 <風>",
-  "dv2.weapon.shield.bladed_shield.wind.description": "得到風精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的幫助",
 
   "dv2.weapon.shield.bladed_shield.earth": "盾刃 <土>",
-  "dv2.weapon.shield.bladed_shield.earth.description": "得到土精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的幫助",
 
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
   "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
@@ -850,7 +850,7 @@
 
   
   "dv2.weapon.bow.destroyer": "破壞者",
-  "dv2.weapon.bow.destroyer.description": "「砰砰」!",
+  "dv2.weapon.bow.destroyer.description": "「砰砰」！",
   "dv2.ability.destroyer.1.0.0": "狙擊手",
   "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
   "dv2.ability.destroyer.1.1.1": "+35 DMG",
@@ -860,7 +860,7 @@
 
   
   "dv2.weapon.bow.bladed_bow": "颶風弓",
-  "dv2.weapon.bow.bladed_bow.description": "快速小子 loll",
+  "dv2.weapon.bow.bladed_bow.description": "掌握於手中的狂風。",
   "dv2.ability.bladed_bow.1.0.0": "操縱輕風",
   "dv2.ability.bladed_bow.1.1.0": "當你蹲下時，在你腳下製造一陣風以助緩降",
   "dv2.ability.bladed_bow.1.2.0": "(消耗 Mana)",
@@ -946,7 +946,7 @@
 
   "dv2.arrow.power.iron_arrow": "鐵箭",
   "dv2.arrow.power.steel_arrow": "鋼箭",
-  "dv2.arrow.power.gold_tipped_arrow": "黃金箭",
+  "dv2.arrow.power.gold_tipped_arrow": "鍍金箭",
   "dv2.arrow.power.lightweight_arrow": "輕型箭",
   "dv2.arrow.power.heavy_arrow": "重型箭",
 
