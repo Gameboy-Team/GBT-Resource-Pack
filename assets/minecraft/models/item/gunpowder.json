@@ -10,7 +10,7 @@
         {"predicate": {"custom_model_data":100003}, "model": "rpg/item/powder/wind"},
         {"predicate": {"custom_model_data":100004}, "model": "rpg/item/powder/earth"},
         {"predicate": {"custom_model_data":100005}, "model": "rpg/item/powder/light"},
-        {"predicate": {"custom_model_data":100006}, "model": "rpg/item/powder/dark"}
+        {"predicate": {"custom_model_data":100006}, "model": "rpg/item/powder/dark"},
         {"predicate": {"custom_model_data":100007}, "model": "rpg/item/powder/super"}
     ]
 }
