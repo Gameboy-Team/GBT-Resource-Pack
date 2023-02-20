@@ -805,16 +805,16 @@
 
 
   "dv2.weapon.shield.bladed_shield.fire": "盾刃 <火>",
-  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的加護",
 
   "dv2.weapon.shield.bladed_shield.water": "盾刃 <水>",
-  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的加護",
 
   "dv2.weapon.shield.bladed_shield.wind": "盾刃 <風>",
-  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的加護",
 
   "dv2.weapon.shield.bladed_shield.earth": "盾刃 <土>",
-  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的幫助",
+  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的加護",
 
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
   "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
