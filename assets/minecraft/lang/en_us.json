@@ -498,7 +498,6 @@
   "rpg.effects.fission": "Fission",
   "rpg.effects.sprout": "Sprout",
 
-
   "rpg.equipment.main_hand": "Main Hand",
   "rpg.equipment.offhand": "Offhand",
   "rpg.equipment.bow": "Bow",
@@ -508,6 +507,8 @@
   "rpg.equipment.leggings": "Leggings",
   "rpg.equipment.boots": "Boots",
 
+
+  "dv2.dummy.feedback": "Damage Dealt: ",
 
   "dv2.debug.commandsigns.gamemodes.1": "[Gamemode] Teams",
   "dv2.debug.commandsigns.gamemodes.feedback.1": "Changed Gamemode to Teams.",
@@ -579,6 +580,10 @@
 
   "dv2.display.shop.failed.1": "[Shop] ",
   "dv2.display.shop.failed.2": "You do not have enough currency!",
+  
+  "dv2.display.allocate_point.failed": "You do not have enough points!",
+  "dv2.display.allocate_point.reset": "  [RESET]",
+  
 
   "dv2.display.weapon.bow": "Bow",
   "dv2.display.weapon.melee": "Melee",

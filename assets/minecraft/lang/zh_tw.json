@@ -337,7 +337,47 @@
   "rpg.effects.decay": "枯毀",
   "rpg.effects.fission": "炸裂",
   "rpg.effects.sprout": "萌芽",
+  
+  "rpg.equipment.main_hand": "慣用手",
+  "rpg.equipment.offhand": "非慣用手",
+  "rpg.equipment.bow": "弓",
+  "rpg.equipment.wand": "法杖",
+  "rpg.equipment.helmet": "頭盔",
+  "rpg.equipment.chestplate": "胸甲",
+  "rpg.equipment.leggings": "護腿",
+  "rpg.equipment.boots": "靴子",
 
+
+  "dv2.dummy.feedback": "造成傷害：",
+
+  "dv2.debug.commandsigns.gamemodes.1": "[遊戲模式] 團隊模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.1": "遊戲模式 已更改至 團隊模式。",
+  "dv2.debug.commandsigns.gamemodes.2": "[遊戲模式] 奪命模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.2": "遊戲模式 已更改至 奪命模式。",
+  "dv2.debug.commandsigns.gamemodes.3": "[遊戲模式] 經典模式",
+  "dv2.debug.commandsigns.gamemodes.feedback.3": "遊戲模式 已更改至 經典模式。",
+
+  "dv2.debug.commandsigns.maps.1": "[地圖] 高山",
+  "dv2.debug.commandsigns.maps.feedback.1": "已選擇 高山 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.2": "[地圖] 沙漠",
+  "dv2.debug.commandsigns.maps.feedback.2": "已選擇 沙漠 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.3": "[地圖] 大宅",
+  "dv2.debug.commandsigns.maps.feedback.3": "已選擇 大宅 為遊戲場地。",
+  "dv2.debug.commandsigns.maps.4": "[地圖] 海島",
+  "dv2.debug.commandsigns.maps.feedback.4": "已選擇 海島 為遊戲場地。",
+
+  "dv2.game.start.1": "遊戲開始！",
+  "dv2.game.end.1": "遊戲強制完結！",
+
+  "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
+  "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
+  "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
+  "dv2.game.stage.process.lifesteal.feedback.4": "你已經被淘汰。",
+  "dv2.game.stage.process.lifesteal.feedback.5": " 已經被淘汰！",
+  "dv2.game.stage.process.lifesteal.feedback.6": "奪命模式",
+  "dv2.game.stage.process.lifesteal.feedback.7": "所有人減少一條命",
+
+  "dv2.game.stage.process.capture.feedback.1": "佔點",
 
   "dv2.kits.berserker.1": "狂戰士 1",
   "dv2.kits.berserker.2": "狂戰士 2",
@@ -380,6 +420,10 @@
 
   "dv2.display.shop.failed.1": "[商店] ",
   "dv2.display.shop.failed.2": "你沒有足夠的點數！",
+  
+  
+  "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
+  "dv2.display.allocate_point.reset": "  [重設]",
 
   "dv2.display.weapon.bow": "弓",
   "dv2.display.weapon.melee": "近戰武器",
@@ -415,43 +459,6 @@
   "dv2.display.loadout.set_loadout.lore": "[雙擊] 以移除此配置",
 
 
-  "rpg.equipment.main_hand": "慣用手",
-  "rpg.equipment.offhand": "非慣用手",
-  "rpg.equipment.bow": "弓",
-  "rpg.equipment.wand": "法杖",
-  "rpg.equipment.helmet": "頭盔",
-  "rpg.equipment.chestplate": "胸甲",
-  "rpg.equipment.leggings": "護腿",
-  "rpg.equipment.boots": "靴子",
-
-  "dv2.debug.commandsigns.gamemodes.1": "[遊戲模式] 團隊模式",
-  "dv2.debug.commandsigns.gamemodes.feedback.1": "遊戲模式 已更改至 團隊模式。",
-  "dv2.debug.commandsigns.gamemodes.2": "[遊戲模式] 奪命模式",
-  "dv2.debug.commandsigns.gamemodes.feedback.2": "遊戲模式 已更改至 奪命模式。",
-  "dv2.debug.commandsigns.gamemodes.3": "[遊戲模式] 經典模式",
-  "dv2.debug.commandsigns.gamemodes.feedback.3": "遊戲模式 已更改至 經典模式。",
-
-  "dv2.debug.commandsigns.maps.1": "[地圖] 高山",
-  "dv2.debug.commandsigns.maps.feedback.1": "已選擇 高山 為遊戲場地。",
-  "dv2.debug.commandsigns.maps.2": "[地圖] 沙漠",
-  "dv2.debug.commandsigns.maps.feedback.2": "已選擇 沙漠 為遊戲場地。",
-  "dv2.debug.commandsigns.maps.3": "[地圖] 大宅",
-  "dv2.debug.commandsigns.maps.feedback.3": "已選擇 大宅 為遊戲場地。",
-  "dv2.debug.commandsigns.maps.4": "[地圖] 海島",
-  "dv2.debug.commandsigns.maps.feedback.4": "已選擇 海島 為遊戲場地。",
-
-  "dv2.game.start.1": "遊戲開始！",
-  "dv2.game.end.1": "遊戲強制完結！",
-
-  "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
-  "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
-  "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
-  "dv2.game.stage.process.lifesteal.feedback.4": "你已經被淘汰。",
-  "dv2.game.stage.process.lifesteal.feedback.5": " 已經被淘汰！",
-  "dv2.game.stage.process.lifesteal.feedback.6": "奪命模式",
-  "dv2.game.stage.process.lifesteal.feedback.7": "所有人減少一條命",
-
-  "dv2.game.stage.process.capture.feedback.1": "佔點",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
