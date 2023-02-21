@@ -695,14 +695,14 @@
 
   "dv2.ability.excalibur.2.0.0": "Glory of Justice",
   "dv2.ability.excalibur.2.1.0": "Gain ",
-  "dv2.ability.excalibur.2.1.1": "10 Light DMG <+2.0 EM>",
+  "dv2.ability.excalibur.2.1.1": "2 Light DMG <+8.0 EM>",
   "dv2.ability.excalibur.2.1.2": " when your HP falls below 40%.",
 
   "dv2.weapon.melee.leaf_steel_sword": "Leaf Steel Sword",
   "dv2.weapon.melee.leaf_steel_sword.description":"Make with steel rich in Earth element.",
   "dv2.ability.leaf_steel_sword.1.0.0":"Bounty From Earth",
   "dv2.ability.leaf_steel_sword.1.1.0":"Increase 20% Your",
-  "dv2.ability.leaf_steel_sword.1.1.1":" Icoming Heal ",
+  "dv2.ability.leaf_steel_sword.1.1.1":" Incoming Heal ",
   "dv2.ability.leaf_steel_sword.1.1.2":"When your Max HP less than 105.",
 
   "dv2.weapon.melee.blaze_sword":"Blaze Sword",
@@ -1077,7 +1077,7 @@
   "dv2.ability.magic_beam.1.0.0": "Skill: Magic Beam",
   "dv2.ability.magic_beam.1.1.0": "Shoots out lasers.",
   "dv2.ability.magic_beam.1.2.0": "Cost: ",
-  "dv2.ability.magic_beam.1.2.1": "150 Mana",
+  "dv2.ability.magic_beam.1.2.1": "%s Mana",
 
   "dv2.weapon.wand.healing_wand": "Healing Wand",
   "dv2.weapon.wand.healing_staff": "Healing Staff",
