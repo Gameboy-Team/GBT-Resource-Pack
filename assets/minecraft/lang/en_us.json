@@ -1052,27 +1052,23 @@
 
 
 
-
   "dv2.weapon.wand.scholar_wand.regular": "Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.fire": "Ignis Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.water": "Aqua Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.wind": "Ventus Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.earth": "Terra Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.light": "Lux Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.dark": "Tenebris Scholar Wand",
-  "dv2.weapon.wand.scholar_wand.rainbow": "Rainbow Wand",
-
-  "dv2.weapon.wand.staff_of_terrestria": "Staff of Terrestria",
-  
   "dv2.weapon.wand.scholar_wand.regular.description": "Toddler's Toy",
+  "dv2.weapon.wand.scholar_wand.fire": "Ignis Scholar Wand",
   "dv2.weapon.wand.scholar_wand.fire.description": "Adding a sprinkle of magical flame...",
+  "dv2.weapon.wand.scholar_wand.water": "Aqua Scholar Wand",
   "dv2.weapon.wand.scholar_wand.water.description": "With the control of liquids...",
+  "dv2.weapon.wand.scholar_wand.wind": "Ventus Scholar Wand",
   "dv2.weapon.wand.scholar_wand.wind.description": "Along with the wind...",
+  "dv2.weapon.wand.scholar_wand.earth": "Terra Scholar Wand",
   "dv2.weapon.wand.scholar_wand.earth.description": "Harness the powers of the forest...",
+  "dv2.weapon.wand.scholar_wand.light": "Lux Scholar Wand",
   "dv2.weapon.wand.scholar_wand.light.description": "With Glory and Justice...",
+  "dv2.weapon.wand.scholar_wand.dark": "Tenebris Scholar Wand",
   "dv2.weapon.wand.scholar_wand.dark.description": "Into the dark side...",
+  "dv2.weapon.wand.scholar_wand.rainbow": "Rainbow Wand",
   "dv2.weapon.wand.scholar_wand.rainbow.description": "upside down t go brrr",
-  "dv2.weapon.wand.staff_of_terrestria.description": "Feel the Power from Nature!",
+
 
   "dv2.ability.magic_beam.1.0.0": "Skill: Magic Beam",
   "dv2.ability.magic_beam.1.1.0": "Shoots out lasers.",
@@ -1089,6 +1085,10 @@
   "dv2.ability.healing_beam.1.3.0": "Cost: ",
   "dv2.ability.healing_beam.1.3.1": "%s Mana",
   "dv2.ability.healing_beam.1.4.0": "(Cooldown: %s%s%ss)",
+
+
+  "dv2.weapon.wand.staff_of_terrestria": "Staff of Terrestria",
+  "dv2.weapon.wand.staff_of_terrestria.description": "Feel the Power from Nature!",
   
   "dv2.ability.rock_throw.1.0.0": "Skill: Rock Throw",
   "dv2.ability.rock_throw.1.1.0": "Able to throw out rocks.",
@@ -1109,6 +1109,24 @@
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
+  "dv2.weapon.wand.virtuoso.nocturne": "Virtuoso <Nocturne>",
+  "dv2.weapon.wand.virtuoso.nocturne.description": "Thoughts do race wild till dawn breaks.",
+  "dv2.ability.virtuoso.nocturne.1.0.0": "",
+
+
+  "dv2.weapon.wand.virtuoso.requiem": "Virtuoso <Requiem>",
+  "dv2.weapon.wand.virtuoso.requiem.description": "Grant solace to the forlorn soul.",
+  "dv2.ability.virtuoso.requiem.1.0.0": "",
+
+
+  "dv2.weapon.wand.virtuoso.aria": "Virtuoso <Aria>",
+  "dv2.weapon.wand.virtuoso.aria.description": "A lone carol sung, voicing heart's solitude.",
+  "dv2.ability.virtuoso.aria.1.0.0": "",
+
+
+  "dv2.weapon.wand.virtuoso.waltz": "Virtuoso <Waltz>",
+  "dv2.weapon.wand.virtuoso.waltz.description": "With joyful steps, twere a glee festival.",
+  "dv2.ability.virtuoso.waltz.1.0.0": "",
 
 
 
