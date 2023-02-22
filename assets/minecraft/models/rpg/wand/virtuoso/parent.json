@@ -1,8 +1,8 @@
 {
 	"credit": "Made by lavafoxerex",
 	"textures": {
-		"0": "rpg/wand/silencer/silencer1",
-		"particle": "rpg/wand/silencer/silencer1"
+		"0": "rpg/wand/virtuoso/virtuoso1",
+		"particle": "rpg/wand/virtuoso/virtuoso1"
 	},
 	"elements": [
 		{

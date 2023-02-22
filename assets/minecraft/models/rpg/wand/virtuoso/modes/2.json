@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/wand/virtuoso/parent",
+	"textures": {
+		"0": "rpg/wand/virtuoso/virtuoso2",
+		"particle": "rpg/wand/virtuoso/virtuoso2"
+	}
+}
