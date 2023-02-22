@@ -677,7 +677,7 @@
   "dv2.ability.dark_knife.2.1.0": "When holding this weapon while being ",
   "dv2.ability.dark_knife.2.1.2": ",",
   "dv2.ability.dark_knife.2.2.0": "you will receive ",
-  "dv2.ability.dark_knife.2.2.1": "1 Dark DMG",
+  "dv2.ability.dark_knife.2.2.1": "2 Dark DMG",
   "dv2.ability.dark_knife.2.2.2": " and ",
   "dv2.ability.dark_knife.2.2.3": "20% SPD",
   "dv2.ability.dark_knife.2.2.4": ".",
@@ -760,7 +760,7 @@
 
   "dv2.ability.soul_scythe.1.0.0": "Divine Soul",
   "dv2.ability.soul_scythe.1.1.0": "Increases ",
-  "dv2.ability.soul_scythe.1.1.2": "2 Dark DMG ",
+  "dv2.ability.soul_scythe.1.1.2": "1 Dark DMG ",
   "dv2.ability.soul_scythe.1.1.4": "per kill. (Max 5)",
 
   "dv2.ability.soul_scythe.2.0.0": "Soul Seeker",

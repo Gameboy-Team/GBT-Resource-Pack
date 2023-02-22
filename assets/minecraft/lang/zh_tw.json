@@ -513,7 +513,7 @@
   "dv2.ability.dark_knife.2.1.0": "在",
   "dv2.ability.dark_knife.2.1.2": "狀態下手持此武器時",
   "dv2.ability.dark_knife.2.2.0": "將會被增益",
-  "dv2.ability.dark_knife.2.2.1": " 1點暗屬性DMG",
+  "dv2.ability.dark_knife.2.2.1": " 2點暗屬性DMG",
   "dv2.ability.dark_knife.2.2.2": " 和 ",
   "dv2.ability.dark_knife.2.2.3": "20% SPD",
   "dv2.ability.dark_knife.2.2.4": "",
@@ -596,8 +596,8 @@
 
   "dv2.ability.soul_scythe.1.0.0": "聚魂者",
   "dv2.ability.soul_scythe.1.1.0": "每次擊殺都會增加 ",
-  "dv2.ability.soul_scythe.1.1.2": " DMG 和 ",
-  "dv2.ability.soul_scythe.1.1.4": " STR (最多5次)",
+  "dv2.ability.soul_scythe.1.1.2": " 1 Dark DMG",
+  "dv2.ability.soul_scythe.1.1.4": "(最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
   "dv2.ability.soul_scythe.2.1.0": "當自身血量低於",
