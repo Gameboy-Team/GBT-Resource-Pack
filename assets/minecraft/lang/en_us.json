@@ -1110,7 +1110,9 @@
 
 
 
-  "dv2.weapon.wand.virtuoso.nocturne": "Virtuoso: Nocturne",
+  "dv2.weapon.wand.virtuoso": "Virtuoso: %s",
+
+  "dv2.weapon.wand.virtuoso.nocturne": "Nocturne",
   "dv2.weapon.wand.virtuoso.nocturne.description": "Thoughts do race wild till dawn breaks.",
   "dv2.ability.virtuoso.nocturne.1.0.0": "Nocturne",
   "dv2.ability.virtuoso.nocturne.1.1.0": "Shoot out a magic ball.",
@@ -1123,7 +1125,7 @@
   "dv2.ability.virtuoso.nocturne.1.5.0": "(Cooldown: %s%s%ss)",
 
 
-  "dv2.weapon.wand.virtuoso.requiem": "Virtuoso: Requiem",
+  "dv2.weapon.wand.virtuoso.requiem": "Requiem",
   "dv2.weapon.wand.virtuoso.requiem.description": "Grant solace to the forlorn soul.",
   "dv2.ability.virtuoso.requiem.1.0.0": "Requiem",
   "dv2.ability.virtuoso.requiem.1.1.0": "Shoot out a magic ball.",
@@ -1139,7 +1141,7 @@
   "dv2.ability.virtuoso.requiem.1.6.0": "(Cooldown: %s%s%ss)",
   
 
-  "dv2.weapon.wand.virtuoso.aria": "Virtuoso: Aria",
+  "dv2.weapon.wand.virtuoso.aria": "Aria",
   "dv2.weapon.wand.virtuoso.aria.description": "A lone carol sung, voicing heart's solitude.",
   "dv2.ability.virtuoso.aria.1.0.0": "Aria",
   "dv2.ability.virtuoso.aria.1.1.0": "Shoot out a magic ball.",
