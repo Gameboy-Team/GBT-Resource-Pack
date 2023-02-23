@@ -940,24 +940,45 @@
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
-  "dv2.weapon.wand.virtuoso": "演奏家：%s",
 
-  "dv2.weapon.wand.virtuoso.nocturne": "夜想曲",
+  "dv2.weapon.wand.virtuoso.nocturne": "演奏家：夜想曲",
   "dv2.weapon.wand.virtuoso.nocturne.description": "思念於晚空狂奔，直到黎明破曉。",
   "dv2.ability.virtuoso.nocturne.1.0.0": "夜想曲",
-  "dv2.ability.virtuoso.nocturne.1.1.0": "4r",
+  "dv2.ability.virtuoso.nocturne.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.nocturne.1.2.0": "一旦落地，在3秒內半徑4格範圍内的敵人的 ",
+  "dv2.ability.virtuoso.nocturne.1.2.1": "SPD",
+  "dv2.ability.virtuoso.nocturne.1.2.2": "",
+  "dv2.ability.virtuoso.nocturne.1.3.0": "將會被減少 5%",
+  "dv2.ability.virtuoso.nocturne.1.4.0": "消耗：",
+  "dv2.ability.virtuoso.nocturne.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.nocturne.1.5.0": "(冷卻：%s%s%s秒)",
 
 
-  "dv2.weapon.wand.virtuoso.requiem": "鎮魂曲",
+  "dv2.weapon.wand.virtuoso.requiem": "演奏家：鎮魂曲",
   "dv2.weapon.wand.virtuoso.requiem.description": "賜予孤寂的荒魂以慰藉。",
   "dv2.ability.virtuoso.requiem.1.0.0": "鎮魂曲",
-  "dv2.ability.virtuoso.requiem.1.1.0": "3r",
+  "dv2.ability.virtuoso.requiem.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.requiem.1.2.0": "一旦落地，在2秒內半徑3格範圍内的敵人的 ",
+  "dv2.ability.virtuoso.requiem.1.2.1": "SPD",
+  "dv2.ability.virtuoso.requiem.1.2.2": "",
+  "dv2.ability.virtuoso.requiem.1.3.0": "將會被減少 100%",
+  "dv2.ability.virtuoso.requiem.1.4.0": "同時給予敵人1秒的",
+  "dv2.ability.virtuoso.requiem.1.4.1": "致盲",
+  "dv2.ability.virtuoso.requiem.1.4.2": "效果",
+  "dv2.ability.virtuoso.requiem.1.5.0": "消耗：",
+  "dv2.ability.virtuoso.requiem.1.5.1": "%s Mana",
+  "dv2.ability.virtuoso.requiem.1.6.0": "(冷卻：%s%s%s秒)",
 
 
-  "dv2.weapon.wand.virtuoso.aria": "詠嘆調",
+  "dv2.weapon.wand.virtuoso.aria": "演奏家：詠嘆調",
   "dv2.weapon.wand.virtuoso.aria.description": "孤獨的頌歌，唱出心中的孤寂。",
   "dv2.ability.virtuoso.aria.1.0.0": "詠嘆調",
-  "dv2.ability.virtuoso.aria.1.1.0": "5r",
+  "dv2.ability.virtuoso.aria.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.aria.1.2.0": "一旦落地，半徑5格範圍内",
+  "dv2.ability.virtuoso.aria.1.3.0": "的敵人及隊友將會被彈走",
+  "dv2.ability.virtuoso.aria.1.4.0": "消耗：",
+  "dv2.ability.virtuoso.aria.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.aria.1.5.0": "(冷卻：%s%s%s秒)",
 
 
 

@@ -1109,24 +1109,45 @@
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
-  "dv2.weapon.wand.virtuoso": "Virtuoso: %s",
 
-  "dv2.weapon.wand.virtuoso.nocturne": "Nocturne",
+  "dv2.weapon.wand.virtuoso.nocturne": "Virtuoso: Nocturne",
   "dv2.weapon.wand.virtuoso.nocturne.description": "Thoughts do race wild till dawn breaks.",
   "dv2.ability.virtuoso.nocturne.1.0.0": "Nocturne",
-  "dv2.ability.virtuoso.nocturne.1.1.0": "4r",
-  
+  "dv2.ability.virtuoso.nocturne.1.1.0": "Shoot out a magic ball.",
+  "dv2.ability.virtuoso.nocturne.1.2.0": "Once landed, it'll reduce enemies' ",
+  "dv2.ability.virtuoso.nocturne.1.2.1": "SPD ",
+  "dv2.ability.virtuoso.nocturne.1.2.2": "in an",
+  "dv2.ability.virtuoso.nocturne.1.3.0": "area of 4 blocks radius by 5% for 3 seconds.",
+  "dv2.ability.virtuoso.nocturne.1.4.0": "Cost: ",
+  "dv2.ability.virtuoso.nocturne.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.nocturne.1.5.0": "(Cooldown: %s%s%ss)",
 
-  "dv2.weapon.wand.virtuoso.requiem": "Requiem",
+
+  "dv2.weapon.wand.virtuoso.requiem": "Virtuoso: Requiem",
   "dv2.weapon.wand.virtuoso.requiem.description": "Grant solace to the forlorn soul.",
   "dv2.ability.virtuoso.requiem.1.0.0": "Requiem",
-  "dv2.ability.virtuoso.requiem.1.1.0": "3r",
+  "dv2.ability.virtuoso.requiem.1.1.0": "Shoot out a magic ball.",
+  "dv2.ability.virtuoso.requiem.1.2.0": "Once landed, it'll reduce enemies' ",
+  "dv2.ability.virtuoso.requiem.1.2.1": "SPD ",
+  "dv2.ability.virtuoso.requiem.1.2.2": "in an",
+  "dv2.ability.virtuoso.requiem.1.3.0": "area of 3 blocks radius by 100% for 3 seconds",
+  "dv2.ability.virtuoso.requiem.1.4.0": "and give them ",
+  "dv2.ability.virtuoso.requiem.1.4.1": "blindness ",
+  "dv2.ability.virtuoso.requiem.1.4.2": "effect for 1 second.",
+  "dv2.ability.virtuoso.requiem.1.5.0": "Cost: ",
+  "dv2.ability.virtuoso.requiem.1.5.1": "%s Mana",
+  "dv2.ability.virtuoso.requiem.1.6.0": "(Cooldown: %s%s%ss)",
   
 
-  "dv2.weapon.wand.virtuoso.aria": "Aria",
+  "dv2.weapon.wand.virtuoso.aria": "Virtuoso: Aria",
   "dv2.weapon.wand.virtuoso.aria.description": "A lone carol sung, voicing heart's solitude.",
   "dv2.ability.virtuoso.aria.1.0.0": "Aria",
-  "dv2.ability.virtuoso.aria.1.1.0": "5r",
+  "dv2.ability.virtuoso.aria.1.1.0": "Shoot out a magic ball.",
+  "dv2.ability.virtuoso.aria.1.2.0": "Once landed, it'll make enemies and allies",
+  "dv2.ability.virtuoso.aria.1.3.0": "in an area of 5 blocks radius bounce away.",
+  "dv2.ability.virtuoso.aria.1.4.0": "Cost: ",
+  "dv2.ability.virtuoso.aria.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.aria.1.5.0": "(Cooldown: %s%s%ss)",
   
 
 
