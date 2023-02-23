@@ -940,24 +940,24 @@
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
-  "dv2.weapon.wand.virtuoso.nocturne": "演奏家 <夜想曲>",
+  "dv2.weapon.wand.virtuoso": "演奏家：%s",
+
+  "dv2.weapon.wand.virtuoso.nocturne": "夜想曲",
   "dv2.weapon.wand.virtuoso.nocturne.description": "思念於晚空狂奔，直到黎明破曉。",
-  "dv2.ability.virtuoso.nocturne.1.0.0": "",
+  "dv2.ability.virtuoso.nocturne.1.0.0": "夜想曲",
+  "dv2.ability.virtuoso.nocturne.1.1.0": "4r",
 
 
-  "dv2.weapon.wand.virtuoso.requiem": "演奏家 <鎮魂曲>",
+  "dv2.weapon.wand.virtuoso.requiem": "鎮魂曲",
   "dv2.weapon.wand.virtuoso.requiem.description": "賜予孤寂的荒魂以慰藉。",
-  "dv2.ability.virtuoso.requiem.1.0.0": "",
+  "dv2.ability.virtuoso.requiem.1.0.0": "鎮魂曲",
+  "dv2.ability.virtuoso.requiem.1.1.0": "3r",
 
 
-  "dv2.weapon.wand.virtuoso.aria": "演奏家 <詠嘆調>",
+  "dv2.weapon.wand.virtuoso.aria": "詠嘆調",
   "dv2.weapon.wand.virtuoso.aria.description": "孤獨的頌歌，唱出心中的孤寂。",
-  "dv2.ability.virtuoso.aria.1.0.0": "",
-
-
-  "dv2.weapon.wand.virtuoso.waltz": "演奏家 <華爾茲>",
-  "dv2.weapon.wand.virtuoso.waltz.description": "伴隨著歡快的腳步，那曾是個歡樂的節日。",
-  "dv2.ability.virtuoso.waltz.1.0.0": "",
+  "dv2.ability.virtuoso.aria.1.0.0": "詠嘆調",
+  "dv2.ability.virtuoso.aria.1.1.0": "5r",
 
 
 
