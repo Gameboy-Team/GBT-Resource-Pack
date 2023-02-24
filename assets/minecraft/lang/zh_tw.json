@@ -982,6 +982,8 @@
   "dv2.ability.virtuoso.aria.1.4.1": "%s Mana",
   "dv2.ability.virtuoso.aria.1.5.0": "(冷卻：%s%s%s秒)",
 
+  "dv2.weapon.wand.virtuoso.change":"(蹲下以切換夜想曲、鎮魂曲、詠嘆調三種模式)",
+
 
 
   "dv2.arrow.effects.burning_arrow": "燃燒箭",
