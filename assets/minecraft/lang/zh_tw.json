@@ -944,6 +944,7 @@
   "dv2.weapon.wand.virtuoso": "演奏家：%s",
 
   "dv2.weapon.wand.virtuoso.nocturne": "夜想曲",
+  "dv2.weapon.wand.virtuoso.nocturne.mode": "緩速",
   "dv2.weapon.wand.virtuoso.nocturne.description": "思念於晚空狂奔，直到黎明破曉。",
   "dv2.ability.virtuoso.nocturne.1.0.0": "夜想曲",
   "dv2.ability.virtuoso.nocturne.1.1.0": "射出一個魔球",
@@ -957,6 +958,7 @@
 
 
   "dv2.weapon.wand.virtuoso.requiem": "鎮魂曲",
+  "dv2.weapon.wand.virtuoso.requiem.mode": "干擾",
   "dv2.weapon.wand.virtuoso.requiem.description": "賜予孤寂的荒魂以慰藉。",
   "dv2.ability.virtuoso.requiem.1.0.0": "鎮魂曲",
   "dv2.ability.virtuoso.requiem.1.1.0": "射出一個魔球",
@@ -973,6 +975,7 @@
 
 
   "dv2.weapon.wand.virtuoso.aria": "詠嘆調",
+  "dv2.weapon.wand.virtuoso.aria.mode": "擊退",
   "dv2.weapon.wand.virtuoso.aria.description": "孤獨的頌歌，唱出心中的孤寂。",
   "dv2.ability.virtuoso.aria.1.0.0": "詠嘆調",
   "dv2.ability.virtuoso.aria.1.1.0": "射出一個魔球",
