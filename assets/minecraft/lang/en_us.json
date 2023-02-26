@@ -1109,7 +1109,6 @@
   "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
 
 
-
   "dv2.weapon.wand.virtuoso": "Virtuoso: %s",
 
   "dv2.weapon.wand.virtuoso.nocturne": "Nocturne",
@@ -1155,6 +1154,21 @@
   "dv2.ability.virtuoso.aria.1.5.0": "(Cooldown: %s%s%ss)",
 
   "dv2.weapon.wand.virtuoso.change":"(Sneak to cycle between 3 mode)",
+
+
+  "dv2.weapon.wand.waltz": "Waltz",
+  "dv2.weapon.wand.waltz.description": "With joyful steps, twere a glee festival.",
+
+  "dv2.ability.waltz.plague.1.0.0": "Waltzing Plague",
+  "dv2.ability.waltz.plague.1.1.0": "Waltzing Plague is a curse deal by ",
+  "dv2.ability.waltz.plague.1.1.1": "Frenzied Steps",
+
+
+  "dv2.ability.waltz.echo.1.0.0": "Echo of Waltz",
+  "dv2.ability.waltz.echo.1.1.0": "Shoot out a wave with range of 15 in 5ms⁻¹.",
+  "dv2.ability.waltz.echo.1.2.0": "",
+
+  "dv2.ability.waltz.steps.1.0.0": "Frenzied Steps",
 
 
 
