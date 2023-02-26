@@ -458,6 +458,16 @@
   "dv2.display.loadout.set_loadout": "設定配置",
   "dv2.display.loadout.set_loadout.lore": "[雙擊] 以移除此配置",
 
+  "dv2.ability.generic.no_nearby_enemies": "附近沒有敵人",
+  "dv2.ability.generic.ready": "技能現已準備就緒！",
+  "dv2.ability.generic.not_ready": "技能正在冷卻！",
+  "dv2.ability.generic.not_enough_health": "血量不足！",
+  "dv2.ability.generic.not_enough_stamina": "Stamina 不足！",
+  "dv2.ability.generic.not_enough_mana": "Mana 不足！",
+  "dv2.ability.generic.health_cost": "-%s Health",
+  "dv2.ability.generic.stamina_cost": "-%s Stamina",
+  "dv2.ability.generic.mana_cost": "-%s Mana",
+
 
 
 
@@ -932,7 +942,7 @@
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
   "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
-  "dv2.ability.staff_of_terrestria.3.1.0": "每顆被喚回的石塊將會增加你 10 DEF",
+  "dv2.ability.staff_of_terrestria.3.1.0": "喚回石塊將會增加你 20 DEF",
 
   "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
   "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
@@ -1013,16 +1023,6 @@
   "dv2.ability.waltz.plague.1.2.1": "將會造成額外的",
   "dv2.ability.waltz.plague.1.2.2": "4點暗屬性DMG",
   "dv2.ability.waltz.plague.1.2.3": "",
-
-  "dv2.ability.generic.no_nearby_enemies": "附近沒有敵人",
-  "dv2.ability.generic.ready": "技能現已準備就緒！",
-  "dv2.ability.generic.not_ready": "技能正在冷卻！",
-  "dv2.ability.generic.not_enough_health": "血量不足！",
-  "dv2.ability.generic.not_enough_stamina": "Stamina 不足！",
-  "dv2.ability.generic.not_enough_mana": "Mana 不足！",
-  "dv2.ability.generic.health_cost": "-%s Health",
-  "dv2.ability.generic.stamina_cost": "-%s Stamina",
-  "dv2.ability.generic.mana_cost": "-%s Mana",
 
 
 

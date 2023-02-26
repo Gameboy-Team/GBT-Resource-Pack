@@ -618,6 +618,16 @@
   "dv2.display.loadout.set_loadout": "Set Loadout",
   "dv2.display.loadout.set_loadout.lore": "[DOUBLE CLICK] to remove this kit",
 
+  "dv2.ability.generic.no_nearby_enemies": "No nearby enemies",
+  "dv2.ability.generic.ready": "Ability is now ready!",
+  "dv2.ability.generic.not_ready": "Ability is in cooldown!",
+  "dv2.ability.generic.not_enough_health": "Not enough Health!",
+  "dv2.ability.generic.not_enough_stamina": "Not enough Stamina!",
+  "dv2.ability.generic.not_enough_mana": "Not enough Mana!",
+  "dv2.ability.generic.health_cost": "-%s Health",
+  "dv2.ability.generic.stamina_cost": "-%s Stamina",
+  "dv2.ability.generic.mana_cost": "-%s Mana",
+
 
 
   
@@ -1101,7 +1111,7 @@
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
   "dv2.ability.staff_of_terrestria.3.0.0": "Defensive Nodes",
-  "dv2.ability.staff_of_terrestria.3.1.0": "Gain 10 DEF per rock homed to you.",
+  "dv2.ability.staff_of_terrestria.3.1.0": "Gain 20 DEF when rocks homed to you.",
 
   "dv2.ability.staff_of_terrestria.4.0.0": "Terrestrial Attack [SHIFT]",
   "dv2.ability.staff_of_terrestria.4.1.0": "Launch your homed rocks towards your opponent.",
@@ -1182,16 +1192,6 @@
   "dv2.ability.waltz.plague.1.2.1": " will deal extra ",
   "dv2.ability.waltz.plague.1.2.2": "4 Dark DMG",
   "dv2.ability.waltz.plague.1.2.3": ".",
-
-  "dv2.ability.generic.no_nearby_enemies": "No nearby enemies",
-  "dv2.ability.generic.ready": "Ability is now ready!",
-  "dv2.ability.generic.not_ready": "Ability is in cooldown!",
-  "dv2.ability.generic.not_enough_health": "Not enough Health!",
-  "dv2.ability.generic.not_enough_stamina": "Not enough Stamina!",
-  "dv2.ability.generic.not_enough_mana": "Not enough Mana!",
-  "dv2.ability.generic.health_cost": "-%s Health",
-  "dv2.ability.generic.stamina_cost": "-%s Stamina",
-  "dv2.ability.generic.mana_cost": "-%s Mana",
 
 
   
