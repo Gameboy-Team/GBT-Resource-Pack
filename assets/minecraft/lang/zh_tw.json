@@ -1014,6 +1014,17 @@
   "dv2.ability.waltz.plague.1.2.2": "4點暗屬性DMG",
   "dv2.ability.waltz.plague.1.2.3": "",
 
+  "dv2.ability.generic.no_nearby_enemies": "附近沒有敵人",
+  "dv2.ability.generic.ready": "技能現已準備就緒！",
+  "dv2.ability.generic.not_ready": "技能正在冷卻！",
+  "dv2.ability.generic.not_enough_health": "血量不足！",
+  "dv2.ability.generic.not_enough_stamina": "Stamina 不足！",
+  "dv2.ability.generic.not_enough_mana": "Mana 不足！",
+  "dv2.ability.generic.health_cost": "-%s Health",
+  "dv2.ability.generic.stamina_cost": "-%s Stamina",
+  "dv2.ability.generic.mana_cost": "-%s Mana",
+
+
 
 
   "dv2.arrow.effects.burning_arrow": "燃燒箭",
