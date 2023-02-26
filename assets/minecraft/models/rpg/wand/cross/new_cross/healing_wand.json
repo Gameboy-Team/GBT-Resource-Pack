@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/wand/cross/new_cross_parent",
+	"textures": {
+		"0": "rpg/wand/cross/healing_wand",
+		"particle": "rpg/wand/cross/healing_wand"
+	}
+}
