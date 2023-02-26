@@ -128,8 +128,7 @@
     {"predicate": {"custom_model_data":6901052}, "model": "rpg/wand/virtuoso/modes/1"},
     {"predicate": {"custom_model_data":6901054}, "model": "rpg/wand/virtuoso/modes/2"},
     {"predicate": {"custom_model_data":6901056}, "model": "rpg/wand/virtuoso/modes/3"},
-    {"predicate": {"custom_model_data":6901058}, "model": "rpg/wand/virtuoso/modes/4"},    
-    {"predicate": {"custom_model_data":6901060}, "model": "rpg/wand/virtuoso/modes/5"},
+    {"predicate": {"custom_model_data":6901058}, "model": "rpg/wand/waltz"},
 
     {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
     {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
