@@ -1003,7 +1003,7 @@
   "dv2.ability.waltz.steps.1.4.0": "的詛咒，詛咒最多可疊加5次",
   "dv2.ability.waltz.steps.1.5.0": "(每次附加詛咒之間有15秒的間隔)",
   "dv2.ability.waltz.steps.1.6.0": "一旦使用，使用者的ALL DMG將被減少50%",
-  "dv2.ability.waltz.steps.1.7.0": "消耗：",
+  "dv2.ability.waltz.steps.1.7.0": "消耗：至少",
   "dv2.ability.waltz.steps.1.7.1": "%s Mana",
   "dv2.ability.waltz.steps.1.8.0": "(冷卻：%s%s%s秒)",
 

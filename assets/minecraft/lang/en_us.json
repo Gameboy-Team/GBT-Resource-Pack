@@ -1172,7 +1172,7 @@
   "dv2.ability.waltz.steps.1.4.0": "35 seconds, which can be stacked up to 5 times.",
   "dv2.ability.waltz.steps.1.5.0": "(There's a 15-second interval between each curse addition.)",
   "dv2.ability.waltz.steps.1.6.0": "Once used, user's ALL DMG will be reduced by 50%.",
-  "dv2.ability.waltz.steps.1.7.0": "Cost: ",
+  "dv2.ability.waltz.steps.1.7.0": "Cost: At least ",
   "dv2.ability.waltz.steps.1.7.1": "%s Mana",
   "dv2.ability.waltz.steps.1.8.0": "(Cooldown: %s%s%ss)",
 
