@@ -1,8 +1,8 @@
 {
 	"credit": "Made by lavafoxerex",
 	"textures": {
-		"0": "rpg/wand/cross/nor",
-		"particle": "rpg/wand/cross/nor"
+		"0": "rpg/wand/cross/healing_scepter",
+		"particle": "rpg/wand/cross/healing_scepter"
 	},
 	"elements": [
 		{
@@ -346,16 +346,30 @@
 		},
 		{
 			"name": "octagon",
-			"from": [5.5, 19.72286, 7.75],
+			"from": [8.5, 19.72286, 7.75],
 			"to": [10.5, 20.75839, 8.25],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20.24063, 8]},
 			"faces": {
-				"north": {"uv": [9.5, 0, 14.5, 1.03553], "texture": "#0"},
+				"north": {"uv": [9, 0, 11, 1.03553], "texture": "#0"},
+				"east": {"uv": [9, 0, 9.5, 1.03553], "texture": "#0"},
+				"south": {"uv": [10.5, 0, 12.5, 1.03553], "texture": "#0"},
+				"west": {"uv": [9, 0, 9.5, 1.03553], "texture": "#0"},
+				"up": {"uv": [9, 0, 11, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9, 0, 11, 0.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [5.5, 19.72286, 7.75],
+			"to": [7.5, 20.75839, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20.24063, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 0, 12.5, 1.03553], "texture": "#0"},
 				"east": {"uv": [9.5, 0, 10, 1.03553], "texture": "#0"},
-				"south": {"uv": [9.5, 0, 14.5, 1.03553], "texture": "#0"},
-				"west": {"uv": [9.5, 0, 10, 1.03553], "texture": "#0"},
-				"up": {"uv": [9.5, 0, 14.5, 0.5], "texture": "#0"},
-				"down": {"uv": [9.5, 0, 14.5, 0.5], "texture": "#0"}
+				"south": {"uv": [9, 0, 11, 1.03553], "texture": "#0"},
+				"west": {"uv": [9, 0, 9.5, 1.03553], "texture": "#0"},
+				"up": {"uv": [9, 0, 11, 0.5], "texture": "#0"},
+				"down": {"uv": [9, 0, 11, 0.5], "texture": "#0"}
 			}
 		}
 	],
@@ -422,7 +436,7 @@
 							"name": "octagon",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [25, 26]
+							"children": [25, 26, 27]
 						},
 						{
 							"name": "octagon",
