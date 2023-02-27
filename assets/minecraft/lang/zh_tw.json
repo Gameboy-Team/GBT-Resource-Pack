@@ -1319,10 +1319,10 @@
   "dv2.artifacts.rose_of_void.1.0":"將半徑 7 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
-  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內敵人 40 全類型STR",
+  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 全類型STR",
 
-  "dv2.artifacts.drip_of_acheron":"Drip of Acheron",
-  "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 7 blocks radius.",
+  "dv2.artifacts.drip_of_acheron":"黃泉之淚",
+  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 7 格範圍內敵人的治療幅度降至 50%",
 
 
 
