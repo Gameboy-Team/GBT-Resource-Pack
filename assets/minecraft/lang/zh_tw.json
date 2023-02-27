@@ -547,8 +547,8 @@
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
   "dv2.weapon.melee.leaf_steel_sword.description":"用富含土系元素的鋼鐵製成。",
   "dv2.ability.leaf_steel_sword.1.0.0":"大自然的欣賜",
-  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於105時，",
-  "dv2.ability.leaf_steel_sword.1.1.1":"增加 20% ",
+  "dv2.ability.leaf_steel_sword.1.1.0":"當你的最大 HP 低於110時，",
+  "dv2.ability.leaf_steel_sword.1.1.1":"增加 30% ",
   "dv2.ability.leaf_steel_sword.1.1.2":"受治療量",
 
   "dv2.weapon.melee.blaze_sword":"熾焰劍",
@@ -606,7 +606,7 @@
 
   "dv2.ability.soul_scythe.1.0.0": "聚魂者",
   "dv2.ability.soul_scythe.1.1.0": "每次擊殺都會增加 ",
-  "dv2.ability.soul_scythe.1.1.2": " 1 Dark DMG",
+  "dv2.ability.soul_scythe.1.1.2": " 1.5 Dark DMG",
   "dv2.ability.soul_scythe.1.1.4": "(最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
@@ -1221,17 +1221,17 @@
   "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
-  "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15 DEF",
-  "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30 DEF",
+  "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15% DEF",
+  "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30% DEF",
   
   "dv2.artifacts.coward":"膽小鬼",
   "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 15% SPD",
   "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 30% SPD",
   
   "dv2.artifacts.shield.1":"盾牌 I",
-  "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 20 DEF",
+  "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 10 DEF",
   "dv2.artifacts.shield.2":"盾牌 II",
-  "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 30 DEF",
+  "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 20 DEF",
   "dv2.artifacts.shield.3":"盾牌 III",
   "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
     
@@ -1320,6 +1320,11 @@
 
   "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
   "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內敵人 40 全類型STR",
+
+  "dv2.artifacts.drip_of_acheron":"Drip of Acheron",
+  "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 7 blocks radius.",
+
+
 
   "dv2.artifacts.awakened":"覺者",
   "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",

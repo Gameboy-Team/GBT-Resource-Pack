@@ -711,9 +711,9 @@
   "dv2.weapon.melee.leaf_steel_sword": "Leaf Steel Sword",
   "dv2.weapon.melee.leaf_steel_sword.description":"Make with steel rich in Earth element.",
   "dv2.ability.leaf_steel_sword.1.0.0":"Bounty From Earth",
-  "dv2.ability.leaf_steel_sword.1.1.0":"Increase 20% Your",
+  "dv2.ability.leaf_steel_sword.1.1.0":"Increase 30% Your",
   "dv2.ability.leaf_steel_sword.1.1.1":" Incoming Heal ",
-  "dv2.ability.leaf_steel_sword.1.1.2":"When your Max HP less than 105.",
+  "dv2.ability.leaf_steel_sword.1.1.2":"When your Max HP less than 110.",
 
   "dv2.weapon.melee.blaze_sword":"Blaze Sword",
   "dv2.weapon.melee.blaze_sword.description":"Make with high quality blaze Powder.",
@@ -770,7 +770,7 @@
 
   "dv2.ability.soul_scythe.1.0.0": "Divine Soul",
   "dv2.ability.soul_scythe.1.1.0": "Increases ",
-  "dv2.ability.soul_scythe.1.1.2": "1 Dark DMG ",
+  "dv2.ability.soul_scythe.1.1.2": "1.5 Dark DMG ",
   "dv2.ability.soul_scythe.1.1.4": "per kill. (Max 5)",
 
   "dv2.ability.soul_scythe.2.0.0": "Soul Seeker",
@@ -1490,6 +1490,8 @@
   "dv2.artifacts.pearl_of_abyss":"Pearl of Abyss",
   "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 ALL STR in an area of 7 blocks radius.",
 
+  "dv2.artifacts.drip_of_acheron":"Drip of Acheron",
+  "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 7 blocks radius.",
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
