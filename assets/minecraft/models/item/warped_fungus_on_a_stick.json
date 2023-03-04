@@ -131,6 +131,7 @@
     {"predicate": {"custom_model_data":6901060}, "model": "rpg/wand/cross/new_cross/healing_wand"}, 
     {"predicate": {"custom_model_data":6901062}, "model": "rpg/wand/cross/new_cross/healing_staff"}, 
     {"predicate": {"custom_model_data":6901064}, "model": "rpg/wand/cross/new_cross/healing_scepter"}, 
+    {"predicate": {"custom_model_data":6901066}, "model": "rpg/misc/stone_ball"}, 
 
     {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
     {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
