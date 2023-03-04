@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/misc/parent_ball",
+	"textures": {
+		"0": "rpg/misc/polished_deepslate_wo_frame",
+		"particle": "rpg/misc/polished_deepslate_wo_frame"
+	}
+}

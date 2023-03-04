@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/misc/parent_ball",
+	"textures": {
+		"0": "block/ochre_froglight_side",
+		"particle": "block/ochre_froglight_side"
+	}
+}
